@@ -19,15 +19,9 @@ const messages: Message[] = [...dataMessages, ...dataRoadmap].sort((a, b) => {
 const archiveIndex: MessageArchive[] = dataArchive as MessageArchive[];
 
 export function getAllMessageStaticParams(): { id: string }[] {
-    const messageIds = messages
+    return messages
         .filter((item) => getMessageSource(item) === MessageSource.MessageCenter)
         .map((item) => ({ id: getMessageSlug(item) }));
-    const activeIds = new Set(messages.map((item) => item.Id));
-    const archiveIds = archiveIndex
-        .filter((item) => !activeIds.has(item.Id))
-        .map((item) => ({ id: getMessageSlug(item) }));
-
-    return [...messageIds, ...archiveIds];
 }
 
 export function getAllMessages(): Message[] {
@@ -65,6 +59,12 @@ export function getSimilarMessages(msgId: string, limit = 5): Message[] {
 
 export function getArchiveMessages(): MessageArchive[] {
     return archiveIndex;
+}
+
+export function isArchiveOnlyMessage(id: string): boolean {
+    const messageId = parseMessageIdFromSlug(id);
+    return archiveIndex.some((item) => item.Id === messageId) &&
+        !messages.some((item) => item.Id === messageId);
 }
 
 export function getMessageCounts() {
@@ -287,8 +287,6 @@ export function getAllVersionParams(source?: MessageSource): { id: string; captu
     return out;
 }
 
-const MAX_PAIRS_PER_MESSAGE = 20;
-
 export function getAllComparePairs(source?: MessageSource): { id: string; from: string; to: string }[] {
     const ids = listAllHistoryIds();
     const out: { id: string; from: string; to: string }[] = [];
@@ -297,20 +295,15 @@ export function getAllComparePairs(source?: MessageSource): { id: string; from: 
         if (!history || history.versions.length < 2) continue;
         const latest = history.versions[history.versions.length - 1]?.message ?? getMessageData(id);
         if (!historySourceMatches(id, latest, source)) continue;
-        // Cap to avoid combinatorial explosion on very volatile messages.
-        const versions = history.versions.length > MAX_PAIRS_PER_MESSAGE
-            ? history.versions.slice(history.versions.length - MAX_PAIRS_PER_MESSAGE)
-            : history.versions;
         const routeId = latest ? getMessageSlug(latest) : id.toLowerCase();
-        for (let i = 0; i < versions.length; i++) {
-            for (let j = 0; j < versions.length; j++) {
-                if (i === j) continue;
-                out.push({
-                    id: routeId,
-                    from: slugifyCapturedAt(versions[i].capturedAt),
-                    to: slugifyCapturedAt(versions[j].capturedAt),
-                });
-            }
+        const latestVersion = history.versions[history.versions.length - 1];
+        const olderVersions = history.versions.slice(0, -1);
+        for (const version of olderVersions) {
+            out.push({
+                id: routeId,
+                from: slugifyCapturedAt(version.capturedAt),
+                to: slugifyCapturedAt(latestVersion.capturedAt),
+            });
         }
     }
     return out;
@@ -366,7 +359,6 @@ function getKnownIds(): Set<string> {
     if (_knownIds) return _knownIds;
     const set = new Set<string>();
     for (const m of messages) set.add(m.Id);
-    for (const a of archiveIndex) set.add(a.Id);
     _knownIds = set;
     return set;
 }
@@ -406,30 +398,6 @@ function buildRelations(): RelationIndex {
     for (const m of messages) {
         scan(m.Id, m.Body?.Content);
         scan(m.Id, getMessageSummary(m));
-    }
-
-    // Archive-only ids: full body lives on disk; the slim index doesn't carry
-    // the body, so we read each archive file. This adds O(N) reads at first
-    // call but is amortized across the build.
-    const knownActiveIds = new Set(messages.map((m) => m.Id));
-    const archiveDir = path.join(process.cwd(), '@data', 'archive');
-    let archiveFiles: string[] = [];
-    try {
-        archiveFiles = fs.readdirSync(archiveDir).filter((f) => f.endsWith('.json'));
-    } catch {
-        archiveFiles = [];
-    }
-    for (const file of archiveFiles) {
-        const id = file.slice(0, -5);
-        if (knownActiveIds.has(id)) continue;
-        try {
-            const raw = fs.readFileSync(path.join(archiveDir, file), 'utf-8');
-            const msg = JSON.parse(raw) as Message;
-            scan(msg.Id, msg.Body?.Content);
-            scan(msg.Id, getMessageSummary(msg));
-        } catch {
-            // ignore
-        }
     }
 
     const sortIdsDesc = (a: string, b: string) => {

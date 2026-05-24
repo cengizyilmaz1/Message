@@ -65,12 +65,12 @@ function getMessageSourceLabel(item) {
     : "Message Center"
 }
 
-function toIndexRecord(item) {
+function toIndexRecord(item, url = getCanonicalMessageUrl(item, SITE_URL)) {
   return {
     Id: item.Id,
     Title: item.Title,
     Source: getMessageSource(item),
-    Url: getCanonicalMessageUrl(item, SITE_URL),
+    Url: url,
     Services: item.Services ?? [],
     StartDateTime: item.StartDateTime,
     EndDateTime: item.EndDateTime,
@@ -141,9 +141,11 @@ function main() {
   const activeIds = new Set([...messages, ...roadmap].map((item) => item.Id))
   const archiveOnly = readArchiveOnly(activeIds)
 
-  const indexRecords = sortByLatest([...messages, ...roadmap, ...archiveOnly]).map(
-    toIndexRecord
-  )
+  const indexRecords = sortByLatest([
+    ...messages.map((item) => toIndexRecord(item)),
+    ...roadmap.map((item) => toIndexRecord(item)),
+    ...archiveOnly.map((item) => toIndexRecord(item, `${SITE_URL}/archive`)),
+  ])
   const indexJson = JSON.stringify(indexRecords)
   fs.writeFileSync(path.join(DATA_DIR, "messages-index.json"), indexJson)
   fs.writeFileSync(path.join(PUBLIC_DIR, "messages-index.json"), indexJson)

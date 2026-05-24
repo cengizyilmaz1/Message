@@ -26,7 +26,6 @@ import {
 } from "lucide-react"
 
 import type { MessageArchive } from "@/types/message"
-import { getCanonicalMessagePath } from "@/lib/slugs.mjs"
 import { Input } from "@/components/ui/input"
 import {
   Table,
@@ -46,7 +45,7 @@ function toArchiveMessageView(item: MessageArchive): MessageView {
   return {
     id: item.Id,
     title: item.Title,
-    href: getCanonicalMessagePath(item),
+    href: "/archive",
     service: item.Services,
     category: item.Category,
     published: item.StartDateTime
@@ -500,11 +499,13 @@ export function DataTable({
                     </TableCell>
                   ))}
                   <TableCell className="hidden p-0 md:table-cell">
-                    <Link
-                      className="row-link"
-                      href={row.original.href}
-                      aria-label={`Open ${row.original.id}`}
-                    />
+                    {!row.original.isArchived && (
+                      <Link
+                        className="row-link"
+                        href={row.original.href}
+                        aria-label={`Open ${row.original.id}`}
+                      />
+                    )}
                   </TableCell>
                 </TableRow>
               ))
