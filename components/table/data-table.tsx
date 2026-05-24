@@ -295,7 +295,6 @@ export function DataTable({
   // Reset to page 1 when filters change
   React.useEffect(() => { setCurrentPage(1) }, [filteredData.length, query, selectedServices, sourceFilter])
 
-  // eslint-disable-next-line react-hooks/incompatible-library
   const table = useReactTable({
     data: filteredData,
     columns,

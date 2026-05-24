@@ -68,7 +68,6 @@ export default async function ServicePage({ params }: Props) {
       <section className="page-intro">
         <div className="flex flex-col gap-4">
           <div className="flex items-center gap-3">
-            {/* eslint-disable-next-line react-hooks/static-components */}
             <ServiceIcon size={36} className="text-primary" />
             <h1 className="page-title text-transparent bg-clip-text bg-gradient-to-br from-foreground to-foreground/70">
               {service}

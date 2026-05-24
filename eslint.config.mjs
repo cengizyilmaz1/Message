@@ -1,6 +1,12 @@
-import nextVitals from "eslint-config-next/core-web-vitals"
-import nextTypescript from "eslint-config-next/typescript"
+import { FlatCompat } from "@eslint/eslintrc"
 import prettier from "eslint-config-prettier/flat"
+import { dirname } from "path"
+import { fileURLToPath } from "url"
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const compat = new FlatCompat({
+  baseDirectory: __dirname,
+})
 
 const eslintConfig = [
   {
@@ -11,10 +17,10 @@ const eslintConfig = [
       "tailwind.config.js",
       "postcss.config.js",
       "prettier.config.js",
+      "next-env.d.ts",
     ],
   },
-  ...nextVitals,
-  ...nextTypescript,
+  ...compat.extends("next/core-web-vitals", "next/typescript"),
   prettier,
   {
     rules: {
