@@ -2281,15 +2281,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft Teams</category>
   </item>
   <item>
-    <title>MC1223829: Upcoming Conditional Access change: Improved enforcement for policies with resource exclusions</title>
-    <link>https://message.cengizyilmaz.net/message/mc1223829-upcoming-conditional-access-change-improved-enforcement-for-policies-with-resource-exclusions</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1223829-upcoming-conditional-access-change-improved-enforcement-for-policies-with-resource-exclusions</guid>
-    <pubDate>Wed, 13 May 2026 16:15:30 GMT</pubDate>
-    <description>Starting June 15, 2026, Conditional Access policies targeting All resources with exclusions will be enforced for sign-ins requesting only certain OIDC or directory scopes. Some users may face new challenges like MFA. Most organizations need no action, but custom apps requesting only these scopes should be evaluated.</description>
-    <category>Message Center</category>
-    <category>Microsoft Entra</category>
-  </item>
-  <item>
     <title>MC1309508: Updates available for Microsoft 365 Apps for Monthly Enterprise Channel</title>
     <link>https://message.cengizyilmaz.net/message/mc1309508-updates-available-for-microsoft-365-apps-for-monthly-enterprise-channel</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309508-updates-available-for-microsoft-365-apps-for-monthly-enterprise-channel</guid>
@@ -4627,6 +4618,15 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1296489-microsoft-365-copilot-anthropic-models-available-when-editing-word-documents</guid>
     <pubDate>Thu, 30 Apr 2026 16:21:40 GMT</pubDate>
     <description>Microsoft 365 Copilot will add Anthropic AI models as an option for Word document editing, available worldwide by late May 2026. Enabled by default outside the EU, EFTA, and UK, and disabled by default within these regions, admins can control this setting while existing security and compliance standards remain.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+  </item>
+  <item>
+    <title>MC1296488: Microsoft 365 Copilot (Premium): Teams meetings as a reference in Copilot Notebooks</title>
+    <link>https://message.cengizyilmaz.net/message/mc1296488-microsoft-365-copilot-premium-teams-meetings-as-a-reference-in-copilot-notebooks</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1296488-microsoft-365-copilot-premium-teams-meetings-as-a-reference-in-copilot-notebooks</guid>
+    <pubDate>Thu, 30 Apr 2026 16:21:12 GMT</pubDate>
+    <description>Microsoft 365 Copilot (Premium) will integrate Teams meeting content—transcripts, chats, and shared files—into Copilot Notebooks, enhancing context-based insights. Rolling out from April to May 2026, it respects existing permissions and governance, requires no admin setup, and is enabled by default for licensed users.</description>
     <category>Message Center</category>
     <category>Microsoft 365 apps</category>
   </item>
