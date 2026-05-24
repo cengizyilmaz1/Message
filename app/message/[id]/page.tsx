@@ -6,11 +6,9 @@ import { siteConfig } from "@/config/site"
 import {
   getAllMessageStaticParams,
   getFormattedDate,
-  getMessageDescription,
   getMessageData,
   getMessageSource,
   getMessageSourceLabel,
-  isArchiveOnlyMessage,
 } from "@/lib/messages"
 import { getCanonicalMessagePath } from "@/lib/slugs.mjs"
 import { MessageSource } from "@/types/message"
@@ -24,49 +22,12 @@ import {
   getMessageSeoDescription,
   getMessageSeoTitle,
 } from "@/lib/seo"
-import { formatCategoryLabel } from "@/lib/filters"
 
 type Props = {
   params: Promise<{ id: string }>
 }
 
 export const dynamicParams = false
-
-function ArchivedMetadata({ msg }: { msg: NonNullable<ReturnType<typeof getMessageData>> }) {
-  const rows = [
-    ["ID", msg.Id],
-    ["Source", "Message Center"],
-    ["Service", (msg.Services ?? []).join(", ")],
-    ["Category", formatCategoryLabel(msg.Category)],
-    ["Severity", msg.Severity || "normal"],
-    ["Last updated", getFormattedDate(msg.LastModifiedDateTime)],
-    ["Start date", getFormattedDate(msg.StartDateTime)],
-    ["End date", getFormattedDate(msg.EndDateTime)],
-  ].filter(([, value]) => value)
-
-  return (
-    <div className="flex flex-col w-full">
-      <div className="border-b border-border/60 px-4 py-3">
-        <h2 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-          Details
-        </h2>
-      </div>
-      <div className="px-4 py-1">
-        {rows.map(([label, value]) => (
-          <div
-            key={label}
-            className="grid grid-cols-[90px_1fr] gap-3 border-b border-border/60 py-2.5 last:border-0 items-start"
-          >
-            <span className="text-xs font-medium text-muted-foreground pt-0.5">
-              {label}
-            </span>
-            <span className="text-sm text-foreground">{value}</span>
-          </div>
-        ))}
-      </div>
-    </div>
-  )
-}
 
 export default async function Page({ params }: Props) {
   const { id } = await params
@@ -77,7 +38,6 @@ export default async function Page({ params }: Props) {
   const source = getMessageSource(msg)
   const sourceLabel = getMessageSourceLabel(msg)
   const isRoadmap = source === MessageSource.Roadmap
-  const isArchived = isArchiveOnlyMessage(msg.Id)
 
   const breadcrumbItems = isRoadmap
     ? [{ label: "Roadmap", href: "/roadmap" }, { label: msg.Id }]
@@ -124,30 +84,15 @@ export default async function Page({ params }: Props) {
           </h1>
         </div>
 
+        {/* Article + sidebar */}
         <div className="flex flex-col gap-8 lg:grid lg:grid-cols-[1fr_300px] lg:items-start">
           <div className="min-w-0">
-            {isArchived ? (
-              <section className="w-full rounded-xl border bg-card px-5 py-4 shadow-sm">
-                <h2 className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
-                  Archived record
-                </h2>
-                <p className="text-base leading-7 text-foreground/85">
-                  {getMessageDescription(msg) ||
-                    "This Message Center item is no longer active. The archive keeps its title, metadata, service classification, and timeline fields available for search and reference."}
-                </p>
-              </section>
-            ) : (
-              <MessageDetail id={msg.Id} />
-            )}
+            <MessageDetail id={msg.Id} />
           </div>
 
           <aside className="w-full lg:sticky lg:top-[4.5rem]">
             <div className="rounded-xl border bg-card shadow-sm overflow-hidden">
-              {isArchived ? (
-                <ArchivedMetadata msg={msg} />
-              ) : (
-                <MessageMetadata id={msg.Id} layout="stack" showHistoryLink />
-              )}
+              <MessageMetadata id={msg.Id} layout="stack" showHistoryLink />
             </div>
           </aside>
         </div>

@@ -39,7 +39,7 @@ export default function ArchivePage() {
           </div>
           <p className="page-description">
             Historical Message Center posts that are no longer active in the live
-            feed, kept as a searchable index for reference and citation.
+            feed, kept with stable detail pages for reference and citation.
           </p>
         </div>
       </section>

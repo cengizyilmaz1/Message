@@ -71,18 +71,12 @@ export const columns: ColumnDef<MessageView>[] = [
           </div>
 
           {/* Title */}
-          {row.original.isArchived ? (
-            <span className="line-clamp-2 text-[13.5px] font-semibold leading-snug text-foreground">
-              {row.original.title}
-            </span>
-          ) : (
-            <Link
-              href={row.original.href}
-              className="line-clamp-2 text-[13.5px] font-semibold leading-snug text-foreground transition-colors hover:text-primary"
-            >
-              {row.original.title}
-            </Link>
-          )}
+          <Link
+            href={row.original.href}
+            className="line-clamp-2 text-[13.5px] font-semibold leading-snug text-foreground transition-colors hover:text-primary"
+          >
+            {row.original.title}
+          </Link>
 
           {/* Mobile meta */}
           <div className="flex flex-wrap items-center gap-1.5 md:hidden">
@@ -159,17 +153,16 @@ export const columns: ColumnDef<MessageView>[] = [
   {
     id: "actions",
     header: () => <span className="sr-only">Actions</span>,
-    cell: ({ row }) =>
-      row.original.isArchived ? null : (
-        <div className="flex justify-end">
-          <Link
-            href={row.original.href}
-            className="inline-flex h-7 w-7 items-center justify-center rounded-md text-muted-foreground/30 transition-all group-hover:text-muted-foreground hover:bg-accent hover:text-foreground"
-            aria-label="View details"
-          >
-            <ArrowUpRight size={14} />
-          </Link>
-        </div>
-      ),
+    cell: ({ row }) => (
+      <div className="flex justify-end">
+        <Link
+          href={row.original.href}
+          className="inline-flex h-7 w-7 items-center justify-center rounded-md text-muted-foreground/30 transition-all group-hover:text-muted-foreground hover:bg-accent hover:text-foreground"
+          aria-label="View details"
+        >
+          <ArrowUpRight size={14} />
+        </Link>
+      </div>
+    ),
   },
 ]
