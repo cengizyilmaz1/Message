@@ -12,13 +12,51 @@ interface SearchItem {
   service: string[]
 }
 
-interface SearchCommandProps {
-  messages: SearchItem[]
+interface IndexRecord {
+  Id: string
+  Title: string
+  Source: string
+  Url: string
+  Services?: string[]
 }
 
-export function SearchCommand({ messages }: SearchCommandProps) {
+let searchItemsCache: SearchItem[] | null = null
+let searchItemsPromise: Promise<SearchItem[]> | null = null
+
+function toPath(url: string): string {
+  try {
+    return new URL(url).pathname
+  } catch {
+    return url || "/"
+  }
+}
+
+function loadSearchItems(): Promise<SearchItem[]> {
+  if (searchItemsCache) return Promise.resolve(searchItemsCache)
+  if (!searchItemsPromise) {
+    searchItemsPromise = fetch("/messages-index.json")
+      .then((response) => (response.ok ? response.json() : []))
+      .then((records: IndexRecord[]) => {
+        const items = records.map((record) => ({
+          id: record.Id,
+          title: record.Title,
+          href: toPath(record.Url),
+          source: record.Source,
+          service: record.Services ?? [],
+        }))
+        searchItemsCache = items
+        return items
+      })
+      .catch(() => [])
+  }
+  return searchItemsPromise
+}
+
+export function SearchCommand() {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState("")
+  const [messages, setMessages] = useState<SearchItem[]>(searchItemsCache ?? [])
+  const [loading, setLoading] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
@@ -41,6 +79,21 @@ export function SearchCommand({ messages }: SearchCommandProps) {
     if (open) {
       const focusTimer = setTimeout(() => inputRef.current?.focus(), 50)
       return () => clearTimeout(focusTimer)
+    }
+  }, [open])
+
+  useEffect(() => {
+    if (!open || searchItemsCache) return
+    let cancelled = false
+    setLoading(true)
+    loadSearchItems().then((items) => {
+      if (!cancelled) {
+        setMessages(items)
+        setLoading(false)
+      }
+    })
+    return () => {
+      cancelled = true
     }
   }, [open])
 
@@ -125,6 +178,10 @@ export function SearchCommand({ messages }: SearchCommandProps) {
               </li>
             ))}
           </ul>
+        ) : loading ? (
+          <div className="px-4 py-8 text-center text-sm text-muted-foreground">
+            Loading search index...
+          </div>
         ) : q.length >= 2 ? (
           <div className="px-4 py-8 text-center text-sm text-muted-foreground">
             No results for &ldquo;{query}&rdquo;

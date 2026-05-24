@@ -43,3 +43,5 @@ secrets-m365.json
 /site/.next
 /.next
 /out/
+/public/history/
+/public/message-paths.json

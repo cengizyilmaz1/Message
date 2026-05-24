@@ -271,6 +271,7 @@ function historySourceMatches(id: string, message: Message | undefined, source?:
 export function getAllVersionParams(source?: MessageSource): { id: string; capturedAt: string }[] {
     const ids = listAllHistoryIds();
     const out: { id: string; capturedAt: string }[] = [];
+    const seen = new Set<string>();
     for (const id of ids) {
         const history = getMessageHistory(id);
         if (!history || history.versions.length < 2) continue;
@@ -281,7 +282,11 @@ export function getAllVersionParams(source?: MessageSource): { id: string; captu
         if (!historySourceMatches(id, latest, source)) continue;
         const routeId = latest ? getMessageSlug(latest) : id.toLowerCase();
         for (const v of versions) {
-            out.push({ id: routeId, capturedAt: slugifyCapturedAt(v.capturedAt) });
+            const capturedAt = slugifyCapturedAt(v.capturedAt);
+            const key = `${routeId}/v/${capturedAt}`;
+            if (seen.has(key)) continue;
+            seen.add(key);
+            out.push({ id: routeId, capturedAt });
         }
     }
     return out;
@@ -292,6 +297,7 @@ const MAX_PAIRS_PER_MESSAGE = 20;
 export function getAllComparePairs(source?: MessageSource): { id: string; from: string; to: string }[] {
     const ids = listAllHistoryIds();
     const out: { id: string; from: string; to: string }[] = [];
+    const seen = new Set<string>();
     for (const id of ids) {
         const history = getMessageHistory(id);
         if (!history || history.versions.length < 2) continue;
@@ -302,13 +308,19 @@ export function getAllComparePairs(source?: MessageSource): { id: string; from: 
             ? history.versions.slice(history.versions.length - MAX_PAIRS_PER_MESSAGE)
             : history.versions;
         const routeId = latest ? getMessageSlug(latest) : id.toLowerCase();
-        for (let i = 0; i < versions.length; i++) {
-            for (let j = 0; j < versions.length; j++) {
+        const capturedAtSlugs = [...new Set(versions.map((version) => slugifyCapturedAt(version.capturedAt)))];
+        for (let i = 0; i < capturedAtSlugs.length; i++) {
+            for (let j = 0; j < capturedAtSlugs.length; j++) {
                 if (i === j) continue;
+                const from = capturedAtSlugs[i];
+                const to = capturedAtSlugs[j];
+                const key = `${routeId}/compare/${from}/${to}`;
+                if (seen.has(key)) continue;
+                seen.add(key);
                 out.push({
                     id: routeId,
-                    from: slugifyCapturedAt(versions[i].capturedAt),
-                    to: slugifyCapturedAt(versions[j].capturedAt),
+                    from,
+                    to,
                 });
             }
         }

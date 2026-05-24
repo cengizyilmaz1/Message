@@ -8,6 +8,8 @@ const ROOT = process.cwd()
 const DATA_DIR = path.join(ROOT, "@data")
 const PUBLIC_DIR = path.join(ROOT, "public")
 const ARCHIVE_DIR = path.join(DATA_DIR, "archive")
+const HISTORY_DIR = path.join(DATA_DIR, "history")
+const PUBLIC_HISTORY_DIR = path.join(PUBLIC_DIR, "history")
 const SITE_URL = process.env.SITE_URL || "https://message.cengizyilmaz.net"
 
 function readJson(file, fallback) {
@@ -135,6 +137,29 @@ function sortByLatest(items) {
   )
 }
 
+function writePublicHistory() {
+  fs.rmSync(PUBLIC_HISTORY_DIR, { force: true, recursive: true })
+  fs.mkdirSync(PUBLIC_HISTORY_DIR, { recursive: true })
+
+  if (!fs.existsSync(HISTORY_DIR)) {
+    console.log("[feeds] no history directory found")
+    return
+  }
+
+  let count = 0
+  for (const file of fs.readdirSync(HISTORY_DIR)) {
+    if (!file.endsWith(".json")) continue
+    const source = path.join(HISTORY_DIR, file)
+    const target = path.join(PUBLIC_HISTORY_DIR, file)
+    const history = readJson(source, null)
+    if (!history?.id || !Array.isArray(history.versions)) continue
+    fs.writeFileSync(target, JSON.stringify(history))
+    count += 1
+  }
+
+  console.log(`[feeds] wrote ${count} history files to public/history`)
+}
+
 function main() {
   const messages = readJson(path.join(DATA_DIR, "messages.json"), [])
   const roadmap = readJson(path.join(DATA_DIR, "roadmap.json"), [])
@@ -148,6 +173,20 @@ function main() {
   fs.writeFileSync(path.join(DATA_DIR, "messages-index.json"), indexJson)
   fs.writeFileSync(path.join(PUBLIC_DIR, "messages-index.json"), indexJson)
   console.log(`[feeds] wrote ${indexRecords.length} records to messages-index.json`)
+
+  const pathMap = Object.fromEntries(
+    indexRecords.map((record) => [
+      record.Id,
+      new URL(record.Url).pathname,
+    ])
+  )
+  fs.writeFileSync(
+    path.join(PUBLIC_DIR, "message-paths.json"),
+    JSON.stringify(pathMap)
+  )
+  console.log(`[feeds] wrote ${Object.keys(pathMap).length} message paths`)
+
+  writePublicHistory()
 
   const rssItems = sortByLatest([...messages, ...roadmap]).slice(0, 500)
   const lastBuildDate = rssItems[0] ? getRssDate(rssItems[0]) : new Date().toUTCString()
