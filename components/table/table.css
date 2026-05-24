@@ -1,0 +1,10 @@
+tbody tr {
+  position: relative;
+}
+
+.row-link {
+  position: absolute;
+  inset: 0;
+  content: "";
+}
+
