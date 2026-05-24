@@ -232,6 +232,33 @@ Do not copy or commit local/generated working directories and private files:
 - `@build/config-m365.json`
 - `@build/secrets-m365.json`
 
+### Original Creator
+- **Merill Fernando** - [@merill](https://github.com/merill)
+
+### Current Maintainer
+- **Cengiz YILMAZ** - [@cengizyilmaz1](https://github.com/cengizyilmaz1)
+- [Twitter](https://x.com/cengizyilmaz_) | [LinkedIn](https://linkedin.com/in/cengizyilmazz) | [Blog](https://cengizyilmaz.net) | [Message Center](https://message.cengizyilmaz.net)
+
+## 📝 License
+
+This project maintains the same open-source spirit as the original. Feel free to fork, modify, and share.
+
+## 🔗 Related Resources
+
+- [Microsoft 365 Admin Center](https://admin.microsoft.com)
+- [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap)
+- [Microsoft 365 Service Health](https://status.office365.com)
+- [Tenant Finder Tool](https://tenant-find.cengizyilmaz.net)
+
+## 💬 Feedback
+
+For feedback, suggestions, or issues:
+- Open an [issue](https://github.com/cengizyilmaz1/365MessageCenter/issues)
+- Connect on [LinkedIn](https://linkedin.com/in/cengizyilmazz)
+- Follow on [Twitter/X](https://x.com/cengizyilmaz_)
+
+---
+
 ## License
 
 This project keeps the MIT license notice intact where required.
