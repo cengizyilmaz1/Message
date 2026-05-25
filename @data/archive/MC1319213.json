@@ -14,7 +14,7 @@
     },
     {
       "Name": "FeatureStatusJson",
-      "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656704Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656706Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656707Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656708Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+      "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677272Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677273Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677274Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677275Z\",\"LatestRing\":\"TargetedRelease\"}]}"
     },
     {
       "Name": "Summary",

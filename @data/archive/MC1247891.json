@@ -14,7 +14,7 @@
     },
     {
       "Name": "FeatureStatusJson",
-      "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.965625Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656252Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656316Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T01:08:49.9656318Z\",\"LatestRing\":null}]}"
+      "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2676998Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2676999Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677025Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-25T03:20:39.2677026Z\",\"LatestRing\":null}]}"
     },
     {
       "Name": "Summary",
