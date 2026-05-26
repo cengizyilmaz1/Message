@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 26 May 2026 16:42:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 17:52:58 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1316228: Keyboard shortcut dialog has search functionality</title>
+    <link>https://message.cengizyilmaz.net/message/mc1316228-keyboard-shortcut-dialog-has-search-functionality</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1316228-keyboard-shortcut-dialog-has-search-functionality</guid>
+    <pubDate>Tue, 26 May 2026 17:52:58 GMT</pubDate>
+    <description>Microsoft Teams is adding search functionality to the Keyboard shortcuts dialog, allowing users to find shortcuts by action name or key combination. This feature, enabled by default, will roll out worldwide from early to late June 2026, improving shortcut discoverability and customization without changing existing workflows.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1230892: Microsoft 365 Copilot: Updated handling of entity inserts in the Copilot Chat input box</title>
     <link>https://message.cengizyilmaz.net/message/mc1230892-microsoft-365-copilot-updated-handling-of-entity-inserts-in-the-copilot-chat-input-box</link>
@@ -1019,15 +1028,6 @@
     <description>Microsoft Purview Data Security Investigations will add notifications for key events and improved query building, reducing manual monitoring and speeding investigations. These AI-enhanced features roll out worldwide from early to late June 2026, require no admin action, and improve compliance visibility and investigation efficiency.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1316228: Keyboard shortcut dialog has search functionality</title>
-    <link>https://message.cengizyilmaz.net/message/mc1316228-keyboard-shortcut-dialog-has-search-functionality</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1316228-keyboard-shortcut-dialog-has-search-functionality</guid>
-    <pubDate>Tue, 19 May 2026 22:01:59 GMT</pubDate>
-    <description>Microsoft Teams is adding search functionality to the Keyboard shortcuts dialog, allowing users to find shortcuts by action name or key combination. This feature, enabled by default, will roll out worldwide from June to July 2026 for Windows, Mac, and web versions, improving shortcut discoverability and customization.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
   </item>
   <item>
     <title>MC1301490: Dynamics 365 Commerce - Display distance in kilometers on the Store Commerce app</title>
