@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 26 May 2026 17:52:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 21:27:43 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1310386: Power Automate - Create and visualize custom KPIs in the process intelligence experience</title>
+    <link>https://message.cengizyilmaz.net/message/mc1310386-power-automate-create-and-visualize-custom-kpis-in-the-process-intelligence-experience</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310386-power-automate-create-and-visualize-custom-kpis-in-the-process-intelligence-experience</guid>
+    <pubDate>Tue, 26 May 2026 21:27:43 GMT</pubDate>
+    <description>We are announcing the ability to create and visualize custom KPIs in the process intelligence experience in Power Automate. This feature will reach public preview on June 31, 2026. How does this affect me? The process intelligence experience allows flexible metric creation with seamless visualization integration. You can create custom metrics using configurable formulas that can incorporate existing process data, standard KPIs, and mathematical operations. Key capabilities include: Building new...</description>
+    <category>Message Center</category>
+    <category>Microsoft Power Automate</category>
+  </item>
   <item>
     <title>MC1316228: Keyboard shortcut dialog has search functionality</title>
     <link>https://message.cengizyilmaz.net/message/mc1316228-keyboard-shortcut-dialog-has-search-functionality</link>
@@ -854,15 +863,6 @@
     <description>Starting mid-June 2026, Microsoft Purview eDiscovery will restrict special characters (+, =, @, /, *) in naming and description fields for new or edited cases, holds, searches, and review sets. Existing entities remain unaffected. No admin action is required, but users should update naming practices accordingly.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1310386: Power Automate - Create and visualize custom KPIs in the process intelligence experience</title>
-    <link>https://message.cengizyilmaz.net/message/mc1310386-power-automate-create-and-visualize-custom-kpis-in-the-process-intelligence-experience</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310386-power-automate-create-and-visualize-custom-kpis-in-the-process-intelligence-experience</guid>
-    <pubDate>Wed, 20 May 2026 13:37:45 GMT</pubDate>
-    <description>We are announcing the ability to create and visualize custom KPIs in the process intelligence experience in Power Automate. This feature will reach public preview on June 31, 2026. How does this affect me? The process intelligence experience allows flexible metric creation with seamless visualization integration. You can create custom metrics using configurable formulas that can incorporate existing process data, standard KPIs, and mathematical operations. Key capabilities include: Building new...</description>
-    <category>Message Center</category>
-    <category>Microsoft Power Automate</category>
   </item>
   <item>
     <title>RM562535: Microsoft Teams: Assign Open Shifts</title>
