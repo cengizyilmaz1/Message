@@ -6,16 +6,27 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 22 May 2026 22:24:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 14:39:38 GMT</lastBuildDate>
   <ttl>60</ttl>
   <item>
     <title>MC1319216: Microsoft Teams: In‑meeting toggle to turn Meeting AI on or off</title>
     <link>https://message.cengizyilmaz.net/message/mc1319216-microsoft-teams-inmeeting-toggle-to-turn-meeting-ai-on-or-off</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1319216-microsoft-teams-inmeeting-toggle-to-turn-meeting-ai-on-or-off</guid>
-    <pubDate>Fri, 22 May 2026 22:24:26 GMT</pubDate>
+    <pubDate>Tue, 26 May 2026 14:39:38 GMT</pubDate>
     <description>Microsoft Teams will add an in-meeting toggle for licensed organizers and presenters to turn Meeting AI (Copilot, Facilitator, recap) on or off during live meetings, respecting tenant policies. This feature rolls out June 2026 and links AI use with transcription settings for flexible control.</description>
     <category>Message Center</category>
+    <category>Microsoft 365 Copilot Chat</category>
     <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1317195: Microsoft Copilot Notebooks: Introducing Infographics</title>
+    <link>https://message.cengizyilmaz.net/message/mc1317195-microsoft-copilot-notebooks-introducing-infographics</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317195-microsoft-copilot-notebooks-introducing-infographics</guid>
+    <pubDate>Tue, 26 May 2026 14:38:34 GMT</pubDate>
+    <description>Microsoft Copilot Notebooks will introduce Infographics, enabling users to create visual summaries from notebook content using grounded references. Rolling out from May to July 2026, this default-enabled feature enhances clarity and productivity without disrupting workflows. No action is required, but informing users and reviewing policies is recommended.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
     <title>MC1319214: Interact with your favorite apps on Teams using Slash ( / ) Commands</title>
@@ -672,15 +683,6 @@
     <description>Microsoft Purview&apos;s Data Security Investigations (DSI) now integrates AI-powered insights directly into Data Security Posture Management (DSPM) to analyze potential data exfiltration risks across sensitive data categories, enhancing early risk detection, investigation efficiency, and response. Rollout begins June 2026, requiring DSI and DSPM configuration.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1317195: Microsoft Copilot Notebooks: Introducing Infographics</title>
-    <link>https://message.cengizyilmaz.net/message/mc1317195-microsoft-copilot-notebooks-introducing-infographics</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317195-microsoft-copilot-notebooks-introducing-infographics</guid>
-    <pubDate>Wed, 20 May 2026 23:10:18 GMT</pubDate>
-    <description>Microsoft Copilot Notebooks will introduce Infographics, enabling users to create visual summaries from notebook content using grounded references. Rolling out from May to July 2026, this default-enabled feature enhances clarity and productivity without disrupting workflows. No action is required, but informing users and reviewing policies is recommended.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
   </item>
   <item>
     <title>MC1280558: Use Copilot to explain selected slide content in PowerPoint Live</title>
