@@ -6,8 +6,63 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 26 May 2026 21:27:43 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 22:17:12 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1323270: Microsoft Teams: Secure Reliable Transport (SRT) support for Teams meetings and events</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</guid>
+    <pubDate>Tue, 26 May 2026 22:17:12 GMT</pubDate>
+    <description>Microsoft Teams will support Secure Reliable Transport (SRT) for town halls and live events starting June 2026, offering a secure, low-latency alternative to RTMP with backup stream failover. This affects event producers using external encoders, requires no user impact or admin changes, and improves streaming reliability.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1323266: Power BI integration with Microsoft 365 Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323266-power-bi-integration-with-microsoft-365-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323266-power-bi-integration-with-microsoft-365-copilot</guid>
+    <pubDate>Tue, 26 May 2026 22:12:52 GMT</pubDate>
+    <description>Starting June 2026, Microsoft 365 Copilot will integrate with Power BI in Frontier tenants, enabling users to ask questions grounded in Power BI reports and semantic models. The feature respects existing permissions, is enabled by default, requires appropriate licenses, and can be disabled by admins via the Microsoft 365 admin center.</description>
+    <category>Message Center</category>
+    <category>Power BI</category>
+  </item>
+  <item>
+    <title>MC1323264: Microsoft 365 Copilot: Planner agent general availability</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323264-microsoft-365-copilot-planner-agent-general-availability</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323264-microsoft-365-copilot-planner-agent-general-availability</guid>
+    <pubDate>Tue, 26 May 2026 22:11:25 GMT</pubDate>
+    <description>Microsoft 365 Copilot&apos;s Planner agent is generally available worldwide from mid to late June 2026. It enables users with active Copilot licenses to create, update, and manage tasks and plans within Copilot, offering insights on priorities and deadlines. Admins can control its availability tenant-wide via the admin center.</description>
+    <category>Message Center</category>
+    <category>Planner</category>
+  </item>
+  <item>
+    <title>MC1323263: Microsoft Defender for Office 365: ZAP expands cleanup to Deleted Items</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323263-microsoft-defender-for-office-365-zap-expands-cleanup-to-deleted-items</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323263-microsoft-defender-for-office-365-zap-expands-cleanup-to-deleted-items</guid>
+    <pubDate>Tue, 26 May 2026 22:10:46 GMT</pubDate>
+    <description>Zero-hour Auto Purge (ZAP) in Microsoft Defender for Office 365 will now scan and remediate malicious emails in users&apos; Deleted Items folders, enhancing post-delivery protection without new policies. Rollout starts June 2026, affecting all tenants with ZAP enabled, with no user experience changes or required actions.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+    <category>Microsoft Defender XDR</category>
+  </item>
+  <item>
+    <title>MC1323262: Microsoft Purview | eDiscovery: Enhancement of Loop and Copilot Pages in review and export</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323262-microsoft-purview-ediscovery-enhancement-of-loop-and-copilot-pages-in-review-and-export</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323262-microsoft-purview-ediscovery-enhancement-of-loop-and-copilot-pages-in-review-and-export</guid>
+    <pubDate>Tue, 26 May 2026 22:10:07 GMT</pubDate>
+    <description>Microsoft Purview eDiscovery (Premium) will add an HTML conversion option for Microsoft Loop and Copilot Pages files during export or review set addition, making these cloud-native files accessible and searchable in standard browsers. This feature requires Microsoft 365 E5 licenses and will roll out mid-June to early July 2026.</description>
+    <category>Message Center</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>MC1323250: [Action Required] Update scripts using Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</guid>
+    <pubDate>Tue, 26 May 2026 21:59:05 GMT</pubDate>
+    <description>Starting July 30, 2026, Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport will return transport rule data only when the -EventType parameter (TransportRuleHits or TransportRuleActionHits) is explicitly specified. Administrators must update related scripts and automation before this date to avoid incomplete results.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+  </item>
   <item>
     <title>MC1310386: Power Automate - Create and visualize custom KPIs in the process intelligence experience</title>
     <link>https://message.cengizyilmaz.net/message/mc1310386-power-automate-create-and-visualize-custom-kpis-in-the-process-intelligence-experience</link>
@@ -4577,60 +4632,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Microsoft Teams will sync recently used emojis and reactions across all devices by late July 2026, providing a consistent emoji experience. The feature is enabled by default, requires no user action, and maintains existing admin settings and compliance standards. Rollout timelines have been updated from May to mid/late June and July 2026.</description>
     <category>Message Center</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1166852: Microsoft Viva Copilot Analytics launches new agent dashboard</title>
-    <link>https://message.cengizyilmaz.net/message/mc1166852-microsoft-viva-copilot-analytics-launches-new-agent-dashboard</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1166852-microsoft-viva-copilot-analytics-launches-new-agent-dashboard</guid>
-    <pubDate>Thu, 30 Apr 2026 18:17:30 GMT</pubDate>
-    <description>Microsoft Viva Copilot Analytics introduces a new Agent Dashboard for tracking agent adoption, usage, and Copilot credit consumption with historical trends and retention insights. Public preview starts February 2026; general availability begins late September 2026. It affects organizations with 50+ Copilot licenses and enhances the Copilot Dashboard Adoption tab.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1296554: Dynamics 365 Project Operations - Implement access restrictions in Project for the web iFrame</title>
-    <link>https://message.cengizyilmaz.net/message/mc1296554-dynamics-365-project-operations-implement-access-restrictions-in-project-for-the-web-iframe</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1296554-dynamics-365-project-operations-implement-access-restrictions-in-project-for-the-web-iframe</guid>
-    <pubDate>Thu, 30 Apr 2026 18:12:56 GMT</pubDate>
-    <description>We are announcing the ability for administrators and project managers to set restrictions as to what users can do when viewing the Project for the web iFrame. This feature will reach general availability on May 31, 2026. How does this affect me? Currently, when a user accesses a project record, they have unlimited access to the Microsoft Project for the web iFrame. There, they can modify, create, or delete any project tasks, dependencies, goals, and more. This feature adds the ability to manage...</description>
-    <category>Dynamics 365 Apps</category>
-    <category>Message Center</category>
-  </item>
-  <item>
-    <title>MC772556: Microsoft Teams: Shorter meeting URLs</title>
-    <link>https://message.cengizyilmaz.net/message/mc772556-microsoft-teams-shorter-meeting-urls</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc772556-microsoft-teams-shorter-meeting-urls</guid>
-    <pubDate>Thu, 30 Apr 2026 17:56:08 GMT</pubDate>
-    <description>Microsoft Teams is rolling out shorter meeting URLs starting early 2025, improving link usability and security by removing extra parameters. New links expire 60 days after meeting end or creation. Old links remain valid. No admin action is needed, but users should update integrations and inform organizers about expired links.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1254553: Microsoft Teams: New slash command in compose to create workflows</title>
-    <link>https://message.cengizyilmaz.net/message/mc1254553-microsoft-teams-new-slash-command-in-compose-to-create-workflows</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1254553-microsoft-teams-new-slash-command-in-compose-to-create-workflows</guid>
-    <pubDate>Thu, 30 Apr 2026 17:38:00 GMT</pubDate>
-    <description>Microsoft Teams will introduce the /createworkflow slash command in the message compose box by mid-May 2026, enabling users to quickly create workflows directly from chats. The feature is enabled by default, requires no admin changes, and aims to simplify and speed up workflow creation for all Teams users.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1197146: Express voice enrollment in Microsoft Teams</title>
-    <link>https://message.cengizyilmaz.net/message/mc1197146-express-voice-enrollment-in-microsoft-teams</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1197146-express-voice-enrollment-in-microsoft-teams</guid>
-    <pubDate>Thu, 30 Apr 2026 17:35:22 GMT</pubDate>
-    <description>Express voice enrollment in Microsoft Teams enables quick voice profile registration for enhanced meeting features. Rollout starts June 2026, excluding EDU tenants, and is ON by default for enterprises. Admins can manage or disable it via PowerShell. Users will be prompted to enroll by speaking during meetings.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1296489: Microsoft 365 Copilot: Anthropic models available when editing Word documents</title>
-    <link>https://message.cengizyilmaz.net/message/mc1296489-microsoft-365-copilot-anthropic-models-available-when-editing-word-documents</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1296489-microsoft-365-copilot-anthropic-models-available-when-editing-word-documents</guid>
-    <pubDate>Thu, 30 Apr 2026 16:21:40 GMT</pubDate>
-    <description>Microsoft 365 Copilot will add Anthropic AI models as an option for Word document editing, available worldwide by late May 2026. Enabled by default outside the EU, EFTA, and UK, and disabled by default within these regions, admins can control this setting while existing security and compliance standards remain.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
   </item>
 </channel>
 </rss>
