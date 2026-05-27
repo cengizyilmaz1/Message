@@ -14,7 +14,7 @@
     },
     {
       "Name": "FeatureStatusJson",
-      "Value": "{\"488091\":[{\"RoadmapId\":488091,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-27T17:14:25.7036553Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":488091,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-27T17:14:25.7036554Z\",\"LatestRing\":\"StandardRelease\"}]}"
+      "Value": "{\"488091\":[{\"RoadmapId\":488091,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-27T18:57:22.8211098Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":488091,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-27T18:57:22.8211099Z\",\"LatestRing\":\"StandardRelease\"}]}"
     },
     {
       "Name": "Summary",

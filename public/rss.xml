@@ -6,8 +6,53 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 17:12:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 18:13:03 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1323250: [Action Required] Update scripts using Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</guid>
+    <pubDate>Wed, 27 May 2026 18:13:03 GMT</pubDate>
+    <description>Starting July 30, 2026, Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport will return transport rule data only when the -EventType parameter (TransportRuleHits or TransportRuleActionHits) is explicitly specified. Administrators must update related scripts and automation before this date to avoid incomplete results.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1324072: Dynamics 365 Contact Center – Update to provide greater granularity to session rejection reasons</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324072-dynamics-365-contact-center-update-to-provide-greater-granularity-to-session-rejection-reasons</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324072-dynamics-365-contact-center-update-to-provide-greater-granularity-to-session-rejection-reasons</guid>
+    <pubDate>Wed, 27 May 2026 18:00:42 GMT</pubDate>
+    <description>We are announcing that beginning on June 8, 2026, with full availability by June 31, 2026, Dynamics 365 Contact Center will now track session rejection reasons with greater granularity. Previously, all automatic session rejection reasons were all recorded under a single rejection category, &quot;Agent Reject&quot;. This could make it challenging for supervisors to distinguish between representative-initiated rejections and system-triggered ones. This update separates session rejections into distinct, clea...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1227625: User reported security signals in Teams admin center</title>
+    <link>https://message.cengizyilmaz.net/message/mc1227625-user-reported-security-signals-in-teams-admin-center</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1227625-user-reported-security-signals-in-teams-admin-center</guid>
+    <pubDate>Wed, 27 May 2026 17:20:15 GMT</pubDate>
+    <description>Microsoft Teams will add a Protection reports section in the Teams admin center for admins to review and export user-reported security submissions on calls (starting mid-April 2026) and later chats and channels. Admins must enable user reporting settings to access these new security insights.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1085133: Microsoft Teams: Rule-based enablement of Microsoft 365 third-party apps in the Teams admin center</title>
+    <link>https://message.cengizyilmaz.net/message/mc1085133-microsoft-teams-rulebased-enablement-of-microsoft-365-thirdparty-apps-in-the-teams-admin-center</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1085133-microsoft-teams-rulebased-enablement-of-microsoft-365-thirdparty-apps-in-the-teams-admin-center</guid>
+    <pubDate>Wed, 27 May 2026 17:16:44 GMT</pubDate>
+    <description>Starting mid-April 2026, admins can manage Microsoft 365 certified third-party Teams apps via org-wide settings in the Teams admin center, enabling rule-based app availability control. This feature rolls out automatically by July 2026, is disabled by default, and requires no prior admin action.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1323940: Dynamics 365 Contact Center - Protect customer experience on direct inward dialing lines with overflow actions</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323940-dynamics-365-contact-center-protect-customer-experience-on-direct-inward-dialing-lines-with-overflow-actions</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323940-dynamics-365-contact-center-protect-customer-experience-on-direct-inward-dialing-lines-with-overflow-actions</guid>
+    <pubDate>Wed, 27 May 2026 17:12:47 GMT</pubDate>
+    <description>We are announcing the ability to protect the customer experience on direct inward dialing lines with overflow actions in Dynamics 365 Contact Center. This feature will reach general availability on June 20, 2026. How does this affect me? This feature leverages Conversation Orchestration to detect key related events such as the user being busy, offline, rejecting the call, or failing to answer to apply administrator-defined fallback actions. Administrators can configure natural language playbooks...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
   <item>
     <title>MC1319214: Interact with your favorite apps on Teams using Slash ( / ) Commands</title>
     <link>https://message.cengizyilmaz.net/message/mc1319214-interact-with-your-favorite-apps-on-teams-using-slash-commands</link>
@@ -427,15 +472,6 @@
     <description>Microsoft Purview eDiscovery (Premium) will add an HTML conversion option for Microsoft Loop and Copilot Pages files during export or review set addition, making these cloud-native files accessible and searchable in standard browsers. This feature requires Microsoft 365 E5 licenses and will roll out mid-June to early July 2026.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1323250: [Action Required] Update scripts using Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport</title>
-    <link>https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</guid>
-    <pubDate>Tue, 26 May 2026 21:59:05 GMT</pubDate>
-    <description>Starting July 30, 2026, Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport will return transport rule data only when the -EventType parameter (TransportRuleHits or TransportRuleActionHits) is explicitly specified. Administrators must update related scripts and automation before this date to avoid incomplete results.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
   </item>
   <item>
     <title>MC1310386: Power Automate - Create and visualize custom KPIs in the process intelligence experience</title>
@@ -4592,45 +4628,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>We are announcing the ability to reduce alert fatigue with noise-free notifications in Dynamics 365 Customer Insights - Data. This feature will reach general availability on May 29, 2026. How does this affect me? This feature enables improved failure detection, recovery, and notification capabilities that allow for the self-correction of transient issues. Emails automatically sent from the service when a failure occurs will no longer be sent when transient failures are encountered, reducing emai...</description>
     <category>Dynamics 365 Apps</category>
     <category>Message Center</category>
-  </item>
-  <item>
-    <title>RM561323: SharePoint: Authoritative Sites</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm561323-sharepoint-authoritative-sites</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561323-sharepoint-authoritative-sites</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>Authoritative Sites feature empowers administrators to designate specific SharePoint sites as official, trusted sources of information. By classifying these sites as authoritative these high-quality, credible content, such as company news, policies, and updates, are prioritized across Copilot Chat and Copilot Search experiences</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-    <category>SharePoint</category>
-  </item>
-  <item>
-    <title>RM561026: Microsoft Copilot (Microsoft 365): Generate documents using forms in SharePoint with Power Automate</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm561026-microsoft-copilot-microsoft-365-generate-documents-using-forms-in-sharepoint-with-power-automate</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561026-microsoft-copilot-microsoft-365-generate-documents-using-forms-in-sharepoint-with-power-automate</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>We are introducing a new Power Automate action that enables automated document generation using document generation (DocGen) forms in SharePoint.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-    <category>Power Automate</category>
-    <category>SharePoint</category>
-  </item>
-  <item>
-    <title>RM559107: Microsoft Viva: [Engage] Pinned resources &amp; related communities in Teams for iOS</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm559107-microsoft-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm559107-microsoft-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>Users will be able to see a community&apos;s pinned resources and related communities in Teams for iOS.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>RM554927: Microsoft Teams: Recently used emojis sync across devices</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>Recently used emojis and reactions sync across Teams on desktop and mobile, making it easier to express yourself wherever you work.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
   </item>
 </channel>
 </rss>
