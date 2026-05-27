@@ -6,8 +6,108 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 22:35:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 22:54:28 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1323270: Microsoft Teams: Secure Reliable Transport (SRT) support for Teams meetings and events</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</guid>
+    <pubDate>Wed, 27 May 2026 22:54:28 GMT</pubDate>
+    <description>Microsoft Teams will support Secure Reliable Transport (SRT) for town halls and live events starting June 2026, offering a secure, low-latency alternative to RTMP with backup stream failover. This affects event producers using external encoders, requires no user impact or admin changes, and improves streaming reliability.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324288: Microsoft 365 Usage Analytics Power BI template app will be retired</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324288-microsoft-365-usage-analytics-power-bi-template-app-will-be-retired</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324288-microsoft-365-usage-analytics-power-bi-template-app-will-be-retired</guid>
+    <pubDate>Wed, 27 May 2026 22:48:47 GMT</pubDate>
+    <description>The Microsoft 365 Usage Analytics Power BI template app will be retired, with new downloads ending June 1, 2026, and support ending August 1, 2026. Users must transition to Microsoft 365 admin center reports or Microsoft Graph APIs for usage data, as no replacement app will be provided.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 suite</category>
+  </item>
+  <item>
+    <title>MC1324287: Microsoft Teams: Teams Rooms Builder in the Pro Management portal</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324287-microsoft-teams-teams-rooms-builder-in-the-pro-management-portal</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324287-microsoft-teams-teams-rooms-builder-in-the-pro-management-portal</guid>
+    <pubDate>Wed, 27 May 2026 22:48:15 GMT</pubDate>
+    <description>Teams Rooms Builder, launching worldwide in June 2026 in the Teams Rooms Pro Management portal, is a visual tool for IT admins to design and standardize meeting spaces by selecting devices, licenses, and layouts. It’s enabled by default for Teams Rooms Pro tenants with no purchase functionality included.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324286: Microsoft Teams: Profanity filter disabled by default for live captions</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324286-microsoft-teams-profanity-filter-disabled-by-default-for-live-captions</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324286-microsoft-teams-profanity-filter-disabled-by-default-for-live-captions</guid>
+    <pubDate>Wed, 27 May 2026 22:47:49 GMT</pubDate>
+    <description>Microsoft Teams will disable the profanity filter by default for live captions starting mid-June 2026, improving caption accuracy and accessibility. Users can enable the filter anytime. This affects new users who haven&apos;t set the filter; no admin action is required, but communication to users is recommended.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324285: Microsoft Defender XDR: Password protection account action buttons</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324285-microsoft-defender-xdr-password-protection-account-action-buttons</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324285-microsoft-defender-xdr-password-protection-account-action-buttons</guid>
+    <pubDate>Wed, 27 May 2026 22:47:20 GMT</pubDate>
+    <description>Microsoft Defender XDR adds &quot;Disable account&quot; and &quot;Reset password&quot; buttons to the Password protection page for Active Directory human user accounts. Available by default from late May 2026, these actions enable direct remediation of risky accounts without configuration changes. No action is required from administrators.</description>
+    <category>Message Center</category>
+    <category>Microsoft Defender XDR</category>
+  </item>
+  <item>
+    <title>MC1324284: New entry points for &quot;Create pages with AI in SharePoint&quot;</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</guid>
+    <pubDate>Wed, 27 May 2026 22:46:49 GMT</pubDate>
+    <description>Copilot in SharePoint expands AI-assisted page and news post creation with new entry points at the Publish landing page and Site Template Gallery. Rolling out worldwide from March to July 2026, it requires a Microsoft 365 Copilot license and offers enhanced, flexible authoring with full editing control.</description>
+    <category>Message Center</category>
+    <category>SharePoint Online</category>
+  </item>
+  <item>
+    <title>MC1324282: Support for disabling file previews in Microsoft Teams</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324282-support-for-disabling-file-previews-in-microsoft-teams</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324282-support-for-disabling-file-previews-in-microsoft-teams</guid>
+    <pubDate>Wed, 27 May 2026 22:43:59 GMT</pubDate>
+    <description>Microsoft Teams will add a user-level setting to disable file previews, enabled by default. Rolling out June 2026, this applies per user and per client without admin action. Users can manage this under Settings &gt; Files and links, with no changes to data storage or permissions.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324281: PowerPoint Live adds the ability to reload updated presentations during meetings</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324281-powerpoint-live-adds-the-ability-to-reload-updated-presentations-during-meetings</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324281-powerpoint-live-adds-the-ability-to-reload-updated-presentations-during-meetings</guid>
+    <pubDate>Wed, 27 May 2026 22:43:31 GMT</pubDate>
+    <description>PowerPoint Live will allow presenters in Microsoft Teams to refresh and load the latest saved version of their presentation during a live meeting without restarting. This feature, rolling out from late May to mid-June 2026, requires no admin setup and helps maintain real-time alignment with updates.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324280: Assign open shifts in Microsoft Teams Shifts</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324280-assign-open-shifts-in-microsoft-teams-shifts</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324280-assign-open-shifts-in-microsoft-teams-shifts</guid>
+    <pubDate>Wed, 27 May 2026 22:42:56 GMT</pubDate>
+    <description>Microsoft Teams Shifts introduces &quot;Assign open shifts,&quot; allowing managers to auto-assign open shifts based on availability, time off, and scheduling rules. Rolling out worldwide mid to late June 2026, it’s optional and editable before publishing. No action required; admins may update guidance.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1324279: Save your event as template to reuse event configurations</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324279-save-your-event-as-template-to-reuse-event-configurations</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324279-save-your-event-as-template-to-reuse-event-configurations</guid>
+    <pubDate>Wed, 27 May 2026 22:42:17 GMT</pubDate>
+    <description>Microsoft Teams will allow event organizers to save and reuse custom event templates, including details, participants, branding, and settings, starting June 2026. This feature requires no admin setup and helps ensure consistent event configurations across the organization. No user action is needed.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1318851: PowerPoint for Web: &apos;Prepare for Questions&apos; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1318851-powerpoint-for-web-prepare-for-questions-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318851-powerpoint-for-web-prepare-for-questions-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 22:36:07 GMT</pubDate>
+    <description>The &quot;Prepare for Questions&quot; skill in Copilot for PowerPoint for Web, launching worldwide in late May 2026, helps users anticipate audience questions to improve presentations. Enabled by default, it requires the Anthropic model, respects admin settings, and needs no user action.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
   <item>
     <title>MC1318852: PowerPoint for Windows Desktop: &apos;Prepare for Questions&apos; skill in Copilot</title>
     <link>https://message.cengizyilmaz.net/message/mc1318852-powerpoint-for-windows-desktop-prepare-for-questions-skill-in-copilot</link>
@@ -457,15 +557,6 @@
     <category>OneDrive</category>
   </item>
   <item>
-    <title>MC1323270: Microsoft Teams: Secure Reliable Transport (SRT) support for Teams meetings and events</title>
-    <link>https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</guid>
-    <pubDate>Tue, 26 May 2026 22:17:12 GMT</pubDate>
-    <description>Microsoft Teams will support Secure Reliable Transport (SRT) for town halls and live events starting June 2026, offering a secure, low-latency alternative to RTMP with backup stream failover. This affects event producers using external encoders, requires no user impact or admin changes, and improves streaming reliability.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>MC1323266: Power BI integration with Microsoft 365 Copilot</title>
     <link>https://message.cengizyilmaz.net/message/mc1323266-power-bi-integration-with-microsoft-365-copilot</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323266-power-bi-integration-with-microsoft-365-copilot</guid>
@@ -724,16 +815,6 @@
     <description>Microsoft Viva Glint will allow Company Admins to replace the default confidentiality statement with custom, multilingual messages starting June 2026. This optional feature helps align survey messaging with internal policies without changing data processing. Admins control the configuration; no action is required.</description>
     <category>Message Center</category>
     <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1318851: PowerPoint for Web: &apos;Prepare for Questions&apos; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1318851-powerpoint-for-web-prepare-for-questions-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318851-powerpoint-for-web-prepare-for-questions-skill-in-copilot</guid>
-    <pubDate>Fri, 22 May 2026 16:00:09 GMT</pubDate>
-    <description>The &quot;Prepare for Questions&quot; skill in Copilot for PowerPoint for Web helps users anticipate audience questions and improve presentations. It will roll out worldwide in late May 2026, is enabled by default, and requires no action from IT admins. Users should be informed about this feature.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
     <title>RM563810: Outlook: Navigate Your Favorite Folders Without Expanding the Folder Pane</title>
@@ -4546,88 +4627,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Copilot (Microsoft 365)</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM557178: Microsoft Teams: Sensitivity label inheritance for meeting recordings</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm557178-microsoft-teams-sensitivity-label-inheritance-for-meeting-recordings</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557178-microsoft-teams-sensitivity-label-inheritance-for-meeting-recordings</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Meeting recordings now automatically inherit the meeting’s sensitivity label. When label inheritance is enabled in sensitivity label policies, a labeled meeting applies the same label to its MP4 recording, ensuring access controls, data handling rules, and Copilot or agent responses based on transcripts consistently respect the meeting’s sensitivity end to end.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM555857: Microsoft Teams: Sensitivity label inheritance for Loop meeting notes</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm555857-microsoft-teams-sensitivity-label-inheritance-for-loop-meeting-notes</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm555857-microsoft-teams-sensitivity-label-inheritance-for-loop-meeting-notes</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Loop meeting notes now automatically inherit your meeting’s sensitivity label. When admins enable label inheritance in the sensitivity label policy, any labeled meeting applies the same label to its Loop meeting notes, ensuring protections like encryption, access controls, and data handling rules carry forward consistently. This also ensures that Copilot and agent responses based on Loop meeting notes accurately reflect the meeting’s sensitivity, keeping confidential content protected end to end...</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM552592: Microsoft Copilot (Microsoft 365): Simplifying Content in the Input Box</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm552592-microsoft-copilot-microsoft-365-simplifying-content-in-the-input-box</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm552592-microsoft-copilot-microsoft-365-simplifying-content-in-the-input-box</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>When users insert content in a prompt using &apos;Add Work Content&apos; under the Plus menu, the content will only appear as a pill in the Input Box UI and will not be repeated as part of the user&apos;s prompt. This helps to simplify the Input Box and reserve it for prompt creation. Updated April 22, 2026: We are moving this item back to In Development and will be relaunching after further updates. We apologize for any inconvenience.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-  </item>
-  <item>
-    <title>RM541830: Microsoft Teams: Branded Meeting Reactions</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm541830-microsoft-teams-branded-meeting-reactions</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm541830-microsoft-teams-branded-meeting-reactions</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>With new branded reactions, organizations can now extend their visual identity directly into meetings. IT admins simply upload custom reaction icons reflecting brand elements or event themes, and these instantly become available for meeting participants. A simple way to create more cohesive, on-brand meeting experiences.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM493757: Microsoft Purview compliance portal: Insider Risk Management- Multi selectable DLP policies as an IRM triggering event</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm493757-microsoft-purview-compliance-portal-insider-risk-management-multi-selectable-dlp-policies-as-an-irm-triggering-event</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm493757-microsoft-purview-compliance-portal-insider-risk-management-multi-selectable-dlp-policies-as-an-irm-triggering-event</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Insider Risk Management is releasing the ability to select multiple Data Loss Prevention (DLP) policies as triggering events in a policy. Previously, admins could only select one DLP policy as a triggering event within Insider Risk Management policies. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policie...</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1173195: Microsoft 365 Copilot: Graph APIs for agent and app management</title>
-    <link>https://message.cengizyilmaz.net/message/mc1173195-microsoft-365-copilot-graph-apis-for-agent-and-app-management</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1173195-microsoft-365-copilot-graph-apis-for-agent-and-app-management</guid>
-    <pubDate>Fri, 01 May 2026 18:23:01 GMT</pubDate>
-    <description>Microsoft 365 Copilot introduces two new Graph APIs for admins to manage agents and apps programmatically, enabling automated reporting and integration. Available in Public Preview from May 1, 2026, with worldwide rollout by early May. No additional licenses needed; existing Microsoft 365 licenses suffice.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1287365: Microsoft 365 Copilot: Change in accessing additional agents in Excel</title>
-    <link>https://message.cengizyilmaz.net/message/mc1287365-microsoft-365-copilot-change-in-accessing-additional-agents-in-excel</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1287365-microsoft-365-copilot-change-in-accessing-additional-agents-in-excel</guid>
-    <pubDate>Fri, 01 May 2026 18:01:07 GMT</pubDate>
-    <description>The rollout of the updated Microsoft 365 Copilot feature in Excel, allowing access to additional agents via the &quot;…&quot; menu, is paused. Users can still use chat-only Copilot without changes. No admin action is needed; inform support teams and update documentation accordingly.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-  </item>
-  <item>
-    <title>MC1246031: Microsoft Outlook: Copilot Chat available in shared and delegate mailboxes</title>
-    <link>https://message.cengizyilmaz.net/message/mc1246031-microsoft-outlook-copilot-chat-available-in-shared-and-delegate-mailboxes</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1246031-microsoft-outlook-copilot-chat-available-in-shared-and-delegate-mailboxes</guid>
-    <pubDate>Fri, 01 May 2026 16:39:11 GMT</pubDate>
-    <description>Microsoft is expanding Copilot Chat in Outlook to support shared and delegated mailboxes across new Outlook versions starting early April 2026. Users with Microsoft 365 Copilot licenses can use Copilot features directly in these mailboxes, improving team collaboration without extra setup or mailbox-specific prompts.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1297005: Dynamics 365 Customer Insights - Data - Reduce alert fatigue with noise-free notifications</title>
-    <link>https://message.cengizyilmaz.net/message/mc1297005-dynamics-365-customer-insights-data-reduce-alert-fatigue-with-noisefree-notifications</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1297005-dynamics-365-customer-insights-data-reduce-alert-fatigue-with-noisefree-notifications</guid>
-    <pubDate>Fri, 01 May 2026 02:41:04 GMT</pubDate>
-    <description>We are announcing the ability to reduce alert fatigue with noise-free notifications in Dynamics 365 Customer Insights - Data. This feature will reach general availability on May 29, 2026. How does this affect me? This feature enables improved failure detection, recovery, and notification capabilities that allow for the self-correction of transient issues. Emails automatically sent from the service when a failure occurs will no longer be sent when transient failures are encountered, reducing emai...</description>
-    <category>Dynamics 365 Apps</category>
-    <category>Message Center</category>
   </item>
 </channel>
 </rss>
