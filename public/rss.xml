@@ -6,8 +6,105 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 13:20:18 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 17:12:04 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1319214: Interact with your favorite apps on Teams using Slash ( / ) Commands</title>
+    <link>https://message.cengizyilmaz.net/message/mc1319214-interact-with-your-favorite-apps-on-teams-using-slash-commands</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1319214-interact-with-your-favorite-apps-on-teams-using-slash-commands</guid>
+    <pubDate>Wed, 27 May 2026 17:12:04 GMT</pubDate>
+    <description>Microsoft Teams will roll out slash (/) commands for apps in the compose box starting early July 2026, enabling users to invoke app functions inline. This affects all Teams users and app developers, requires no admin changes, and apps must update manifests to support commands. No action is needed.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1307982: Microsoft Teams Town halls (Teams Premium): Upload custom backgrounds in Manage what attendees see</title>
+    <link>https://message.cengizyilmaz.net/message/mc1307982-microsoft-teams-town-halls-teams-premium-upload-custom-backgrounds-in-manage-what-attendees-see</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1307982-microsoft-teams-town-halls-teams-premium-upload-custom-backgrounds-in-manage-what-attendees-see</guid>
+    <pubDate>Wed, 27 May 2026 17:09:44 GMT</pubDate>
+    <description>Microsoft Teams Premium will allow organizers and presenters of town hall events to upload custom background images in the &quot;Manage what attendees see&quot; feature, enhancing branded visuals. Rollout begins early June 2026, applies only to town halls with this feature enabled, and supports JPEG/PNG formats.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1310680: New Outlook for Windows: LDAP support for S/MIME certificate lookup</title>
+    <link>https://message.cengizyilmaz.net/message/mc1310680-new-outlook-for-windows-ldap-support-for-smime-certificate-lookup</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310680-new-outlook-for-windows-ldap-support-for-smime-certificate-lookup</guid>
+    <pubDate>Wed, 27 May 2026 17:00:54 GMT</pubDate>
+    <description>New Outlook for Windows will support LDAP directories for S/MIME certificate lookup, enabling secure encrypted email with external partners. Rollout begins late May 2026 worldwide, mid-June in GCC. Admins configure LDAP via Exchange Online PowerShell; users add directories in Outlook settings. LDAP must not require authentication.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1302908: Outlook: Support for storing S/MIME certificates in contacts in new Outlook</title>
+    <link>https://message.cengizyilmaz.net/message/mc1302908-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1302908-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</guid>
+    <pubDate>Wed, 27 May 2026 16:58:33 GMT</pubDate>
+    <description>The new Outlook for Windows will support storing S/MIME certificates directly in Contacts, enabling encrypted emails and seamless transition from classic Outlook. Rollout starts late May 2026 worldwide, mid-June for GCC. No admin action needed; users should add certificates and update documentation accordingly.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+  </item>
+  <item>
+    <title>MC1309737: PowerPoint for the web: &quot;Review this presentation&quot; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309737-powerpoint-for-the-web-review-this-presentation-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309737-powerpoint-for-the-web-review-this-presentation-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:54:34 GMT</pubDate>
+    <description>The &quot;Review this presentation&quot; skill in PowerPoint for the web Copilot is now generally available. It analyzes slides and offers improvement suggestions for structure, clarity, and storytelling without applying changes automatically. No admin setup is needed, and availability depends on Anthropic model access.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1309735: PowerPoint for Windows desktop: &quot;Review this presentation&quot; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309735-powerpoint-for-windows-desktop-review-this-presentation-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309735-powerpoint-for-windows-desktop-review-this-presentation-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:54:13 GMT</pubDate>
+    <description>The &quot;Review this presentation&quot; skill in PowerPoint Copilot for Windows analyzes slides and offers improvement suggestions for structure, clarity, and storytelling. It uses the Anthropic model, is available now by default to eligible users, requires no admin setup, and respects existing Copilot access controls.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1309736: PowerPoint for Mac: &quot;Review this presentation&quot; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309736-powerpoint-for-mac-review-this-presentation-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309736-powerpoint-for-mac-review-this-presentation-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:53:49 GMT</pubDate>
+    <description>The &quot;Review this presentation&quot; skill in PowerPoint for Mac Copilot is now available worldwide. It analyzes slides and offers improvement suggestions for structure and clarity without automatic changes. It requires the Anthropic model, needs no admin setup, and respects existing Copilot access controls.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1309733: PowerPoint for the web: “Visualize this slide” skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309733-powerpoint-for-the-web-visualize-this-slide-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309733-powerpoint-for-the-web-visualize-this-slide-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:53:30 GMT</pubDate>
+    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint for the web, launching mid-May 2026, transforms text slides into visually rich layouts using the Anthropic model. Enabled by default, it respects existing compliance and admin settings, with no admin action required to prepare.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 Copilot Chat</category>
+    <category>Microsoft 365 for the web</category>
+  </item>
+  <item>
+    <title>MC1309731: PowerPoint for Windows desktop: “Visualize this slide” skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309731-powerpoint-for-windows-desktop-visualize-this-slide-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309731-powerpoint-for-windows-desktop-visualize-this-slide-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:53:06 GMT</pubDate>
+    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint on Windows desktop transforms text slides into visually rich designs using the Anthropic model. It rolls out worldwide by mid-May 2026, is enabled by default, requires no admin action, and respects existing compliance and licensing policies.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1309732: PowerPoint for Mac: “Visualize this slide” skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309732-powerpoint-for-mac-visualize-this-slide-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309732-powerpoint-for-mac-visualize-this-slide-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 16:52:43 GMT</pubDate>
+    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint on Mac, launching mid-May 2026, transforms text slides into visual layouts using the Anthropic model. It’s enabled by default for eligible users, requires no admin action, and respects existing compliance and admin settings.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
   <item>
     <title>MC1323861: Dynamics 365 Sales - Improve opportunity data completeness with AI-powered data enrichment</title>
     <link>https://message.cengizyilmaz.net/message/mc1323861-dynamics-365-sales-improve-opportunity-data-completeness-with-aipowered-data-enrichment</link>
@@ -415,15 +512,6 @@
     <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
-    <title>MC1319214: Interact with your favorite apps on Teams using Slash ( / ) Commands</title>
-    <link>https://message.cengizyilmaz.net/message/mc1319214-interact-with-your-favorite-apps-on-teams-using-slash-commands</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1319214-interact-with-your-favorite-apps-on-teams-using-slash-commands</guid>
-    <pubDate>Fri, 22 May 2026 22:23:22 GMT</pubDate>
-    <description>Microsoft Teams will roll out slash (/) commands for apps in the compose box from late May to late July 2026, allowing users to invoke app functions inline. This affects all Teams users and app developers, requires no admin changes, and apps must update manifests to support commands.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>MC1319213: Microsoft Teams: Proximity join support for presenters in Teams events from Teams Rooms on Windows and Android</title>
     <link>https://message.cengizyilmaz.net/message/mc1319213-microsoft-teams-proximity-join-support-for-presenters-in-teams-events-from-teams-rooms-on-windows-and-android</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1319213-microsoft-teams-proximity-join-support-for-presenters-in-teams-events-from-teams-rooms-on-windows-and-android</guid>
@@ -798,15 +886,6 @@
     <category>Microsoft Purview</category>
   </item>
   <item>
-    <title>MC1310680: New Outlook for Windows: LDAP support for S/MIME certificate lookup</title>
-    <link>https://message.cengizyilmaz.net/message/mc1310680-new-outlook-for-windows-ldap-support-for-smime-certificate-lookup</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310680-new-outlook-for-windows-ldap-support-for-smime-certificate-lookup</guid>
-    <pubDate>Thu, 21 May 2026 20:28:39 GMT</pubDate>
-    <description>New Outlook for Windows supports LDAP directories for S/MIME certificate lookup, enabling secure encrypted email with external partners. Admins configure LDAP via Exchange Online PowerShell; users add directories in Outlook settings. Rollout starts late May 2026 worldwide, early June in GCC. Feature enabled by default, no authentication supported.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
-  </item>
-  <item>
     <title>MC1317197: Microsoft Teams: A refreshed in-meeting experience with simpler controls and a smarter share panel</title>
     <link>https://message.cengizyilmaz.net/message/mc1317197-microsoft-teams-a-refreshed-inmeeting-experience-with-simpler-controls-and-a-smarter-share-panel</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317197-microsoft-teams-a-refreshed-inmeeting-experience-with-simpler-controls-and-a-smarter-share-panel</guid>
@@ -877,16 +956,6 @@
     <description>Microsoft Teams Rooms on Android with Teams Rooms Pro will support joining webinars and structured meetings as attendees starting late June 2026. Rooms can use attendee features like chat and reactions without needing personal devices, optimized for various room setups and large events.</description>
     <category>Message Center</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1302908: Outlook: Support for storing S/MIME certificates in contacts in new Outlook</title>
-    <link>https://message.cengizyilmaz.net/message/mc1302908-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1302908-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</guid>
-    <pubDate>Thu, 21 May 2026 16:16:43 GMT</pubDate>
-    <description>The new Outlook for Windows will support storing S/MIME certificates directly in Contacts, enabling encrypted emails and continuity from classic Outlook. This feature rolls out worldwide late-May 2026, requires no admin setup, and improves secure communication for organizations using S/MIME encryption.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
   </item>
   <item>
     <title>MC1317836: Microsoft Teams: Unblock users to send message while file is uploading in the background</title>
@@ -1117,66 +1186,6 @@
     <description>Microsoft 365 Copilot (Premium) is adding a Copilot chat pane with a Summary feature to OneNote Mobile on iPhone, enabling users to generate summaries and ask questions about notes. Rollout begins late May 2026, completing by late June, with existing Copilot policies applying. No admin action required.</description>
     <category>Message Center</category>
     <category>Microsoft 365 apps</category>
-  </item>
-  <item>
-    <title>MC1309735: PowerPoint for Windows desktop: &quot;Review this presentation&quot; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309735-powerpoint-for-windows-desktop-review-this-presentation-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309735-powerpoint-for-windows-desktop-review-this-presentation-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:30:15 GMT</pubDate>
-    <description>The &quot;Review this presentation&quot; skill in PowerPoint Copilot for Windows desktop is now generally available. It analyzes slides and offers improvement suggestions for structure, clarity, and storytelling without applying changes automatically. No admin setup is needed, and availability respects existing Copilot access controls.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1309731: PowerPoint for Windows desktop: “Visualize this slide” skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309731-powerpoint-for-windows-desktop-visualize-this-slide-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309731-powerpoint-for-windows-desktop-visualize-this-slide-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:29:43 GMT</pubDate>
-    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint on Windows desktop, launching mid-May 2026, transforms text slides into polished visuals. Enabled by default for eligible users, no admin action is needed. Users can choose to apply visualizations, but admins cannot disable the skill itself.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1309737: PowerPoint for the web: &quot;Review this presentation&quot; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309737-powerpoint-for-the-web-review-this-presentation-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309737-powerpoint-for-the-web-review-this-presentation-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:29:01 GMT</pubDate>
-    <description>The &quot;Review this presentation&quot; skill in PowerPoint for the web Copilot is now generally available. It analyzes slides and suggests improvements for structure, clarity, and storytelling without applying changes automatically. No admin setup is needed, and availability depends on existing Copilot and Anthropic model access.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1309732: PowerPoint for Mac: “Visualize this slide” skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309732-powerpoint-for-mac-visualize-this-slide-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309732-powerpoint-for-mac-visualize-this-slide-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:28:22 GMT</pubDate>
-    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint on Mac, launching mid-May 2026, transforms text slides into polished visuals. Enabled by default, it respects existing policies. No admin action is needed, but admins can control related AI model access. Users can choose to apply the feature.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1309733: PowerPoint for the web: “Visualize this slide” skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309733-powerpoint-for-the-web-visualize-this-slide-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309733-powerpoint-for-the-web-visualize-this-slide-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:27:42 GMT</pubDate>
-    <description>The &quot;Visualize this slide&quot; skill in Copilot for PowerPoint for the web, launching mid-May 2026, transforms text slides into visually rich layouts. Enabled by default for eligible users, no admin action is needed. Users can choose to apply the feature, which respects existing compliance and admin controls.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 Copilot Chat</category>
-    <category>Microsoft 365 for the web</category>
-  </item>
-  <item>
-    <title>MC1309736: PowerPoint for Mac: &quot;Review this presentation&quot; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309736-powerpoint-for-mac-review-this-presentation-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309736-powerpoint-for-mac-review-this-presentation-skill-in-copilot</guid>
-    <pubDate>Wed, 20 May 2026 16:27:05 GMT</pubDate>
-    <description>The &quot;Review this presentation&quot; skill in PowerPoint for Mac Copilot is now generally available. It analyzes slides to suggest improvements in structure, clarity, and storytelling without applying changes automatically. No admin setup is needed, and availability depends on existing Copilot and Anthropic model access.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
     <title>MC1310681: Microsoft Purview Data Loss Prevention: Optical character recognition for images in Office and PDFs on Windows</title>
@@ -2605,15 +2614,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft Teams</category>
   </item>
   <item>
-    <title>MC1309508: Updates available for Microsoft 365 Apps for Monthly Enterprise Channel</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309508-updates-available-for-microsoft-365-apps-for-monthly-enterprise-channel</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309508-updates-available-for-microsoft-365-apps-for-monthly-enterprise-channel</guid>
-    <pubDate>Wed, 13 May 2026 15:30:22 GMT</pubDate>
-    <description>We&apos;ve released updates to the following update channel for Microsoft 365 Apps: Monthly Enterprise Channel When this will happen: We&apos;ll be gradually rolling out this update of Microsoft 365 Apps to users on that update channel starting May 13th, 2026 (PST). How this will affect your organization: If your Microsoft 365 Apps clients are configured to automatically update from the Office Content Delivery Network (CDN), then no action is required. If you manage updates directly you can now download t...</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-  </item>
-  <item>
     <title>MC1308860: Microsoft Purview Content Explorer and Data Explorer: Data Classification List Viewer role required for data access</title>
     <link>https://message.cengizyilmaz.net/message/mc1308860-microsoft-purview-content-explorer-and-data-explorer-data-classification-list-viewer-role-required-for-data-access</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1308860-microsoft-purview-content-explorer-and-data-explorer-data-classification-list-viewer-role-required-for-data-access</guid>
@@ -2900,15 +2900,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Teams Android device management is transitioning from the Teams admin center to the Teams Rooms Pro Management portal by mid-2026. This unifies management of all Teams devices in one portal, enhancing inventory, updates, health monitoring, and remote actions. No immediate action is needed until General Availability.</description>
     <category>Message Center</category>
     <category>Microsoft 365 for the web</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1307982: Microsoft Teams Town halls (Teams Premium): Upload custom backgrounds in Manage what attendees see</title>
-    <link>https://message.cengizyilmaz.net/message/mc1307982-microsoft-teams-town-halls-teams-premium-upload-custom-backgrounds-in-manage-what-attendees-see</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1307982-microsoft-teams-town-halls-teams-premium-upload-custom-backgrounds-in-manage-what-attendees-see</guid>
-    <pubDate>Tue, 12 May 2026 01:21:20 GMT</pubDate>
-    <description>Microsoft Teams Premium will allow organizers and presenters of town halls to upload custom background images in the &quot;Manage what attendees see&quot; feature, enhancing branded visuals. This rollout starts late May 2026, applies only to town halls with this feature enabled, and supports JPEG/PNG formats on Windows and Mac.</description>
-    <category>Message Center</category>
     <category>Microsoft Teams</category>
   </item>
   <item>
@@ -4631,6 +4622,15 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Users will be able to see a community&apos;s pinned resources and related communities in Teams for iOS.</description>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Viva</category>
+  </item>
+  <item>
+    <title>RM554927: Microsoft Teams: Recently used emojis sync across devices</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</guid>
+    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
+    <description>Recently used emojis and reactions sync across Teams on desktop and mobile, making it easier to express yourself wherever you work.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
   </item>
 </channel>
 </rss>
