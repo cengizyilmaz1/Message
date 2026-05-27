@@ -6,8 +6,37 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 18:13:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 22:35:40 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1318852: PowerPoint for Windows Desktop: &apos;Prepare for Questions&apos; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1318852-powerpoint-for-windows-desktop-prepare-for-questions-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318852-powerpoint-for-windows-desktop-prepare-for-questions-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 22:35:40 GMT</pubDate>
+    <description>PowerPoint for Windows Desktop is introducing the &quot;Prepare for Questions&quot; Copilot skill, using the Anthropic model, to help users anticipate audience questions and improve presentations. It will roll out worldwide in late May 2026, enabled by default for eligible users, with no admin control over individual skills.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1318854: PowerPoint for Mac: &apos;Prepare for Questions&apos; skill in Copilot</title>
+    <link>https://message.cengizyilmaz.net/message/mc1318854-powerpoint-for-mac-prepare-for-questions-skill-in-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318854-powerpoint-for-mac-prepare-for-questions-skill-in-copilot</guid>
+    <pubDate>Wed, 27 May 2026 22:35:15 GMT</pubDate>
+    <description>PowerPoint for Mac&apos;s Copilot introduces the &quot;Prepare for Questions&quot; skill, using the Anthropic model to help users anticipate audience questions and improve presentations. Rolling out worldwide in late May 2026, it&apos;s enabled by default for eligible users, with no admin control over individual skills. No action required.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1309744: Microsoft Teams: Report external users for security concerns</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309744-microsoft-teams-report-external-users-for-security-concerns</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309744-microsoft-teams-report-external-users-for-security-concerns</guid>
+    <pubDate>Wed, 27 May 2026 21:40:45 GMT</pubDate>
+    <description>Microsoft Teams will enable users to report suspicious external users directly, with reports accessible to admins in the Teams admin center for faster security response. This feature, rolling out July–August 2026, is enabled by default, supports multiple Teams experiences, and is governed by existing messaging policies.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1323250: [Action Required] Update scripts using Get-MailDetailTransportRuleReport and Get-MailTrafficPolicyReport</title>
     <link>https://message.cengizyilmaz.net/message/mc1323250-action-required-update-scripts-using-getmaildetailtransportrulereport-and-getmailtrafficpolicyreport</link>
@@ -695,26 +724,6 @@
     <description>Microsoft Viva Glint will allow Company Admins to replace the default confidentiality statement with custom, multilingual messages starting June 2026. This optional feature helps align survey messaging with internal policies without changing data processing. Admins control the configuration; no action is required.</description>
     <category>Message Center</category>
     <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1318854: PowerPoint for Mac: &apos;Prepare for Questions&apos; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1318854-powerpoint-for-mac-prepare-for-questions-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318854-powerpoint-for-mac-prepare-for-questions-skill-in-copilot</guid>
-    <pubDate>Fri, 22 May 2026 16:01:23 GMT</pubDate>
-    <description>The &quot;Prepare for Questions&quot; skill in Copilot for PowerPoint for Mac will launch worldwide in late May 2026. It helps users anticipate audience questions to improve presentations. Enabled by default, IT admins cannot disable individual skills. No action is required, but informing users and updating documentation is recommended.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1318852: PowerPoint for Windows Desktop: &apos;Prepare for Questions&apos; skill in Copilot</title>
-    <link>https://message.cengizyilmaz.net/message/mc1318852-powerpoint-for-windows-desktop-prepare-for-questions-skill-in-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318852-powerpoint-for-windows-desktop-prepare-for-questions-skill-in-copilot</guid>
-    <pubDate>Fri, 22 May 2026 16:00:40 GMT</pubDate>
-    <description>PowerPoint for Windows Desktop will introduce the &quot;Prepare for Questions&quot; Copilot skill in late May 2026, helping users anticipate audience questions and improve presentations. It is enabled by default for eligible users, with no admin control over individual skills. No action is required from organizations.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
     <title>MC1318851: PowerPoint for Web: &apos;Prepare for Questions&apos; skill in Copilot</title>
@@ -2518,15 +2527,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Microsoft Purview Insider Risk Management will enable admins to select specific Generative AI apps for monitoring insider risk signals, improving relevance and cost efficiency. The feature rolls out May–June 2026, applies to Copilot and enterprise AI apps, and requires no user workflow changes. Admins can configure settings post-rollout.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1309744: Microsoft Teams: Report external users for security concerns</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309744-microsoft-teams-report-external-users-for-security-concerns</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309744-microsoft-teams-report-external-users-for-security-concerns</guid>
-    <pubDate>Wed, 13 May 2026 23:09:34 GMT</pubDate>
-    <description>Microsoft Teams will enable users to report suspicious external users directly, with reports visible to admins in the Teams admin center for faster security response. This feature, rolling out June 2026, supports chats, meetings, and channels, is enabled by default, and integrates with existing messaging policies.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
   </item>
   <item>
     <title>MC1309743: Viva Engage: Email updates for frontline users without an active Exchange mailbox</title>
