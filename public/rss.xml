@@ -6,8 +6,44 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 00:01:10 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 13:20:18 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1323861: Dynamics 365 Sales - Improve opportunity data completeness with AI-powered data enrichment</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323861-dynamics-365-sales-improve-opportunity-data-completeness-with-aipowered-data-enrichment</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323861-dynamics-365-sales-improve-opportunity-data-completeness-with-aipowered-data-enrichment</guid>
+    <pubDate>Wed, 27 May 2026 13:20:18 GMT</pubDate>
+    <description>We are announcing the ability to improve opportunity data completeness with AI-powered data enrichment in Dynamics 365 Sales. This feature will reach general availability on June 26, 2026. How does this affect me? This feature enables you to automatically receive timely and relevant suggestions to fill data gaps based on real customer interactions, such as emails, meetings, and third-party connectors. AI‑powered data enrichment helps you keep opportunity data accurate and current by automaticall...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1323856: Dynamics 365 Project Operations - Enable subcontractor vendor invoice matching to actuals</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323856-dynamics-365-project-operations-enable-subcontractor-vendor-invoice-matching-to-actuals</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323856-dynamics-365-project-operations-enable-subcontractor-vendor-invoice-matching-to-actuals</guid>
+    <pubDate>Wed, 27 May 2026 13:07:16 GMT</pubDate>
+    <description>We are announcing the ability to match actual costs when generating vendor invoices for receipts associated with subcontracting purchase orders in Dynamics 365 Project Operations. This feature reached public preview on May 11, 2026. How does this affect me? If you use Project Operations integrated with an ERP and enable the Enable subcontractor vendor invoice matching to actuals setting for Project Operations integrated with ERP, vendor invoices from subcontracting PO receipts can be matched to...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1323835: Dynamics 365 Project Operations - Enable Project Revenue recognition using cost estimate instead of EAC</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323835-dynamics-365-project-operations-enable-project-revenue-recognition-using-cost-estimate-instead-of-eac</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323835-dynamics-365-project-operations-enable-project-revenue-recognition-using-cost-estimate-instead-of-eac</guid>
+    <pubDate>Wed, 27 May 2026 12:21:28 GMT</pubDate>
+    <description>We are announcing the ability to enable Project Revenue recognition using the percentage of completion based on the cost estimate instead of the changing estimate at completion (EAC) in Dynamics 365 Project Operations. This feature reached public preview on May 11, 2026. How does this affect me? Turning on the Enable Project Revenue recognition using the cost estimate instead of the EAC setting bases percentage of completion (PoC) on the cost estimate rather than the changing estimate at complet...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1323827: Dynamics 365 Contact Center - Automatically handle waiting conversations when queues close or become unstaffed</title>
+    <link>https://message.cengizyilmaz.net/message/mc1323827-dynamics-365-contact-center-automatically-handle-waiting-conversations-when-queues-close-or-become-unstaffed</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1323827-dynamics-365-contact-center-automatically-handle-waiting-conversations-when-queues-close-or-become-unstaffed</guid>
+    <pubDate>Wed, 27 May 2026 12:10:19 GMT</pubDate>
+    <description>We are announcing the ability to automatically handle waiting conversations when queues close or become unstaffed in Dynamics 365 Contact Center. This feature will reach general availability on June 20, 2026. How does this affect me? This feature enhances queue handling by intelligently detecting two key scenarios where conversations would otherwise remain unserved: Queue transitions to Out of Operating Hours: The system continuously monitors active conversations that entered a queue before clos...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
+  </item>
   <item>
     <title>MC1323310: Updates available for Microsoft 365 Apps for Current Channel</title>
     <link>https://message.cengizyilmaz.net/message/mc1323310-updates-available-for-microsoft-365-apps-for-current-channel</link>
@@ -4593,45 +4629,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm559107-microsoft-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</guid>
     <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
     <description>Users will be able to see a community&apos;s pinned resources and related communities in Teams for iOS.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>RM554927: Microsoft Teams: Recently used emojis sync across devices</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm554927-microsoft-teams-recently-used-emojis-sync-across-devices</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>Recently used emojis and reactions sync across Teams on desktop and mobile, making it easier to express yourself wherever you work.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM551196: Microsoft Viva: Copilot Analytics - Copilot configuration insights in the Copilot Dashboard Readiness page</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm551196-microsoft-viva-copilot-analytics-copilot-configuration-insights-in-the-copilot-dashboard-readiness-page</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm551196-microsoft-viva-copilot-analytics-copilot-configuration-insights-in-the-copilot-dashboard-readiness-page</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>The Copilot Dashboard’s updated Readiness page provides IT leaders with tailored Copilot configuration recommendations. Th suggested settings are meant to streamline deployment, enhance user experience, and help users get most out of Microsoft 365 Copilot, Copilot Chat and agents. #copilotcontrolsystem</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>RM547731: Microsoft Copilot (Microsoft 365): Business Justification for Copilot License Requests</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm547731-microsoft-copilot-microsoft-365-business-justification-for-copilot-license-requests</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm547731-microsoft-copilot-microsoft-365-business-justification-for-copilot-license-requests</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>When requesting a Microsoft 365 Copilot license, users can now provide a business justification explaining why they need Copilot. This context is shown to admins during review, helping them make faster, more informed approval decisions and supporting governance and audit needs.</description>
-    <category>Microsoft 365 admin center</category>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-  </item>
-  <item>
-    <title>RM508518: Microsoft Viva: Organizational Data in Microsoft 365 is now available in GCC-Moderate</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm508518-microsoft-viva-organizational-data-in-microsoft-365-is-now-available-in-gccmoderate</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm508518-microsoft-viva-organizational-data-in-microsoft-365-is-now-available-in-gccmoderate</guid>
-    <pubDate>Thu, 30 Apr 2026 23:30:16 GMT</pubDate>
-    <description>We’re excited to announce that Organizational Data in Microsoft 365 is now available in the GCC-Moderate (GCC-M) environment! Organizational Data in Microsoft 365 provides a secure, compliant, and scalable platform for ingesting organizational data into Microsoft 365. With this release, government cloud customers can now leverage the same powerful data ingestion capabilities previously available only in commercial environments.</description>
-    <category>Microsoft 365 admin center</category>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Viva</category>
   </item>
