@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 21:35:50 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 22:04:45 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1325441: Microsoft Purview | Data Lifecycle Management - Archive OneDrive and SharePoint files under retention</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325441-microsoft-purview-data-lifecycle-management-archive-onedrive-and-sharepoint-files-under-retention</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325441-microsoft-purview-data-lifecycle-management-archive-onedrive-and-sharepoint-files-under-retention</guid>
+    <pubDate>Thu, 28 May 2026 22:04:45 GMT</pubDate>
+    <description>Microsoft Purview Data Lifecycle Management will enable archiving OneDrive and SharePoint files under retention policies to reduce storage costs by moving inactive content to Microsoft 365 Archive. Archived files remain compliant and discoverable but are excluded from Copilot indexing. The feature requires admin setup and rolls out worldwide from late June to mid-July 2026.</description>
+    <category>Message Center</category>
+    <category>Microsoft Purview</category>
+  </item>
   <item>
     <title>MC1325422: Microsoft 365 Copilot app: Simplified, chat-centered experience</title>
     <link>https://message.cengizyilmaz.net/message/mc1325422-microsoft-365-copilot-app-simplified-chatcentered-experience</link>
@@ -4613,15 +4622,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Outlook</category>
     <category>PowerPoint</category>
     <category>Word</category>
-  </item>
-  <item>
-    <title>MC1301802: Change Optics report for Exchange Online begins public preview</title>
-    <link>https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</guid>
-    <pubDate>Tue, 05 May 2026 22:04:51 GMT</pubDate>
-    <description>The Change Optics report for Exchange Online is in public preview, providing administrators visibility into email traffic affected by upcoming transport changes. It identifies onmicrosoft.com external traffic and Direct Send traffic, is enabled by default, requires no preparation, and does not impact mail flow or users.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
   </item>
 </channel>
 </rss>
