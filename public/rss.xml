@@ -6,8 +6,53 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 20:15:03 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 21:35:50 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1325422: Microsoft 365 Copilot app: Simplified, chat-centered experience</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325422-microsoft-365-copilot-app-simplified-chatcentered-experience</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325422-microsoft-365-copilot-app-simplified-chatcentered-experience</guid>
+    <pubDate>Thu, 28 May 2026 21:35:50 GMT</pubDate>
+    <description>Microsoft 365 Copilot app updates introduce a streamlined, chat-centered experience with simplified navigation, a new Tasks tab, and consolidated Work IQ toggle. Rolling out from May to July 2026, these changes enhance usability across web and desktop for all Copilot users, requiring no user action to enable.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 Copilot Chat</category>
+  </item>
+  <item>
+    <title>MC1325419: Microsoft Clipchamp: Licensing SKU and service plan naming update</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325419-microsoft-clipchamp-licensing-sku-and-service-plan-naming-update</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325419-microsoft-clipchamp-licensing-sku-and-service-plan-naming-update</guid>
+    <pubDate>Thu, 28 May 2026 21:34:41 GMT</pubDate>
+    <description>Microsoft Clipchamp licensing SKU and service plan names will be updated in mid-June 2026 for clarity and consistency with Microsoft 365 standards. No changes to features or user experience. Updates apply automatically; no action required, but review internal references after June 10, 2026.</description>
+    <category>Message Center</category>
+    <category>Microsoft Clipchamp </category>
+  </item>
+  <item>
+    <title>MC1325416: Microsoft Teams: Guest invitation emails will be sent from the inviter’s email address</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325416-microsoft-teams-guest-invitation-emails-will-be-sent-from-the-inviters-email-address</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325416-microsoft-teams-guest-invitation-emails-will-be-sent-from-the-inviters-email-address</guid>
+    <pubDate>Thu, 28 May 2026 21:34:07 GMT</pubDate>
+    <description>Microsoft Teams guest invitation emails will soon be sent from the inviter’s email address instead of a no-reply address, improving clarity and enabling direct replies. This change, rolling out worldwide from late June to late July 2026, requires no admin action but users should be informed.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1325414: Microsoft Entra ID SSPR will require registered authentication methods starting September 7, 2026</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325414-microsoft-entra-id-sspr-will-require-registered-authentication-methods-starting-september-7-2026</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325414-microsoft-entra-id-sspr-will-require-registered-authentication-methods-starting-september-7-2026</guid>
+    <pubDate>Thu, 28 May 2026 21:33:29 GMT</pubDate>
+    <description>Starting September 7, 2026, Microsoft Entra ID SSPR will require explicitly registered authentication methods for password reset verification, disallowing directory-sourced contact info unless registered. A registration campaign begins July 6, 2026. Organizations must ensure users register methods to avoid reset failures.</description>
+    <category>Message Center</category>
+    <category>Microsoft Entra</category>
+  </item>
+  <item>
+    <title>MC1325406: Microsoft 365 Apps: Cloud update – simplified channel management (public preview)</title>
+    <link>https://message.cengizyilmaz.net/message/mc1325406-microsoft-365-apps-cloud-update-simplified-channel-management-public-preview</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1325406-microsoft-365-apps-cloud-update-simplified-channel-management-public-preview</guid>
+    <pubDate>Thu, 28 May 2026 21:28:14 GMT</pubDate>
+    <description>Microsoft 365 Apps Cloud Update introduces simplified profile and channel management, allowing admins to assign update profiles using Microsoft Entra ID groups in a single workflow. Rolling out from May to June 2026, it automates profile migration with no user impact and requires no action for public preview.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+  </item>
   <item>
     <title>MC1256307: Microsoft Teams: Recently used emojis sync across devices</title>
     <link>https://message.cengizyilmaz.net/message/mc1256307-microsoft-teams-recently-used-emojis-sync-across-devices</link>
@@ -4577,51 +4622,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>The Change Optics report for Exchange Online is in public preview, providing administrators visibility into email traffic affected by upcoming transport changes. It identifies onmicrosoft.com external traffic and Direct Send traffic, is enabled by default, requires no preparation, and does not impact mail flow or users.</description>
     <category>Exchange Online</category>
     <category>Message Center</category>
-  </item>
-  <item>
-    <title>MC1281505: Microsoft Purview: Data Lifecycle Management- Azure PST Import</title>
-    <link>https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</guid>
-    <pubDate>Tue, 05 May 2026 20:32:06 GMT</pubDate>
-    <description>Azure PST Import enables Microsoft 365 admins to import PST files from Azure Blob Storage into Exchange Online mailboxes using PowerShell. The process includes readiness analysis, import execution, and cleanup, with no GUI available. It starts globally on August 31, 2026, requiring specific Azure permissions and mailbox prerequisites. Imported data follows existing retention and compliance policies.</description>
-    <category>Message Center</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1268933: Viva Engage: Pinned resources and related communities in Teams for iOS</title>
-    <link>https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</guid>
-    <pubDate>Tue, 05 May 2026 17:35:49 GMT</pubDate>
-    <description>Viva Engage in Microsoft Teams for iOS will add pinned resources and related communities by late July 2026, aligning with other platforms. This feature, enabled by default, improves content access without requiring admin changes. Organizations should inform users and community admins to prepare.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1254552: Copilot Notebooks: New features coming to Frontier Public</title>
-    <link>https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</guid>
-    <pubDate>Tue, 05 May 2026 17:00:09 GMT</pubDate>
-    <description>Starting late March 2026, new Copilot Notebooks features—like chat interactivity, study guides, SharePoint grounding, PowerPoint and Word agents, group sharing, and mind maps—will roll out in Frontier Public tenants, reaching general availability by June 2026. Features are enabled by default with no admin action required.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-  </item>
-  <item>
-    <title>MC1274551: Microsoft Teams: Book future meetings from Microsoft Teams panels (Android)</title>
-    <link>https://message.cengizyilmaz.net/message/mc1274551-microsoft-teams-book-future-meetings-from-microsoft-teams-panels-android</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1274551-microsoft-teams-book-future-meetings-from-microsoft-teams-panels-android</guid>
-    <pubDate>Tue, 05 May 2026 16:47:47 GMT</pubDate>
-    <description>Microsoft Teams will enable booking future meetings directly from Android-based Teams panel devices starting mid-May 2026. This feature, off by default, requires admin activation and supports Teams Rooms Pro and Shared Device licenses. Users can browse room calendars, add guests, and book available slots through the panel.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1219793: Brand impersonation protection for Teams Calling</title>
-    <link>https://message.cengizyilmaz.net/message/mc1219793-brand-impersonation-protection-for-teams-calling</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1219793-brand-impersonation-protection-for-teams-calling</guid>
-    <pubDate>Tue, 05 May 2026 16:43:55 GMT</pubDate>
-    <description>Brand Impersonation Protection for Teams Calling will roll out mid-May 2026, warning users of suspicious inbound calls from first-contact external callers to reduce fraud risks. The feature is enabled by default, requires no admin action, and existing calling policies remain unchanged.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
   </item>
 </channel>
 </rss>
