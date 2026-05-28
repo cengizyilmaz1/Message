@@ -13,6 +13,10 @@
       "Value": "561915"
     },
     {
+      "Name": "FeatureStatusJson",
+      "Value": "{\"561915\":[{\"RoadmapId\":561915,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T01:00:33.783312Z\",\"LatestRing\":null},{\"RoadmapId\":561915,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T01:00:33.7833121Z\",\"LatestRing\":null}]}"
+    },
+    {
       "Name": "Summary",
       "Value": "Microsoft Teams will allow event organizers to save and reuse custom event templates, including details, participants, branding, and settings, starting June 2026. This feature requires no admin setup and helps ensure consistent event configurations across the organization. No user action is needed."
     },

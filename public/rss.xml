@@ -6,8 +6,326 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 22:54:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 23:15:50 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>RM564621: Microsoft Purview: Insider Risk Management - Unified alert queue</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564621-microsoft-purview-insider-risk-management-unified-alert-queue</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564621-microsoft-purview-insider-risk-management-unified-alert-queue</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We’re introducing a new unified alert triage experience in Insider Risk Management that brings agent‑driven insights directly into the standard Alerts queue. With this update, analysts can view agent categorizations alongside traditional alert filters and columns in a single, consolidated workflow. The updated alert details panel, enables faster investigation and action from the alerts list page by embedding agent insights directly into the alert experience. To support customer transition, the e...</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>RM564620: Microsoft Purview: Insider Risk Management - Expanding note capabilities across alerts &amp; cases</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564620-microsoft-purview-insider-risk-management-expanding-note-capabilities-across-alerts-and-cases</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564620-microsoft-purview-insider-risk-management-expanding-note-capabilities-across-alerts-and-cases</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We’re introducing a new collaboration capability in Insider Risk Management that enables analysts and investigators to add notes directly within alerts. With this feature, users can document investigation progress, share findings, and capture key context throughout the triage process. In addition to manually added notes, system‑generated notes will automatically record updates such as alert status changes or user assignments — helping teams maintain a clear and auditable investigation timeline....</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>RM564619: Microsoft Purview: Insider Risk Management - Enhanced user profile in IRM alerts</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564619-microsoft-purview-insider-risk-management-enhanced-user-profile-in-irm-alerts</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564619-microsoft-purview-insider-risk-management-enhanced-user-profile-in-irm-alerts</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We’re enhancing the User section within Insider Risk Management alerts to provide investigators with more contextual user profile and risk attributes directly within their workflow. With this update, analysts can now view key user details such as employee type, office location, start date, policy inclusion, priority user group status, and last working day—helping them build a more complete understanding of the user during investigations without navigating away from the alert experience. This fea...</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>RM564610: Outlook: Variable number of message preview lines</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564610-outlook-variable-number-of-message-preview-lines</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564610-outlook-variable-number-of-message-preview-lines</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Outlook for Windows and Outlook for Web will now allow users to modify how the preview text for emails show in the message list. The preview text can now take up 2 lines, 1 whole line, or 0 additional lines.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Outlook</category>
+  </item>
+  <item>
+    <title>RM564609: Outlook: All Accounts view (Unified Inbox) brings your email into a single inbox view</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564609-outlook-all-accounts-view-unified-inbox-brings-your-email-into-a-single-inbox-view</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564609-outlook-all-accounts-view-unified-inbox-brings-your-email-into-a-single-inbox-view</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>The All-Accounts view, also known as Unified Inbox, lets you see emails from multiple accounts in a single inbox view in the new Outlook for Windows, without merging your mailboxes. Each account&apos;s inbox stays separate; the view brings them together so you can triage in one place. Users can read, delete, move, archive, and mark messages across accounts without switching between mailboxes. The experience integrates with Copilot for AI-assisted email workflows and supports Immersive Search for find...</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Outlook</category>
+  </item>
+  <item>
+    <title>RM564608: Microsoft Copilot (Microsoft 365): Support for MCP Agents with Interactive UI Widgets in Government Clouds</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564608-microsoft-copilot-microsoft-365-support-for-mcp-agents-with-interactive-ui-widgets-in-government-clouds</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564608-microsoft-copilot-microsoft-365-support-for-mcp-agents-with-interactive-ui-widgets-in-government-clouds</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Feature description: Model Context Protocol (MCP) based agents in Microsoft 365 Copilot Chat will now be able to surface rich, interactive UI widgets directly within chat. This enhancement enables developers to deliver more engaging and structured agent interactions. Users will experience these widgets when interacting with agents that implement them, and admins will continue to manage these agents through the Microsoft 365 Admin Center.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM564607: Microsoft Copilot (Microsoft 365): MCP-Based Agent Enablement for U.S. Government Clouds</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564607-microsoft-copilot-microsoft-365-mcpbased-agent-enablement-for-us-government-clouds</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564607-microsoft-copilot-microsoft-365-mcpbased-agent-enablement-for-us-government-clouds</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We’re introducing support for Model Context Protocol (MCP)-based agents in Microsoft 365 Copilot . This update enables developers to build Copilot agents using MCP servers and allows users to interact with these agents using familiar experiences. This change supports extensibility and improves agent capabilities for organizations.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM564606: Microsoft Copilot (Microsoft 365): Declarative agents with Actions available in GCC High and DoD</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm564606-microsoft-copilot-microsoft-365-declarative-agents-with-actions-available-in-gcc-high-and-dod</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm564606-microsoft-copilot-microsoft-365-declarative-agents-with-actions-available-in-gcc-high-and-dod</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Declarative Agents with Actions enable Microsoft 365 Copilot to take real-world actions by invoking APIs, plugins, and enterprise workflows directly within the chat experience. Using custom actions, declarative agents can call external systems, execute operations, and retrieve or update data, moving beyond Q&amp;A to full task completion. These actions are powered through API plugins, MCP tools, and enterprise connectors, allowing seamless integration with line-of-business applications and services....</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM562993: Endpoint Data Loss Prevention — Endpoint DLP now supports a pre curated list of file extensions for the file extension condition</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm562993-endpoint-data-loss-prevention-endpoint-dlp-now-supports-a-pre-curated-list-of-file-extensions-for-the-file-extension-condition</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm562993-endpoint-data-loss-prevention-endpoint-dlp-now-supports-a-pre-curated-list-of-file-extensions-for-the-file-extension-condition</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Endpoint DLP now includes a pre curated list of file extensions for the file extension condition. Previously, file extensions were entered as free form text, which could result in unsupported or non-scannable extensions being used. This could lead to gaps in protection and increase processing overhead on endpoints. With the pre curated list, you can select only supported file extensions. This helps improve policy reliability and reduces unnecessary processing on endpoints.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>RM562662: Microsoft 365 app: New Copilot Notebooks design in the Microsoft 365 Copilot App</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm562662-microsoft-365-app-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm562662-microsoft-365-app-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>The new Copilot Notebooks design in the Microsoft 365 Copilot app now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook&apos;s accumulated context to ground responses, so work continues across sessions instead of starting over each time. While this is the quicker, light-weight Notebooks experience, you can still find the fuller, workspace-forward experience in OneNote.</description>
+    <category>Microsoft 365 app</category>
+    <category>Microsoft 365 Roadmap</category>
+  </item>
+  <item>
+    <title>RM561914: Microsoft Teams: Mandatory pre-meeting consent</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm561914-microsoft-teams-mandatory-premeeting-consent</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561914-microsoft-teams-mandatory-premeeting-consent</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We are providing a new configuration experience in Teams Admin Center where tenant admins can enable and customize an explicit consent message before joining any meeting hosted in their organization.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM561204: Planner: My Tasks redesign</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm561204-planner-my-tasks-redesign</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561204-planner-my-tasks-redesign</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>A redesigned My Tasks experience that brings your tasks into one place, making it easier to capture work, prioritize what matters, and stay focused. Copilot helps surface your top priorities.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Planner</category>
+  </item>
+  <item>
+    <title>RM560539: Microsoft Copilot (Microsoft 365): Dataverse data connected to Microsoft 365 Copilot</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560539-microsoft-copilot-microsoft-365-dataverse-data-connected-to-microsoft-365-copilot</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560539-microsoft-copilot-microsoft-365-dataverse-data-connected-to-microsoft-365-copilot</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Let people search and query Dataverse business data from Microsoft 365 Copilot.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM562340: Microsoft Teams: Preloaded video for Teams Events and Meetings</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm562340-microsoft-teams-preloaded-video-for-teams-events-and-meetings</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm562340-microsoft-teams-preloaded-video-for-teams-events-and-meetings</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Users can now upload videos directly into a Teams event or meeting from OneDrive from the &quot;Manage view&quot; options when an organizer has turned on Manage What Attendees See mode. This ensures a smoother high quality video playback with a more consistent experience for attendees.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM561489: Microsoft Purview: Data Security Investigations – Introducing OCR support</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm561489-microsoft-purview-data-security-investigations-introducing-ocr-support</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561489-microsoft-purview-data-security-investigations-introducing-ocr-support</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Microsoft Purview Data Security Investigations (DSI) is extending our investigations by adding optical character recognition (OCR), extracting text from images and incorporating it into investigation data. This enables AI-powered deep content analysis to uncover data security risks that are often hidden within visual content.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>RM560550: Exchange: Dynamic distribution groups now populate membership faster on creation and modification</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560550-exchange-dynamic-distribution-groups-now-populate-membership-faster-on-creation-and-modification</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560550-exchange-dynamic-distribution-groups-now-populate-membership-faster-on-creation-and-modification</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We&apos;re updating dynamic distribution groups (DDGs) in Exchange Online to make group membership available sooner after creation or a filter change. For DDGs with 5,000 members or fewer, membership is now populated as part of the creation or modification operation — no more waiting up to 2 hours.</description>
+    <category>Exchange</category>
+    <category>Microsoft 365 Roadmap</category>
+  </item>
+  <item>
+    <title>RM560816: Microsoft Teams: Quick Share for Images</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560816-microsoft-teams-quick-share-for-images</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560816-microsoft-teams-quick-share-for-images</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Microsoft Teams extends Quick Share to images, making it fast and easy to share visual content across chats and channels. With access from hover, right click, overflow menus, and shared tabs, you can quickly copy links or share images while preserving existing permissions.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM560814: Microsoft Teams: Search in quick sharing experience</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560814-microsoft-teams-search-in-quick-sharing-experience</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560814-microsoft-teams-search-in-quick-sharing-experience</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Microsoft Teams makes it easier to find and attach files by enabling search directly within the quick sharing experience. You can now locate cloud based files while attaching content, reducing friction when sharing files across chats and channels.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM560813: Microsoft Teams: Unblock users to send message while file is uploading in the background</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560813-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560813-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Large file sharing in Teams today introduces blocking behavior, forcing users to wait for uploads to complete and disrupting real-time collaboration. To improve productivity and reduce perceived latency, we are introducing asynchronous file uploads. This allows users to continue sending messages while the file uploads in the background, enabling a more seamless and uninterrupted collaboration experience.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM560695: Outlook: Teammates Calendars in Left Nav in calendar</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560695-outlook-teammates-calendars-in-left-nav-in-calendar</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560695-outlook-teammates-calendars-in-left-nav-in-calendar</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Users can now see colleagues’ and direct reports’ calendars in the left navigation by default—without manual setup. #newoutlookforwindows</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Outlook</category>
+  </item>
+  <item>
+    <title>RM560547: Microsoft Teams: Report external users for security concerns in Teams</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560547-microsoft-teams-report-external-users-for-security-concerns-in-teams</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560547-microsoft-teams-report-external-users-for-security-concerns-in-teams</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Users can now report suspicious external users directly within Teams, alongside existing block actions. Reports are surfaced in the Teams admin center, giving admins visibility into potentially risky interactions and enabling them to investigate and take appropriate actions. This enhancement helps organizations respond faster to phishing, impersonation, and other external threats while leveraging end-user signals as an additional layer of protection.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM560076: SharePoint: Create charts on pages with AI</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm560076-sharepoint-create-charts-on-pages-with-ai</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560076-sharepoint-create-charts-on-pages-with-ai</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>This feature empowers authors to create rich, interactive charts with AI in SharePoint when editing SharePoint pages. Authors can describe the chart they want to create in plain language within a chat on a SharePoint page.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+    <category>SharePoint</category>
+  </item>
+  <item>
+    <title>RM558340: Microsoft Teams: Account Switching for Native Mac Controls via Dock and Menu Bar</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm558340-microsoft-teams-account-switching-for-native-mac-controls-via-dock-and-menu-bar</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm558340-microsoft-teams-account-switching-for-native-mac-controls-via-dock-and-menu-bar</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Users will now find controls for switching between the accounts and tenants that they are signed into making it easier to navigate on Mac.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM557179: Microsoft Teams: Minimized meeting window enhancements</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm557179-microsoft-teams-minimized-meeting-window-enhancements</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557179-microsoft-teams-minimized-meeting-window-enhancements</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We&apos;re improving the experience when the active meeting window is minimized. Users can now raise their hand and send reactions without restoring the full meeting window. They can also choose between two minimized views: an expanded view that shows up to 4 participant videos, or a compact view that does not display other participants&apos; video.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM557169: Microsoft Teams: Simplified Teams app bar to create a cleaner and more focused experience.</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm557169-microsoft-teams-simplified-teams-app-bar-to-create-a-cleaner-and-more-focused-experience</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557169-microsoft-teams-simplified-teams-app-bar-to-create-a-cleaner-and-more-focused-experience</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>We’ve simplified the app bar to help you focus on what matters. Apps are easier to scan in a cleaner View more apps list, the overflow menu is less cluttered, and you can choose to show or hide the app bar to create more space for your work.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM553594: Built‑in AI Interpreter for Calls on Teams Phone Devices</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm553594-builtin-ai-interpreter-for-calls-on-teams-phone-devices</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm553594-builtin-ai-interpreter-for-calls-on-teams-phone-devices</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>With AI Interpreter, Teams Phone Devices provide real‑time language interpretation directly within the call experience. Users can participate naturally in multilingual conversations while the device interprets spoken audio, reducing language barriers and supporting clearer communication in everyday calling scenarios.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM553590: Microsoft Teams: Teams Phone Device user multi-line</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm553590-microsoft-teams-teams-phone-device-user-multiline</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm553590-microsoft-teams-teams-phone-device-user-multiline</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Teams Phone user multi‑line gives callers more flexibility and control by allowing administrators to assign up to 10 phone numbers to a single user. With full support on Teams Phone Android devices, users can seamlessly make and receive calls from multiple numbers without switching accounts or hardware. This makes it easy to manage different roles, departments, or regional identities—all from one unified Teams experience. The result is a familiar, localized calling experience for users who work...</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>RM529858: Microsoft Copilot (Microsoft 365): Copilot Shortcuts for Pages on Mobile</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm529858-microsoft-copilot-microsoft-365-copilot-shortcuts-for-pages-on-mobile</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm529858-microsoft-copilot-microsoft-365-copilot-shortcuts-for-pages-on-mobile</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Mobile users can utilize Copilot Shortcuts with suggested prompts to edit a Page.</description>
+    <category>Microsoft 365 app</category>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM531758: Microsoft Copilot (Microsoft 365): Now smarter with visuals: Declarative Agents leverage embedded images for richer, more accurate answers</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm531758-microsoft-copilot-microsoft-365-now-smarter-with-visuals-declarative-agents-leverage-embedded-images-for-richer-more-accurate-answers</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm531758-microsoft-copilot-microsoft-365-now-smarter-with-visuals-declarative-agents-leverage-embedded-images-for-richer-more-accurate-answers</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Declarative Agents have been enhanced to interpret and ground responses using images embedded in files such as Word documents (.docx), PowerPoint presentations (.pptx), and PDFs. This capability allows the agent to extract insights from visual elements like charts, diagrams, and screenshots, ensuring that answers are not only text-based but also informed by graphical context. By combining textual and visual understanding, Declarative Agents deliver more comprehensive and contextually accurate re...</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM518288: Outlook: Support for Storing S/MIME Certificates in Contacts in New Outlook</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm518288-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm518288-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>The new Outlook will now allow users to store S/MIME encryption certificates within their Contacts. This enables users to save certificates directly in contact entries and use them to send S/MIME encrypted emails to the contacts. #newoutlookforwindows</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Outlook</category>
+  </item>
+  <item>
+    <title>RM515160: Microsoft Copilot (Microsoft 365): [Copilot Extensibility] Customers can connect M365 Copilot with 15Five to surface team priorities and recognition with Copilot Connector</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm515160-microsoft-copilot-microsoft-365-copilot-extensibility-customers-can-connect-m365-copilot-with-15five-to-surface-team-priorities-and-recognition-with-copilot-connector</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm515160-microsoft-copilot-microsoft-365-copilot-extensibility-customers-can-connect-m365-copilot-with-15five-to-surface-team-priorities-and-recognition-with-copilot-connector</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Customers can connect M365 Copilot with 15Five to surface team priorities and recognition with Copilot Connector.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM516040: Microsoft Copilot (Microsoft 365): Web Link as a Reference in Copilot Notebooks</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm516040-microsoft-copilot-microsoft-365-web-link-as-a-reference-in-copilot-notebooks</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm516040-microsoft-copilot-microsoft-365-web-link-as-a-reference-in-copilot-notebooks</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Add web links as references in your Copilot Notebooks.</description>
+    <category>Microsoft 365 app</category>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Copilot (Microsoft 365)</category>
+  </item>
+  <item>
+    <title>RM510100: Microsoft 365 app: Add Search results as references to your Copilot Notebooks in the M365 Copilot app</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm510100-microsoft-365-app-add-search-results-as-references-to-your-copilot-notebooks-in-the-m365-copilot-app</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm510100-microsoft-365-app-add-search-results-as-references-to-your-copilot-notebooks-in-the-m365-copilot-app</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Users can quickly add a Search result as a reference to a Copilot Notebook within the M365 Copilot app.</description>
+    <category>Microsoft 365 app</category>
+    <category>Microsoft 365 Roadmap</category>
+  </item>
+  <item>
+    <title>RM506744: Microsoft 365: Department Billing for Microsoft 365 Backup</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm506744-microsoft-365-department-billing-for-microsoft-365-backup</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm506744-microsoft-365-department-billing-for-microsoft-365-backup</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Department Billing for Microsoft 365 Backup enables administrators to configure backups by granular scopes—such as departments, geographic locations, or member firms—and manage pay-as-you-go charges across multiple Azure subscriptions. With Role-Based Access Control (RBAC), department-specific backup administrators can be assigned, ensuring management control, and tailored backup management aligned to organizational boundaries.</description>
+    <category>Microsoft 365</category>
+    <category>Microsoft 365 Roadmap</category>
+  </item>
+  <item>
+    <title>RM488091: Microsoft Teams: Unified attachment flow on Teams Mobile</title>
+    <link>https://message.cengizyilmaz.net/roadmap/rm488091-microsoft-teams-unified-attachment-flow-on-teams-mobile</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm488091-microsoft-teams-unified-attachment-flow-on-teams-mobile</guid>
+    <pubDate>Wed, 27 May 2026 23:15:50 GMT</pubDate>
+    <description>Introducing a new content picker for Teams Mobile! Attach any type of content, whether files or media, from the paperclip icon in the compose overflow menu. Our unified attach flow makes it easy and intuitive to attach content from any source location.</description>
+    <category>Microsoft 365 Roadmap</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1323270: Microsoft Teams: Secure Reliable Transport (SRT) support for Teams meetings and events</title>
     <link>https://message.cengizyilmaz.net/message/mc1323270-microsoft-teams-secure-reliable-transport-srt-support-for-teams-meetings-and-events</link>
@@ -349,33 +667,6 @@
     <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560815-microsoft-teams-improved-visibility-and-control-for-downloads</guid>
     <pubDate>Tue, 26 May 2026 23:00:59 GMT</pubDate>
     <description>Download manager updates in Microsoft Teams make it easier to track file progress with improved visibility, control, and accessibility. You can now open the manager from the title bar or by using a keyboard shortcut, and view downloads without blocking key chat and channel actions.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM560816: Microsoft Teams: Quick Share for Images</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm560816-microsoft-teams-quick-share-for-images</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560816-microsoft-teams-quick-share-for-images</guid>
-    <pubDate>Tue, 26 May 2026 23:00:59 GMT</pubDate>
-    <description>Microsoft Teams extends Quick Share to images, making it fast and easy to share visual content across chats and channels. With access from hover, right click, overflow menus, and shared tabs, you can quickly copy links or share images while preserving existing permissions.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM560814: Microsoft Teams: Search in quick sharing experience</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm560814-microsoft-teams-search-in-quick-sharing-experience</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560814-microsoft-teams-search-in-quick-sharing-experience</guid>
-    <pubDate>Tue, 26 May 2026 23:00:59 GMT</pubDate>
-    <description>Microsoft Teams makes it easier to find and attach files by enabling search directly within the quick sharing experience. You can now locate cloud based files while attaching content, reducing friction when sharing files across chats and channels.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM560813: Microsoft Teams: Unblock users to send message while file is uploading in the background</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm560813-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560813-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</guid>
-    <pubDate>Tue, 26 May 2026 23:00:59 GMT</pubDate>
-    <description>Large file sharing in Teams today introduces blocking behavior, forcing users to wait for uploads to complete and disrupting real-time collaboration. To improve productivity and reduce perceived latency, we are introducing asynchronous file uploads. This allows users to continue sending messages while the file uploads in the background, enabling a more seamless and uninterrupted collaboration experience.</description>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Teams</category>
   </item>
@@ -1174,15 +1465,6 @@
     <category>Microsoft Purview</category>
   </item>
   <item>
-    <title>RM562340: Microsoft Teams: Preloaded video for Teams Events and Meetings</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm562340-microsoft-teams-preloaded-video-for-teams-events-and-meetings</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm562340-microsoft-teams-preloaded-video-for-teams-events-and-meetings</guid>
-    <pubDate>Wed, 20 May 2026 23:15:13 GMT</pubDate>
-    <description>Users can now upload videos directly into a Teams event or meeting from OneDrive from the &quot;Manage view&quot; options when an organizer has turned on Manage What Attendees See mode. This ensures a smoother high quality video playback with a more consistent experience for attendees.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>RM560055: Microsoft Teams: Efficiency Mode</title>
     <link>https://message.cengizyilmaz.net/roadmap/rm560055-microsoft-teams-efficiency-mode</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560055-microsoft-teams-efficiency-mode</guid>
@@ -1422,24 +1704,6 @@
     <description>Simplify frontline onboarding with an improved Teams mobile experience on personal devices. Workers can easily download and start using the Teams mobile app on their own device in compliance with organizational security policies, reducing the need for manager assistance and IT support.</description>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM518288: Outlook: Support for Storing S/MIME Certificates in Contacts in New Outlook</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm518288-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm518288-outlook-support-for-storing-smime-certificates-in-contacts-in-new-outlook</guid>
-    <pubDate>Tue, 19 May 2026 22:45:25 GMT</pubDate>
-    <description>The new Outlook will now allow users to store S/MIME encryption certificates within their Contacts. This enables users to save certificates directly in contact entries and use them to send S/MIME encrypted emails to the contacts. #newoutlookforwindows</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Outlook</category>
-  </item>
-  <item>
-    <title>RM506744: Microsoft 365: Department Billing for Microsoft 365 Backup</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm506744-microsoft-365-department-billing-for-microsoft-365-backup</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm506744-microsoft-365-department-billing-for-microsoft-365-backup</guid>
-    <pubDate>Tue, 19 May 2026 22:45:25 GMT</pubDate>
-    <description>Department Billing for Microsoft 365 Backup enables administrators to configure backups by granular scopes—such as departments, geographic locations, or member firms—and manage pay-as-you-go charges across multiple Azure subscriptions. With Role-Based Access Control (RBAC), department-specific backup administrators can be assigned, ensuring management control, and tailored backup management aligned to organizational boundaries.</description>
-    <category>Microsoft 365</category>
-    <category>Microsoft 365 Roadmap</category>
   </item>
   <item>
     <title>RM497909: Microsoft CoPilot (Microsoft 365): List email attachments in M365 Copilot</title>
@@ -4243,15 +4507,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Power Apps</category>
   </item>
   <item>
-    <title>RM561489: Microsoft Purview: Data Security Investigations – Introducing OCR support</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm561489-microsoft-purview-data-security-investigations-introducing-ocr-support</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561489-microsoft-purview-data-security-investigations-introducing-ocr-support</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>This feature is bringing the Information Protection Filer Labeler and Viewer applications to the MacOS platform. Enabling customers to have the same capabilities available on Mac. Core functionality will be available with the exception of the Advanced label-based protection feature.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
     <title>RM561488: Microsoft Copilot (Microsoft 365): Simplified design for the Microsoft 365 Copilot app</title>
     <link>https://message.cengizyilmaz.net/roadmap/rm561488-microsoft-copilot-microsoft-365-simplified-design-for-the-microsoft-365-copilot-app</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561488-microsoft-copilot-microsoft-365-simplified-design-for-the-microsoft-365-copilot-app</guid>
@@ -4371,262 +4626,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 app</category>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Copilot (Microsoft 365)</category>
-  </item>
-  <item>
-    <title>RM557675: Outlook: Share Word, Excel, and PowerPoint local files via the new Outlook for Windows</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm557675-outlook-share-word-excel-and-powerpoint-local-files-via-the-new-outlook-for-windows</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557675-outlook-share-word-excel-and-powerpoint-local-files-via-the-new-outlook-for-windows</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>When working in an open Word, Excel, or PowerPoint file, users will now be able to send a copy of the locally stored file by email through the new Outlook for Windows. #newoutlookforwindows</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Outlook</category>
-  </item>
-  <item>
-    <title>RM557192: Microsoft Purview: Data Loss Prevention – Enable DLP Diagnostics for All Roles with Purview DLP Policy Access</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm557192-microsoft-purview-data-loss-prevention-enable-dlp-diagnostics-for-all-roles-with-purview-dlp-policy-access</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557192-microsoft-purview-data-loss-prevention-enable-dlp-diagnostics-for-all-roles-with-purview-dlp-policy-access</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>We’re updating permissions to ensure that all roles with access to view DLP policies in Microsoft Purview can also run diagnostics on those policies. This change enhances visibility and empowers authorized users to troubleshoot and validate policy behavior more effectively.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM551197: Microsoft Viva: Enhanced AI governance for Glint Copilot</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm551197-microsoft-viva-enhanced-ai-governance-for-glint-copilot</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm551197-microsoft-viva-enhanced-ai-governance-for-glint-copilot</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Copilot in Viva Glint will align with Microsoft&apos;s enterprise AI governance platform: enabling your IT and compliance teams to use centralized governance tools for access management and unified monitoring and reporting across all AI deployments in your tenant. This reduces governance complexity and audit burden by providing a single control plane for managing AI features across Microsoft 365. This change removes the existing Copilot toggles in the Viva Glint admin UI, making Viva Feature Access M...</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>RM543713: Microsoft Teams: Call quality feedback surveys for Teams Rooms on Android</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm543713-microsoft-teams-call-quality-feedback-surveys-for-teams-rooms-on-android</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm543713-microsoft-teams-call-quality-feedback-surveys-for-teams-rooms-on-android</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Users can now rate the quality of their calls and meetings and provide additional feedback on calling, video, and screen-sharing experiences to help organizations ensure consistent, high-quality experiences.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM531913: Microsoft Copilot (Microsoft 365): Natural language support for Scheduling prompts</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm531913-microsoft-copilot-microsoft-365-natural-language-support-for-scheduling-prompts</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm531913-microsoft-copilot-microsoft-365-natural-language-support-for-scheduling-prompts</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>This feature allows users to simply express their intention conversationally, and Copilot infers their intention and creates a scheduled prompt automatically.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-  </item>
-  <item>
-    <title>RM511791: Microsoft Purview Compliance Portal: Data Loss Prevention-Enforce DLP protection upon new content before its saved</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm511791-microsoft-purview-compliance-portal-data-loss-preventionenforce-dlp-protection-upon-new-content-before-its-saved</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm511791-microsoft-purview-compliance-portal-data-loss-preventionenforce-dlp-protection-upon-new-content-before-its-saved</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Monitor or protect file with unsaved sensitive content from being printed or being moved to USB or network share.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM496150: Microsoft Teams: Noise Suppression for Dial-In Participants in Teams Audio Conferences</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm496150-microsoft-teams-noise-suppression-for-dialin-participants-in-teams-audio-conferences</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm496150-microsoft-teams-noise-suppression-for-dialin-participants-in-teams-audio-conferences</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Microsoft Teams will soon support noise suppression for dial-in participants. This feature automatically filters out background noise (e.g., traffic, typing) for users who join meetings via phone (PSTN). It enhances clarity and reduces distractions for all meeting participants. The feature will be rolled out gradually. However, if you&apos;d like to enable it yourself, you will be able to do so via the Teams Admin Center:</description>
-    <category>Developer</category>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM496146: Outlook: Data Loss Prevention (DLP) Policy Tips &amp; Override for Outlook Mobile</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm496146-outlook-data-loss-prevention-dlp-policy-tips-and-override-for-outlook-mobile</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm496146-outlook-data-loss-prevention-dlp-policy-tips-and-override-for-outlook-mobile</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Outlook Mobile now supports Data Loss Prevention (DLP) policy tips, helping users avoid accidental data leaks. When sensitive content is detected, users are alerted with inline tips or pop-ups, based on admin-configured rules. This update aligns DLP behavior across all Outlook clients for consistent compliance enforcement.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Outlook</category>
-  </item>
-  <item>
-    <title>RM89975: Microsoft Teams: Meeting participants can request collaborative annotation sessions</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm89975-microsoft-teams-meeting-participants-can-request-collaborative-annotation-sessions</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm89975-microsoft-teams-meeting-participants-can-request-collaborative-annotation-sessions</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>In Microsoft Teams meetings, participants who are not sharing their screen can request to start a collaborative annotation session while a screen or window is being shared. The active sharer (presenter) must approve the request before annotations start for everyone in the meeting. Organizers and co-organizers can control who can start annotations via a new Meeting Options setting under Participation (Everyone (default) or Active sharer).</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-    <category>Targeted Release (Entire Organization)</category>
-  </item>
-  <item>
-    <title>MC1266912: Microsoft 365 Copilot: Intelligent Summaries in Copilot Dashboard</title>
-    <link>https://message.cengizyilmaz.net/message/mc1266912-microsoft-365-copilot-intelligent-summaries-in-copilot-dashboard</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1266912-microsoft-365-copilot-intelligent-summaries-in-copilot-dashboard</guid>
-    <pubDate>Mon, 04 May 2026 22:20:11 GMT</pubDate>
-    <description>Microsoft 365 Copilot Dashboard will automatically provide AI-generated intelligent summaries starting early June 2026, highlighting adoption trends and usage insights for admins. Suggested prompts aid deeper analysis. No configuration or workflow changes are needed; the feature is on by default with existing controls unchanged.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1266023: Microsoft 365 Copilot: Comprehensive Copilot metrics in Copilot Analytics</title>
-    <link>https://message.cengizyilmaz.net/message/mc1266023-microsoft-365-copilot-comprehensive-copilot-metrics-in-copilot-analytics</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1266023-microsoft-365-copilot-comprehensive-copilot-metrics-in-copilot-analytics</guid>
-    <pubDate>Mon, 04 May 2026 22:17:42 GMT</pubDate>
-    <description>Microsoft 365 Copilot will add new usage metrics across apps like Copilot app, Edge, OneNote, Outlook, Word, Excel, and PowerPoint. These metrics will appear in Copilot Dashboard and Analytics, rolling out worldwide from late May to early June 2026, enabled automatically with no required action.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1238432: Microsoft 365 Copilot app: Branded footer customization</title>
-    <link>https://message.cengizyilmaz.net/message/mc1238432-microsoft-365-copilot-app-branded-footer-customization</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1238432-microsoft-365-copilot-app-branded-footer-customization</guid>
-    <pubDate>Mon, 04 May 2026 22:09:56 GMT</pubDate>
-    <description>Starting early May 2026, Microsoft 365 Copilot app will allow admins to add a branded footer with their organization&apos;s logo, confirming a trusted Copilot environment. This feature is off by default, requires admin setup via the Microsoft 365 admin center, and will complete rollout by mid-June 2026.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 Copilot Chat</category>
-  </item>
-  <item>
-    <title>MC1245222: Outlook: Share Word, Excel and PowerPoint local files via the new Outlook for Windows</title>
-    <link>https://message.cengizyilmaz.net/message/mc1245222-outlook-share-word-excel-and-powerpoint-local-files-via-the-new-outlook-for-windows</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1245222-outlook-share-word-excel-and-powerpoint-local-files-via-the-new-outlook-for-windows</guid>
-    <pubDate>Mon, 04 May 2026 22:00:22 GMT</pubDate>
-    <description>The new Outlook for Windows will support sending locally stored Word, Excel, and PowerPoint files as email attachments starting early September 2026 worldwide (October for GCC). This feature is on by default, requires no admin action, and aims to align with classic Outlook functionality.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
-  </item>
-  <item>
-    <title>MC1289720: Microsoft 365 Apps: Cloud Update adds update health reporting</title>
-    <link>https://message.cengizyilmaz.net/message/mc1289720-microsoft-365-apps-cloud-update-adds-update-health-reporting</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1289720-microsoft-365-apps-cloud-update-adds-update-health-reporting</guid>
-    <pubDate>Mon, 04 May 2026 21:56:08 GMT</pubDate>
-    <description>Microsoft 365 Apps Cloud Update adds Update health reporting with detailed error diagnostics and aggregated issue views for admins. Rolling out April to May 2026, it is enabled by default, requires no user impact or policy changes, and enhances admin monitoring and troubleshooting of update issues.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 suite</category>
-  </item>
-  <item>
-    <title>MC1296480: Microsoft 365 Copilot will use private community and event content as grounding sources</title>
-    <link>https://message.cengizyilmaz.net/message/mc1296480-microsoft-365-copilot-will-use-private-community-and-event-content-as-grounding-sources</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1296480-microsoft-365-copilot-will-use-private-community-and-event-content-as-grounding-sources</guid>
-    <pubDate>Mon, 04 May 2026 21:53:39 GMT</pubDate>
-    <description>Microsoft 365 Copilot will begin using private community and event content as grounding sources starting late May 2026, respecting existing permissions and sensitivity labels. This feature is enabled by default, cannot be disabled, and affects all Microsoft 365 tenants using Copilot. No user action is required.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1269207: Viva Engage digest updates: Improvements to weekly</title>
-    <link>https://message.cengizyilmaz.net/message/mc1269207-viva-engage-digest-updates-improvements-to-weekly</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1269207-viva-engage-digest-updates-improvements-to-weekly</guid>
-    <pubDate>Mon, 04 May 2026 21:47:30 GMT</pubDate>
-    <description>Viva Engage is updating weekly digest emails to include catch-up content and will skip daily digests on the same day. Changes roll out worldwide from early to late May 2026. No admin action is needed; users manage subscriptions as before. Notify users and update documentation if needed.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1279093: Microsoft Defender for Office 365: Enhancing how we handle promotional mail</title>
-    <link>https://message.cengizyilmaz.net/message/mc1279093-microsoft-defender-for-office-365-enhancing-how-we-handle-promotional-mail</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1279093-microsoft-defender-for-office-365-enhancing-how-we-handle-promotional-mail</guid>
-    <pubDate>Mon, 04 May 2026 21:42:14 GMT</pubDate>
-    <description>Microsoft Defender for Office 365 will tag promotional emails as “promotions” and can auto-move them to a Promotions folder, learning from user actions. Public preview starts mid-April 2026; general availability begins July 2026. Admins can configure settings, and users can train the system by moving messages.</description>
-    <category>Message Center</category>
-    <category>Microsoft Defender XDR</category>
-  </item>
-  <item>
-    <title>MC1294522: Microsoft Teams: Enhanced cross-platform join via Session Initiation Protocol (SIP) for Teams Rooms on Android</title>
-    <link>https://message.cengizyilmaz.net/message/mc1294522-microsoft-teams-enhanced-crossplatform-join-via-session-initiation-protocol-sip-for-teams-rooms-on-android</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1294522-microsoft-teams-enhanced-crossplatform-join-via-session-initiation-protocol-sip-for-teams-rooms-on-android</guid>
-    <pubDate>Mon, 04 May 2026 15:55:32 GMT</pubDate>
-    <description>Microsoft Teams Rooms on Android will support joining third-party meetings via SIP starting early June 2026, completing by mid-August. This feature, off by default, requires Teams Rooms Pro licensing and device setup. Organizations should prepare by testing, educating users, and updating documentation.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1300584: Microsoft Entra: App Instance Lock enabled by default for new applications</title>
-    <link>https://message.cengizyilmaz.net/message/mc1300584-microsoft-entra-app-instance-lock-enabled-by-default-for-new-applications</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1300584-microsoft-entra-app-instance-lock-enabled-by-default-for-new-applications</guid>
-    <pubDate>Mon, 04 May 2026 15:35:57 GMT</pubDate>
-    <description>Microsoft Entra ID will enable App Instance Lock by default for new applications starting June 2026, protecting sensitive properties from unauthorized changes outside the home tenant. Existing apps are unaffected. Admins can disable the lock if needed. Review and update automation or scripts accordingly before rollout.</description>
-    <category>Message Center</category>
-    <category>Microsoft Entra</category>
-  </item>
-  <item>
-    <title>MC1297983: Exchange admin dashboard adds provider list export for Actionable Messages</title>
-    <link>https://message.cengizyilmaz.net/message/mc1297983-exchange-admin-dashboard-adds-provider-list-export-for-actionable-messages</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1297983-exchange-admin-dashboard-adds-provider-list-export-for-actionable-messages</guid>
-    <pubDate>Fri, 01 May 2026 22:49:28 GMT</pubDate>
-    <description>Starting early May 2026, Exchange admins can view and export organization-scoped Outlook Actionable Messages providers via the admin dashboard for auditing and documentation. This feature requires no configuration, won&apos;t affect users, and will be available by default after rollout. No action is needed to prepare.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-  </item>
-  <item>
-    <title>MC1297982: Use sensitivity labels to block all connected experiences that analyze content in Word, Excel, and PowerPoint</title>
-    <link>https://message.cengizyilmaz.net/message/mc1297982-use-sensitivity-labels-to-block-all-connected-experiences-that-analyze-content-in-word-excel-and-powerpoint</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1297982-use-sensitivity-labels-to-block-all-connected-experiences-that-analyze-content-in-word-excel-and-powerpoint</guid>
-    <pubDate>Fri, 01 May 2026 22:49:04 GMT</pubDate>
-    <description>Microsoft is expanding sensitivity label settings to block all connected experiences that analyze content in Word, Excel, and PowerPoint, starting mid-May 2026. This automatically applies to existing labels without configuration changes, preventing labeled files from being sent for content analysis and enhancing data protection.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
-    <category>Microsoft 365 suite</category>
-  </item>
-  <item>
-    <title>MC1297981: Agent Registry API transition to Agent 365</title>
-    <link>https://message.cengizyilmaz.net/message/mc1297981-agent-registry-api-transition-to-agent-365</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1297981-agent-registry-api-transition-to-agent-365</guid>
-    <pubDate>Fri, 01 May 2026 22:48:32 GMT</pubDate>
-    <description>Microsoft is consolidating agent management with Agent 365, introducing a new Agent 365–powered agent registration Graph API available May 1, 2026. The existing agent registry API will retire June 15, 2026; agents not re-registered by then will stop working. Admins must update registrations and documentation accordingly.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 suite</category>
-  </item>
-  <item>
-    <title>RM559991: Outlook: Account Selector in Outlook Copilot Side Pane</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm559991-outlook-account-selector-in-outlook-copilot-side-pane</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm559991-outlook-account-selector-in-outlook-copilot-side-pane</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>When users have more than one Copilot-enabled account added to new Outlook, the Copilot side pane in Calendar will include an account dropdown that makes it clear which Copilot-enabled account you’re using and lets you switch accounts without relying on Outlook UI’s account context.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Outlook</category>
-  </item>
-  <item>
-    <title>RM560322: Microsoft Purview: eDiscovery - review set limit increase</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm560322-microsoft-purview-ediscovery-review-set-limit-increase</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560322-microsoft-purview-ediscovery-review-set-limit-increase</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Review set limit per case is increased from 20 per case to 100 per case.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM559611: Microsoft Teams: Annotations on Teams Single Window Sharing on macOS</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm559611-microsoft-teams-annotations-on-teams-single-window-sharing-on-macos</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm559611-microsoft-teams-annotations-on-teams-single-window-sharing-on-macos</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Presenters can now share a single application window and enable participants to annotate directly on top of that content, without exposing their entire desktop. This means cleaner presentations, protected privacy, and more engaging discussions across training sessions, workshops, and client meetings.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM558858: Microsoft Purview: eDiscovery - review set limit increase</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm558858-microsoft-purview-ediscovery-review-set-limit-increase</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm558858-microsoft-purview-ediscovery-review-set-limit-increase</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Review set limit per case is increased from 20 per case to 100 per case.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM557977: Microsoft Purview: Data Loss Prevention- Security Store now available within Purview DLP to browse, purchase, and enable partner integrations</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm557977-microsoft-purview-data-loss-prevention-security-store-now-available-within-purview-dlp-to-browse-purchase-and-enable-partner-integrations</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557977-microsoft-purview-data-loss-prevention-security-store-now-available-within-purview-dlp-to-browse-purchase-and-enable-partner-integrations</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Microsoft Security Store is now integrated into the Microsoft Purview DLP experience, giving admins an in‑product way to discover a curated set of integrations that extend Purview capabilities, including data security capabilities for the network. Purchasing and management are completed through Security Store, simplifying how organizations procure partner integrations.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM557180: Microsoft Teams: Consecutive interpretation in Interpreter</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm557180-microsoft-teams-consecutive-interpretation-in-interpreter</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm557180-microsoft-teams-consecutive-interpretation-in-interpreter</guid>
-    <pubDate>Fri, 01 May 2026 21:45:13 GMT</pubDate>
-    <description>Consecutive interpretation enables turn-based interpretation for everyone in the meeting. Interpretation happens after each speaker finishes talking, creating a turn-based flow that supports interactive discussions across two languages.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-    <category>Microsoft Teams</category>
   </item>
 </channel>
 </rss>
