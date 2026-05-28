@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 17:18:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:59:15 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1324284: New entry points for &quot;Create pages with AI in SharePoint&quot;</title>
+    <link>https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</guid>
+    <pubDate>Thu, 28 May 2026 17:59:15 GMT</pubDate>
+    <description>Copilot in SharePoint expands AI-assisted page and news post creation with new entry points at the Publish landing page and Site Template Gallery. Rolling out March to July 2026, it requires a Microsoft 365 Copilot license and is enabled by default for eligible users, enhancing authoring speed and flexibility.</description>
+    <category>Message Center</category>
+    <category>SharePoint Online</category>
+  </item>
   <item>
     <title>MC1266023: Microsoft 365 Copilot: Comprehensive Copilot metrics in Copilot Analytics</title>
     <link>https://message.cengizyilmaz.net/message/mc1266023-microsoft-365-copilot-comprehensive-copilot-metrics-in-copilot-analytics</link>
@@ -532,15 +541,6 @@
     <description>Microsoft Defender XDR adds &quot;Disable account&quot; and &quot;Reset password&quot; buttons to the Password protection page for Active Directory human user accounts. Available by default from late May 2026, these actions enable direct remediation of risky accounts without configuration changes. No action is required from administrators.</description>
     <category>Message Center</category>
     <category>Microsoft Defender XDR</category>
-  </item>
-  <item>
-    <title>MC1324284: New entry points for &quot;Create pages with AI in SharePoint&quot;</title>
-    <link>https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1324284-new-entry-points-for-create-pages-with-ai-in-sharepoint</guid>
-    <pubDate>Wed, 27 May 2026 22:46:49 GMT</pubDate>
-    <description>Copilot in SharePoint expands AI-assisted page and news post creation with new entry points at the Publish landing page and Site Template Gallery. Rolling out worldwide from March to July 2026, it requires a Microsoft 365 Copilot license and offers enhanced, flexible authoring with full editing control.</description>
-    <category>Message Center</category>
-    <category>SharePoint Online</category>
   </item>
   <item>
     <title>MC1324282: Support for disabling file previews in Microsoft Teams</title>
