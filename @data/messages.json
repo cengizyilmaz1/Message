@@ -4,6 +4,383 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the content and timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We are adding <b>new Copilot metrics across Microsoft 365 apps</b> to help you better understand how users engage with Copilot. These metrics include actions taken in the <i>Microsoft 365 Copilot app</i>, <i>Microsoft Edge</i>, and <i>OneNote</i>, and intent-based usage across Outlook, Word, Excel, and PowerPoint. This update expands visibility into how users adopt Copilot and supports improved insights in the<i> Copilot Dashboard </i>and <i>Advanced Analysis</i> in <i>Copilot Analytics</i>.&nbsp;</p><p>In parallel, Microsoft 365 Copilot Chat will unify Work and Web tabs into a single, streamlined Copilot Chat experience. As part of this change, Copilot Analytics will consolidate Copilot Chat (Work)&nbsp;and Copilot Chat (Web) reporting into one unified Copilot Chat metric.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=557981\" target=\"_blank\">557981</a></b>.</p><p><b><b>When this will happen</b></b></p><ul><li><b>General Availability (Worldwide): </b>We will begin rolling out in<b>&nbsp;early June 2026 </b>(previously late May)&nbsp;and expect to complete in<b>&nbsp;mid-June 2026 </b>(previously early June).</li></ul><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>This capability is <b>available to users who are licensed for Microsoft 365 Copilot</b>.</li><li>All Microsoft 365 tenants with access to Copilot Dashboard or Copilot Analytics in<i> Viva Insights</i></li></ul><p><i>What will happen</i></p><ul><li><b>New metrics</b> will appear in the <i>Copilot Dashboard</i> and <i>Advanced Analysis</i>.</li><li>Copilot Chat (Work) will be renamed as Copilot Chat, and Copilot Chat (web) will be&nbsp;renamed as Copilot Chat (legacy web).</li><li>You will be able to<b> track Copilot usage</b> in the <i>Microsoft 365 Copilot app</i>, <i>Microsoft Edge</i>, and <i>OneNote:</i><p><i>&nbsp;</i><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/541186bb-205b-467e-acd9-171a7b90c75b/3cb851af5480cdce76559db63603d26e407f3025.png\" style=\"width: 400px;\" alt=\"user settings\"></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/e8eca007-b073-4613-b500-5a6511c119a9/0223e48964c33ae762d44ace77d3c3b64ea38a35.png\" style=\"width: 400px;\" alt=\"user settings\"></p></li><li><b>Additional intent-based scenarios</b> will be measured in <i>Outlook</i>, <i>Word</i>, <i>Excel</i>, and <i>PowerPoint</i>. These scenarios include suggested replies, translation, coaching, and clean data.</li><li>The feature will be <b>enabled automatically for all tenants</b>.</li><li><b>No configuration changes</b> or policy updates are required.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li>No action is required before rollout.</li><li>You may choose to notify relevant teams about the new metrics.</li><li>Update internal documentation if your organization tracks Copilot usage analytics.</li><li>Review updated online documentation when it becomes available in early May.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "557981"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft 365 Copilot will add new usage metrics across apps like Copilot app, Edge, OneNote, Outlook, Word, Excel, and PowerPoint, enhancing insights in Copilot Analytics. Rollout begins early June 2026, enabled automatically for licensed users with no required configuration changes."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Web"
+      }
+    ],
+    "EndDateTime": "2026-07-20T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1266023",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T17:18:06.73Z",
+    "Services": [
+      "Microsoft Viva"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-03-30T21:49:45Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Microsoft 365 Copilot: Comprehensive Copilot metrics in Copilot Analytics",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the content. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p>\n<p>We’re improving the Frontier Admin Control by adding support for <b>Entra ID groups</b> when managing Frontier enrollment. This update helps administrators scale Frontier pilots more efficiently by aligning enrollment with existing access management practices and reducing the need to manage individual users.</p><p>Nested groups are not supported.</p>\n\n<p><b><b>When this will happen:</b></b></p>\n<p>General Availability (Worldwide): Rollout will begin in<b> early June 2026</b> and is expected to complete by <b>mid-June 2026</b>.</p>\n\n<p><b><b>How this affects your organization:</b></b></p>\n<p><b>Who is affected:</b></p>\n<ul>\n  <li>Microsoft 365 administrators who manage Frontier access using the <b>Frontier Admin Control</b>.</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n  <li>Admins will continue to manage Frontier access from the Frontier Admin Control in the Microsoft 365 admin center.</li><li>Admins can assign Frontier access using Entra ID groups in addition to individual users.</li><p>Screenshot: <i>Frontier admin control showing the option to assign access to specific users and groups:</i></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/b138efe6-5298-4c01-bf05-af2f06dd7fb1/13bef4654a41bbcb725934e7c6dc4b4af9d34573.png\" style=\"width: 400px;\" alt=\"Frontier admin control.\">&gt;</p>\n  <li>Group-based enrollment supports managing pilot audiences without enabling Frontier for the entire tenant.</li>\n  <li>A <b>maximum of 10,000 enrolled users</b> applies when using specific users and/or groups.<ul><li>Admins will see a warning if adding a group causes the total enrolled user count to exceed this limit.</li><li>Admins must remove users or groups until the total enrollment is within the limit.</li></ul></li><li>Tenants enrolling <b>All Users</b> are <b>not subject to the 10,000-user limit</b>.</li><li>There is no change for tenants already enrolling the entire organization.</li></ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n  <li>No immediate action is required.</li>\n  <li>If you plan to use group-based enrollment:</li><ul><li>Create or identify a dedicated Entra ID group for Frontier participants.</li><li>Add the group to the<b> Frontier Admin Control </b>instead of managing individual users.</li><li>Review group membership regularly to ensure the total enrolled users remain within the 10,000-user limit (if not using<b> All Users</b>).</li></ul><li>Update internal admin documentation or pilot guidance, if applicable.</li></ul>\n\n<p><b><b>Compliance considerations:</b></b></p>\n<p>This change introduces an admin control that can be managed through Entra ID group membership. No other compliance impacts were identified.</p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "Summary",
+        "Value": "Starting June 2026, Frontier Admin Control supports assigning access via Entra ID groups, improving enrollment management for up to 10,000 users per group-based pilot. Nested groups aren't supported. No changes for tenants enrolling all users. Admins should prepare by creating dedicated groups and monitoring membership limits."
+      }
+    ],
+    "EndDateTime": "2026-07-15T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1309739",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T16:01:28.397Z",
+    "Services": [
+      "Microsoft 365 suite"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-05-13T23:04:46Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "Admin impact"
+    ],
+    "Title": "Using groups to enable Frontier access in the Frontier Admin Control",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": "2026-05-26T07:00:00Z",
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the content. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re updating the way SharePoint Online enforces user storage quotas to ensure they are consistently aligned with license entitlements. This change fixes an issue where user-specific storage limits could be incorrectly applied during quota refreshes, which could result in inaccurate storage enforcement. These updates help ensure predictable storage behavior and improve reliability for admins managing storage at scale.</p><p><b><b>When this will happen</b></b></p><p style=\"margin-left: 25px;\"><b>General Availability (Worldwide, GCC, GCCH, and DoD)</b>: We will begin rolling out in<b>&nbsp;late May 2026</b> and expect to complete in&nbsp;<b>June 2026</b>.</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>Microsoft 365 tenants using SharePoint Online</li><li>Users who are currently over the OneDrive for Business storage quota allowed by their assigned license</li><li>Admins who have set user-specific storage limits above licensed entitlements</li></ul><p><i>What will happen</i></p><ul><li>User storage quotas will be re-evaluated against license limits during the refresh process.</li><li>Users whose OneDrive for Business storage usage exceeds their licensed quota will be placed into a<b> read-only state</b>, which temporarily restricts write access to existing SharePoint content until storage usage is remediated.</li><li>This includes scenarios where:<ul><li>An admin-set user quota exceeds the license allowance, or</li><li>A user with an EDU license exceeds their licensed storage limit.</li></ul></li><li>No changes are made for users who are within their licensed storage limits.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li><b>Identify users exceeding licensed storage limits</b><ul style=\"\"><li style=\"\">Review OneDrive storage usage across your organization to identify users whose usage exceeds their licensed quota.</li><li style=\"\">Use <a href=\"https://pnp.github.io/script-samples/onedrive-overquota-report/README.html?tabs=graphps\">Identify OneDrive Users Over License-Based Storage Quota | PnP Samples</a>&nbsp;</li><li style=\"\">Review this article: <a href=\"https://learn.microsoft.com/troubleshoot/sharepoint/sites/site-storage-quota-exceeded\" target=\"_blank\">OneDrive site is read-only because storage quota was exceeded - SharePoint | Microsoft Learn</a></li></ul></li><li style=\"\"><b>Take corrective action for affected users. </b>For users exceeding their licensed storage limits:<ul><li>Upgrade the user’s license to increase available storage, or</li><li>Work with the user to reduce storage usage to within licensed limits.</li></ul></li><li>Inform your helpdesk and SharePoint admins about this change so they can support users who may be placed into a read-only state.</li><li>If all users are within their licensed storage quotas, no action is required.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
+      "ContentType": "html"
+    },
+    "Category": "preventOrFixIssue",
+    "Details": [
+      {
+        "Name": "Summary",
+        "Value": "SharePoint Online will update storage quota enforcement by late May to June 2026, aligning user quotas with license limits. Users exceeding licensed storage will enter read-only mode. Admins should identify over-quota users, take corrective actions, and inform support teams. No changes for users within limits."
+      }
+    ],
+    "EndDateTime": "2026-07-30T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1310684",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T15:59:31.84Z",
+    "Services": [
+      "SharePoint Online"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-05-14T20:17:18Z",
+    "Tags": [
+      "Updated message",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "SharePoint Online: Storage quota enforcement updated to align with license limits",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>What and Why</b></b></p><p>Users are currently blocked from sending messages in <i>Microsoft Teams</i> while a file upload is in progress, which can disrupt real-time collaboration. With this update, file uploads will occur asynchronously in the background, allowing users to continue sending messages without interruption.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560813\" target=\"_blank\">560813</a></b>.</p><p><b><b>Rollout Schedule</b></b></p><ul><li><b>Targeted Release: </b>Rollout will begin in<b>&nbsp;early July 2026 </b>(previously mid-June)&nbsp;and is expected to complete by <b>mid-July 2026</b> (previously&nbsp;late June).</li><li><b>General Availability (Worldwide): </b>Rollout will begin in<b>&nbsp;mid-July 2026 </b>(previously late June)&nbsp;and is expected to complete by<b>&nbsp;late July 2026 </b>(previously late June).</li></ul><p><b><b>Impact on Your Organization</b></b></p><p><i>Who is affected</i></p><p style=\"margin-left: 25px;\">All Microsoft Teams users who send files in chats or channels</p><p><i>Platforms/Services</i></p><ul><li>Microsoft Teams</li><li>Desktop (Windows, Mac)</li><li>Web</li><li>Mobile (iOS, Android)</li></ul><p><i>What will happen</i></p><ul><li>Users will be able to send chat messages while files are uploading.</li><li>File uploads will occur asynchronously in the background.</li><li>The message input box will no longer be blocked during uploads.</li><li>There are no changes to how files are stored or shared.</li><li>Existing compliance, retention, and security policies remain unchanged.</li><li>This feature will be enabled by default for all tenants.</li></ul><p><b><b>Action Required / Recommendations</b></b></p><ul><li>No action is required.</li><li>Consider informing your users about improved file upload behavior in <i>Teams chats</i>.</li><li>Update internal training or support documentation if you reference file-sharing workflows.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "560813"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft Teams will allow users to send messages while files upload asynchronously in the background, improving real-time collaboration. This update, rolling out from July to late July 2026, affects all platforms and requires no action. Compliance and file-sharing policies remain unchanged."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Desktop, Mac, Web"
+      }
+    ],
+    "EndDateTime": "2026-08-31T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1317836",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T15:56:39.91Z",
+    "Services": [
+      "Microsoft Teams"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-05-21T16:16:07Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Microsoft Teams: Unblock users to send message while file is uploading in the background",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We will introduce <b>new control</b>s that allow users <b>to customize</b> how<b> quick views appear </b>at the top of their chat and channels lists in <i>Microsoft Teams</i>. This update aligns with customer feedback requesting a cleaner and more focused experience. These controls will help users see only the quick views that are relevant to them and manage when those views appear.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=555856#Roadmap\" target=\"_blank\">555856</a>.</p><p><b><b>When this will happen</b></b></p><ul><li><b>Targeted Release</b>: We will begin rolling out in<b> March 2026</b> and expect to complete in<b>&nbsp;March 2026</b>.</li><li><b>General Availability (Worldwide, GCC, GCCH, and DoD)</b>: We will begin rolling out in<b> late March 2026</b> and expect to complete by<b>&nbsp;late June 2026</b> (previously mid‑April).</li></ul><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i>: All Microsoft Teams users in<i> commercial Microsoft 365 tenants</i>.</p><p><i>What will happen</i>:</p><ul><li>Today, within the Teams chat and Teams apps, users see a set of quick views displayed above the lists of chats and channels. These quick views are always visible for all users, regardless of whether they contain messages.</li><li>With this update,<b> quick views will appear only when they contain messages</b>, and users will have new controls to manage how their quick views behave:<p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/ac2a8537-2aeb-4bdc-90ff-e00023af4651/7034df66d2728d9d810c7bdbe937e44f023b4ec9.png\" style=\"width: 400px;\" alt=\"user settings\"></p></li><li>Quick views such as <i><b>Mentions</b>, <b>Followed threads</b></i>, and <b><i>Tag mentions</i></b> will, by default, appear only when a user has at least one message associated with that view.</li><li>Users will be able to adjust each of these quick views from the context menu, including the ability to show them only when unread messages exist.</li><li>Quick views such as <i><b>Saved</b> </i>will be configurable to show always or be hidden.</li><li>Hidden quick views will be accessible by selecting the<b><i> eye icon </i></b>next to the <i><b>Quick views</b></i> header.</li><li>The <i><b>Quick views</b></i> section will be collapsible, and the header will appear in<b> bold </b>when any quick view contains unread messages.</li><li>This feature<b> will not require admin configuration</b> and will be<b> enabled automatically</b> for users.</li><li><b>Platform availability</b>: This update will be available on Microsoft Teams for<b> Windows, Mac, and web</b>. Support for mobile platforms will follow in a future update.</li></ul><p><b><b>What you can do to prepare</b></b></p><p>No admin action will be required to enable this feature.</p><p>You may want to:</p><ul><li>Inform your helpdesk or support staff about the upcoming change.</li><li>Update user training materials or documentation if you maintain them.</li><li>Review Teams support resources once updated documentation for quick views becomes available.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "555856"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft Teams will introduce new controls in March 2026 allowing users to customize quick views in chat and channel lists. Quick views like Mentions and Followed threads will appear only when messages exist, be adjustable, and the feature will enable automatically without admin action on Windows, Mac, and web."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Android, Desktop, iOS, Mac"
+      }
+    ],
+    "EndDateTime": "2026-07-31T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1234574",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T15:50:09.473Z",
+    "Services": [
+      "Microsoft Teams"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-02-18T18:47:40Z",
+    "Tags": [
+      "Updated message",
+      "Feature update",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Microsoft Teams: New controls for quick views in the chat list",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have decided not to move forward with this change. We apologize for any inconvenience.</p><p>Note: Hiding inactive channels</p><p>Based on Admin feedback, we are updating the behavior for automated hiding of inactive channels to be opt-in (suggestions) only. With this update, Teams will offer users suggestions on channels that are inactive, and the user is prompted to review their inactive channels and hide them only if they choose. The user will also be able to view when they last visited the channel to help them decide if they would like to hide the channel. The settings support this opt-in workflow and there are no changes to the on-demand hiding process.\n</p><p>This feature is enabled for targeted release.</p><p> This message is associated with Microsoft 365 Roadmap ID&nbsp;<a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=325780\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); font-family: sans-serif; font-weight: 400;\">325780</a>.</p><p><b>When this will happen:</b></p><p>The feature is in public preview.</p><p>\n</p><p>Targeted Release: Available now.</p><p>General Availability (Worldwide) and all clouds: We have decided not to move forward with this change.</p><p><b>How this will affect your organization:</b><br></p><p>Before this rollout: Users had to manually manage their relevant channels list by hiding inactive and irrelevant channels.\n</p><p>After this rollout: \n</p><p>Manage preferences for automated suggestions via Teams Settings\n</p><p>If users prefer to manage channels manually, they can opt out of the auto-suggestions process. Simply go to Teams settings, select General, and toggle off \"Suggestions for hiding inactive channels.\" \n</p><p>Hide inactive channels on demand when needed\n</p><p>Users can manually view which channels are inactive and choose to hide some or all of them whenever you need. This can be done from Settings, under General, by clicking the \"Get Suggestions\" button. Note that this action can be performed once every 24 hours.</p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/c987a97b-ad15-4a95-9735-32710e4a8667/a9815846ab73e8b52c5e05b4930b08aa9fb70d37.png\" style=\"width: 800px;\"><br></p><p><b>Automated suggestions of inactive channels \n</b></p><p>With this, Teams will suggest channels that have been inactive for the user. Once the inactive channels are identified, the user is notified with the coach mark message, \"Looks like you haven’t visited some channels lately. Hide them to help you focus.\" \n</p><p>The user can select Review and Hide to see the details and decide which channels they would like to hide. The user can choose not hide any channels by selecting Not Now</p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/f92895e8-16bd-4557-aad3-13904daa1242/1e7e17bfdfb506e1b8adb14b79e890b84badd21c.png\" style=\"width: 500px;\"><br></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/80fecec4-1b81-4c28-882a-911e3b8d2030/f60ebde1c3badf4e8ccd81de91e9ad1070467fdd.png\" style=\"width: 500px;\"><br></p><p>If a user has less than or equal to 25 shown channels, no channels will be suggested for that user. This feature is on by default and all Teams users on the affected platforms will have access to it.</p><p><b>What you need to do to prepare:</b></p><p>Admins need to be aware of this feature, but no additional action is needed.&nbsp;</p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "325780"
+      },
+      {
+        "Name": "FeatureStatusJson",
+        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258871Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258872Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258873Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258873Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft Teams will not proceed with automated hiding of inactive channels. Instead, users can opt-in to receive suggestions for hiding inactive channels and manage them manually via Teams settings. This feature is in public preview and available for targeted release, with no mandatory changes for admins."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Desktop, Mac, Web"
+      }
+    ],
+    "EndDateTime": "2026-05-29T08:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC804771",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T15:36:03.627Z",
+    "Services": [
+      "Microsoft Teams"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2024-06-24T22:56:51Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "User impact"
+    ],
+    "Title": "Microsoft Teams: Hiding inactive channels",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have decided not to move forward with this change. We apologize for any inconvenience.</p><p>As a follow up to MC804771, based on Admin feedback, we are updating the behavior for automated hiding of inactive channels to be opt-in (suggestions) only. With this update, Teams will offer users suggestions on channels that are inactive, and the user is prompted to review their inactive channels and hide them only if they choose. The user will also be able to view when they last visited the channel to help them decide if they would like to hide the channel. The settings support this opt-in workflow and there are no changes to the on demand hiding process.\n</p><p>This message is associated with Microsoft 365 Roadmap ID: <a href=\"https://www.microsoft.com/microsoft-365/roadmap?rtc=1%26filters%3D&amp;searchterms=325780\" target=\"_blank\">325780</a></p><p>\n</p><p><b><b>When this will happen:</b>\n</b></p><p>Targeted Release: Available now.</p><p>General Availability (Worldwide, GCC, GCC High, DoD): We have decided not to move forward with this change.</p><p>\n</p><p><b><b>How this will affect your organization:</b>\n</b></p><p><b>Before this rollout:</b></p><p>Users had to manually manage their relevant channels list by hiding inactive and irrelevant channels.\n</p><p><b>After this rollout: \n</b></p><p>Manage preferences for automated suggestions via Teams Settings\n</p><p>If users prefer to manage channels manually, they can opt out of the auto-suggestions process. Simply go to Teams settings, select General, and toggle off \"Suggestions for hiding inactive channels.\" \n</p><p>Hide inactive channels on demand when needed\n</p><p>Users can manually view which channels are inactive and choose to hide some or all of them whenever you need. This can be done from Settings, under General, by clicking the \"Get Suggestions\" button. Note that this action can be performed once every 24 hours.</p><p>\n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/d494c053-239e-476e-a16d-039d28cfde29 \" width=\"400\" height=\"\"></p><p><b>Automated suggestions of inactive channels \n</b></p><p>With this, Teams will suggest channels that have been inactive for the user. Once the inactive channels are identified, the user is notified with the coach mark message, \"Looks like you haven’t visited some channels lately. Hide them to help you focus.\" \n</p><p>The user can select Review and Hide to see the details and decide which channels they would like to hide. The user can choose not hide any channels by selecting Not Now. \n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/3d2da16e-14da-48bd-8e1c-272a046b412f  \" width=\"400\" height=\"\"></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/c022ea8a-d6b1-48a0-897b-57b5f7eb1014\" width=\"400\" height=\"\"></p><p>If a user has less than or equal to 25 shown channels, no channels will be suggested for that user. This feature is on by default and all Teams users on the affected platforms will have access to it.\n</p><p><b><b>What you need to do to prepare:</b>\n</b></p><p>Admins need to be aware of this feature, but no additional action is needed. \n</p><p><br></p>",
+      "ContentType": "html"
+    },
+    "Category": "planForChange",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "325780"
+      },
+      {
+        "Name": "FeatureStatusJson",
+        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258871Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258872Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258873Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258873Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft Teams will offer opt-in suggestions to hide inactive channels, allowing users to review and choose which channels to hide. Users can toggle this feature on or off in settings and manually manage channels anytime. The planned automatic change was canceled, so manual control remains."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Desktop, Mac, Web"
+      }
+    ],
+    "EndDateTime": "2026-05-29T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1141958",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-28T15:35:35.483Z",
+    "Services": [
+      "Microsoft Teams"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2025-08-25T22:53:21Z",
+    "Tags": [
+      "Updated message",
+      "Feature update",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Microsoft Teams: Choose to hide inactive channels",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
+      "Content": "<p>Updated May 28, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>\nA new <b>Security Detection Report</b> in the Teams admin center provides a unified view of messaging security detections across signals such as impersonation, malicious URLs, and weaponizable file types. This centralized reporting experience improves visibility into threats in Teams and helps admins investigate and respond to suspicious activity more efficiently.</p><p>\nThis message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560702\" target=\"_blank\">560702</a>.</p>\n\n<p><b><b>When this will happen:</b></b></p><p>General Availability (Worldwide): Rollout will begin in<b>&nbsp;mid-July 2026 </b>(previously late June)&nbsp;and is expected to complete by <b>late July 2026</b> (previously&nbsp;late June).</p>\n\n<p><b><b>How this affects your organization:</b></b></p>\n\n<p><b>Who is affected:</b></p>\n<ul>\n<li>Admins who manage Microsoft Teams environments and security operations</li>\n<li>Security and helpdesk teams responsible for investigating messaging threats</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n<li>A new<b> Security Detection Report</b> will be available in the Teams admin center under <b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report.</b></li>\n<p>Screenshot: <i>Example of a Security Detection Report:</i></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/f13d1239-dba5-4cd1-80f2-d3bd34054edd\" style=\"width: 400px;\" alt=\"user settings\"></p><li>The report provides centralized visibility into messaging security detections across Teams, including impersonation attempts, malicious links, and unsafe file types.</li><li>Admins can review detection details such as:</li>\n<ul><li>Sender</li><li>Recipient context</li><li>Detection type</li><li>Available user actions</li></ul><li>Admins can export report data for further investigation, including additional metadata such as sender identifier and thread ID.</li><li>The following messaging security protections are enabled by default:</li><ul><li>Impersonation detection does not require configuration.</li><li>Malicious link scanning can be managed through Messaging safety settings in the Teams admin center.</li><li>Unsafe file type scanning can be managed through Messaging safety settings in the Teams admin center.</li></ul><li>Admins can block malicious external users identified in the report through <b>External access settings</b> to prevent further communication attempts.</li></ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n<li>Review current <b>Messaging safety settings </b>to confirm malicious link and file scanning configurations.</li><li>Familiarize security and helpdesk teams with the new report and export capabilities.</li><li>Update investigation and response workflows to incorporate Teams detection signals.</li><li>Use Teams admin center navigation path to locate the report:<ul><li><b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report</b></li></ul></li><li>Update internal documentation or runbooks if you document security investigation processes.</li></ul>\n\n<p>Before rollout, we will update this post with new documentation.</p><p><b><b>Compliance considerations:</b></b></p><p>\nIntroduces enhanced admin reporting for monitoring and investigating messaging security detections.</p>",
+      "ContentType": "html"
+    },
+    "Category": "planForChange",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "560702"
+      },
+      {
+        "Name": "FeatureStatusJson",
+        "Value": "{\"560702\":[{\"RoadmapId\":560702,\"Platform\":\"Web\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825824Z\",\"LatestRing\":null},{\"RoadmapId\":560702,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258241Z\",\"LatestRing\":null}]}"
+      },
+      {
+        "Name": "Summary",
+        "Value": "A new Security Detection Report in the Teams admin center, launching mid-July 2026, offers centralized visibility into messaging threats like impersonation, malicious links, and unsafe files. Admins can review, export, and act on detections to improve security investigations and responses."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Web"
+      }
+    ],
+    "EndDateTime": "2026-08-31T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1311977",
+    "IsMajorChange": true,
+    "LastModifiedDateTime": "2026-05-28T15:30:45.73Z",
+    "Services": [
+      "Microsoft Teams"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-05-15T23:13:42Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Security Detection Report in Teams Admin Center",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
       "Content": "<b>Update:</b> Release of this feature has been updated.<br><br>We are announcing the ability to enable AI-assisted time-off and swap requests in Dynamics 365 Contact Center. This feature will reach general availability on July 30, 2026. <br><br><b>How does this affect me? </b><br>This feature enables an AI-assisted solution that provides automation for workforce schedules and approvals, governance across time‑off requests, shift bidding, and shift swapping. Supervisor oversight is supported throughout, along with configurable approval rules, and agent-driven decisions with transparent reasoning to ensure operational continuity and fairness.<br><br>Key capabilities of this feature include: <ul><li><b>Time-off requests:</b> Evaluated against configurable constraints such as available leave balance, maximum consecutive days, allowed time‑off windows, shift coverage thresholds (over‑ or understaffed percentages), first‑come, first‑served rules, and seniority or tenure. </li><li><b>Shift bidding:</b> Governed by constraints including shift capacity, skill or proficiency matching, bid order or first‑come, first‑served logic, bidding windows, seniority, and schedule conflict checks such as overlaps or locked schedules. </li><li><b>Shift swapping: </b>Validated using constraints that assess coverage impact before and after the swap, detect schedule conflicts, and enforce swap eligibility rules such as allowed swap types and limits per period. </li></ul><b>What action do I need to take? </b><br> This message is for awareness, and no action is required.",
       "ContentType": "html"
     },
@@ -591,7 +968,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561321\":[{\"RoadmapId\":561321,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408393Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408395Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408396Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408398Z\",\"LatestRing\":null}]}"
+        "Value": "{\"561321\":[{\"RoadmapId\":561321,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260393Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260394Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260395Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260395Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -726,7 +1103,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561915\":[{\"RoadmapId\":561915,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406713Z\",\"LatestRing\":null},{\"RoadmapId\":561915,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406715Z\",\"LatestRing\":null}]}"
+        "Value": "{\"561915\":[{\"RoadmapId\":561915,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259554Z\",\"LatestRing\":null},{\"RoadmapId\":561915,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259556Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -899,7 +1276,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560547\":[{\"RoadmapId\":560547,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407966Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"iOS\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407967Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040797Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Android\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407971Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407973Z\",\"LatestRing\":null}]}"
+        "Value": "{\"560547\":[{\"RoadmapId\":560547,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260123Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"iOS\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260124Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260125Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Android\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260125Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260126Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -1993,7 +2370,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"562413\":[{\"RoadmapId\":562413,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406402Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406406Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406407Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406411Z\",\"LatestRing\":null}]}"
+        "Value": "{\"562413\":[{\"RoadmapId\":562413,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259351Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259354Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259355Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259356Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -2323,7 +2700,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405427Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405429Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040543Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405432Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258521Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258522Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258524Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258526Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -2500,45 +2877,6 @@
     "AdditionalProperties": {}
   },
   {
-    "ActionRequiredByDateTime": "2026-05-26T07:00:00Z",
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p>Updated May 22, 2026: We have updated the content, adding a link to the script. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re updating the way SharePoint Online enforces user storage quotas to ensure they are consistently aligned with license entitlements. This change fixes an issue where user-specific storage limits could be incorrectly applied during quota refreshes, which could result in inaccurate storage enforcement. These updates help ensure predictable storage behavior and improve reliability for admins managing storage at scale.</p><p><b><b>When this will happen</b></b></p><p style=\"margin-left: 25px;\"><b>General Availability (Worldwide, GCC, GCCH, and DoD)</b>: We will begin rolling out in<b>&nbsp;late May 2026</b> and expect to complete in&nbsp;<b>June 2026</b>.</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>Microsoft 365 tenants using SharePoint Online</li><li>Users who are currently over the OneDrive for Business storage quota allowed by their assigned license</li><li>Admins who have set user-specific storage limits above licensed entitlements</li></ul><p><i>What will happen</i></p><ul><li>User storage quotas will be re-evaluated against license limits during the refresh process.</li><li>Users whose OneDrive for Business storage usage exceeds their licensed quota will be placed into a<b> read-only state</b>, which temporarily restricts write access to existing SharePoint content until storage usage is remediated.</li><li>This includes scenarios where:<ul><li>An admin-set user quota exceeds the license allowance, or</li><li>A user with an EDU license exceeds their licensed storage limit.</li></ul></li><li>No changes are made for users who are within their licensed storage limits.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li><b>Identify users exceeding licensed storage limits</b><ul style=\"\"><li style=\"\">Review OneDrive storage usage across your organization to identify users whose usage exceeds their licensed quota.</li><li style=\"\">Use <a href=\"https://pnp.github.io/script-samples/onedrive-overquota-report/README.html?tabs=graphps\">Identify OneDrive Users Over License-Based Storage Quota | PnP Samples</a>&nbsp;</li></ul></li><li style=\"\"><b>Take corrective action for affected users. </b>For users exceeding their licensed storage limits:<ul><li>Upgrade the user’s license to increase available storage, or</li><li>Work with the user to reduce storage usage to within licensed limits.</li></ul></li><li>Inform your helpdesk and SharePoint admins about this change so they can support users who may be placed into a read-only state.</li><li>If all users are within their licensed storage quotas, no action is required.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
-      "ContentType": "html"
-    },
-    "Category": "preventOrFixIssue",
-    "Details": [
-      {
-        "Name": "Summary",
-        "Value": "SharePoint Online will update storage quota enforcement by late May to June 2026, aligning user quotas with license limits. Users exceeding licensed storage will enter read-only mode. Admins should identify over-quota users, take corrective actions, and inform support teams. No changes occur for users within limits."
-      }
-    ],
-    "EndDateTime": "2026-07-30T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1310684",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-22T20:08:04.487Z",
-    "Services": [
-      "SharePoint Online"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-05-14T20:17:18Z",
-    "Tags": [
-      "Updated message",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "SharePoint Online: Storage quota enforcement updated to align with license limits",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
     "ActionRequiredByDateTime": null,
     "Attachments": null,
     "AttachmentsArchive": null,
@@ -2639,7 +2977,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560815\":[{\"RoadmapId\":560815,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406101Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406102Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406104Z\",\"LatestRing\":null}]}"
+        "Value": "{\"560815\":[{\"RoadmapId\":560815,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259158Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259159Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259159Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -2784,7 +3122,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"476488\":[{\"RoadmapId\":476488,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406005Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406007Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406008Z\",\"LatestRing\":null}]}"
+        "Value": "{\"476488\":[{\"RoadmapId\":476488,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259106Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259107Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825911Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -2835,7 +3173,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560816\":[{\"RoadmapId\":560816,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407732Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":560816,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407734Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407735Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407737Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"560816\":[{\"RoadmapId\":560816,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259977Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":560816,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259978Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259979Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825998Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -2885,7 +3223,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560814\":[{\"RoadmapId\":560814,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408138Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":560814,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040814Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408141Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408142Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"560814\":[{\"RoadmapId\":560814,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260228Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":560814,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260229Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.826023Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260231Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -3078,53 +3416,6 @@
       "Admin impact"
     ],
     "Title": "Microsoft Teams: Attend Microsoft webinars from Teams Rooms on Android",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p><b><b>What and Why</b></b></p><p>Users are currently blocked from sending messages in <i>Microsoft Teams</i> while a file upload is in progress, which can disrupt real-time collaboration. With this update, file uploads will occur asynchronously in the background, allowing users to continue sending messages without interruption.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560813\" target=\"_blank\">560813</a></b>.</p><p><b><b>Rollout Schedule</b></b></p><ul><li><b>Targeted Release: </b>Rollout will begin in<b> mid-June 2026</b> and is expected to complete by <b>late June 2026</b>.</li><li><b>General Availability (Worldwide): </b>Rollout will begin in<b> late June 2026</b> and is expected to complete by<b> late June 2026</b>.</li></ul><p><b><b>Impact on Your Organization</b></b></p><p><i>Who is affected</i></p><p style=\"margin-left: 25px;\">All Microsoft Teams users who send files in chats or channels</p><p><i>Platforms/Services</i></p><ul><li>Microsoft Teams</li><li>Desktop (Windows, Mac)</li><li>Web</li><li>Mobile (iOS, Android)</li></ul><p><i>What will happen</i></p><ul><li>Users will be able to send chat messages while files are uploading.</li><li>File uploads will occur asynchronously in the background.</li><li>The message input box will no longer be blocked during uploads.</li><li>There are no changes to how files are stored or shared.</li><li>Existing compliance, retention, and security policies remain unchanged.</li><li>This feature will be enabled by default for all tenants.</li></ul><p><b><b>Action Required / Recommendations</b></b></p><ul><li>No action is required.</li><li>Consider informing your users about improved file upload behavior in <i>Teams chats</i>.</li><li>Update internal training or support documentation if you reference file-sharing workflows.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "560813"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams will allow users to send messages while files upload asynchronously in the background, improving real-time collaboration. This update, rolling out worldwide in June 2026, affects all platforms and requires no action. Compliance and file-sharing policies remain unchanged."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Desktop, Mac"
-      }
-    ],
-    "EndDateTime": "2026-07-30T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1317836",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-21T16:16:15.593Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-05-21T16:16:07Z",
-    "Tags": [
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Teams: Unblock users to send message while file is uploading in the background",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
@@ -5100,7 +5391,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554932\":[{\"RoadmapId\":554932,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405258Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405259Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040526Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"554932\":[{\"RoadmapId\":554932,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258363Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258365Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258366Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -5151,7 +5442,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"518218\":[{\"RoadmapId\":518218,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405752Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405754Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405756Z\",\"LatestRing\":null}]}"
+        "Value": "{\"518218\":[{\"RoadmapId\":518218,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258935Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258936Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258937Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -5202,7 +5493,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"542795\":[{\"RoadmapId\":542795,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405003Z\",\"LatestRing\":null},{\"RoadmapId\":542795,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405006Z\",\"LatestRing\":null}]}"
+        "Value": "{\"542795\":[{\"RoadmapId\":542795,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258181Z\",\"LatestRing\":null},{\"RoadmapId\":542795,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258183Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -5362,57 +5653,6 @@
       "User impact"
     ],
     "Title": "Classic Outlook for Windows: User-initiated insights with Copilot",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p><b><b>Introduction</b></b></p><p>\nA new <b>Security Detection Report</b> in the Teams admin center provides a unified view of messaging security detections across signals such as impersonation, malicious URLs, and weaponizable file types. This centralized reporting experience improves visibility into threats in Teams and helps admins investigate and respond to suspicious activity more efficiently.</p><p>\nThis message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560702\" target=\"_blank\">560702</a>.</p>\n\n<p><b><b>When this will happen:</b></b></p><p>General Availability (Worldwide): Rollout will begin in<b> late June 2026</b> and is expected to complete by <b>late June 2026</b>.</p>\n\n<p><b><b>How this affects your organization:</b></b></p>\n\n<p><b>Who is affected:</b></p>\n<ul>\n<li>Admins who manage Microsoft Teams environments and security operations</li>\n<li>Security and helpdesk teams responsible for investigating messaging threats</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n<li>A new<b> Security Detection Report</b> will be available in the Teams admin center under <b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report.</b></li>\n<p>Screenshot: <i>Example of a Security Detection Report:</i></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/f13d1239-dba5-4cd1-80f2-d3bd34054edd\" style=\"width: 400px;\" alt=\"user settings\"></p><li>The report provides centralized visibility into messaging security detections across Teams, including impersonation attempts, malicious links, and unsafe file types.</li><li>Admins can review detection details such as:</li>\n<ul><li>Sender</li><li>Recipient context</li><li>Detection type</li><li>Available user actions</li></ul><li>Admins can export report data for further investigation, including additional metadata such as sender identifier and thread ID.</li><li>The following messaging security protections are enabled by default:</li><ul><li>Impersonation detection does not require configuration.</li><li>Malicious link scanning can be managed through Messaging safety settings in the Teams admin center.</li><li>Unsafe file type scanning can be managed through Messaging safety settings in the Teams admin center.</li></ul><li>Admins can block malicious external users identified in the report through <b>External access settings</b> to prevent further communication attempts.</li></ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n<li>Review current <b>Messaging safety settings </b>to confirm malicious link and file scanning configurations.</li><li>Familiarize security and helpdesk teams with the new report and export capabilities.</li><li>Update investigation and response workflows to incorporate Teams detection signals.</li><li>Use Teams admin center navigation path to locate the report:<ul><li><b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report</b></li></ul></li><li>Update internal documentation or runbooks if you document security investigation processes.</li></ul>\n\n<p>Before rollout, we will update this post with new documentation.</p><p><b><b>Compliance considerations:</b></b></p><p>\nIntroduces enhanced admin reporting for monitoring and investigating messaging security detections.</p>",
-      "ContentType": "html"
-    },
-    "Category": "planForChange",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "560702"
-      },
-      {
-        "Name": "FeatureStatusJson",
-        "Value": "{\"560702\":[{\"RoadmapId\":560702,\"Platform\":\"Web\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040508Z\",\"LatestRing\":null},{\"RoadmapId\":560702,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405081Z\",\"LatestRing\":null}]}"
-      },
-      {
-        "Name": "Summary",
-        "Value": "A new Security Detection Report in the Teams admin center offers centralized visibility into messaging threats like impersonation, malicious URLs, and unsafe files. Available from late June 2026, it helps admins investigate, export data, and block malicious users, enhancing security operations and response workflows."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Web"
-      }
-    ],
-    "EndDateTime": "2026-07-30T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1311977",
-    "IsMajorChange": true,
-    "LastModifiedDateTime": "2026-05-15T23:13:53.967Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-05-15T23:13:42Z",
-    "Tags": [
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Security Detection Report in Teams Admin Center",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
@@ -6695,44 +6935,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p><b><b>Introduction</b></b></p>\n<p>We’re improving the Frontier Admin Control by adding support for <b>Entra ID groups</b> when managing Frontier enrollment. This update helps administrators scale Frontier pilots more efficiently by aligning enrollment with existing access management practices and reducing the need to manage individual users.</p>\n\n<p><b><b>When this will happen:</b></b></p>\n<p>General Availability (Worldwide): Rollout will begin in<b> early June 2026</b> and is expected to complete by <b>mid-June 2026</b>.</p>\n\n<p><b><b>How this affects your organization:</b></b></p>\n<p><b>Who is affected:</b></p>\n<ul>\n  <li>Microsoft 365 administrators who manage Frontier access using the <b>Frontier Admin Control</b>.</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n  <li>Admins will continue to manage Frontier access from the Frontier Admin Control in the Microsoft 365 admin center.</li><li>Admins can assign Frontier access using Entra ID groups in addition to individual users.</li><p>Screenshot: <i>Frontier admin control showing the option to assign access to specific users and groups:</i></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/b138efe6-5298-4c01-bf05-af2f06dd7fb1/13bef4654a41bbcb725934e7c6dc4b4af9d34573.png\" style=\"width: 400px;\" alt=\"Frontier admin control.\">&gt;</p>\n  <li>Group-based enrollment supports managing pilot audiences without enabling Frontier for the entire tenant.</li>\n  <li>A <b>maximum of 10,000 enrolled users</b> applies when using specific users and/or groups.<ul><li>Admins will see a warning if adding a group causes the total enrolled user count to exceed this limit.</li><li>Admins must remove users or groups until the total enrollment is within the limit.</li></ul></li><li>Tenants enrolling <b>All Users</b> are <b>not subject to the 10,000-user limit</b>.</li><li>There is no change for tenants already enrolling the entire organization.</li></ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n  <li>No immediate action is required.</li>\n  <li>If you plan to use group-based enrollment:</li><ul><li>Create or identify a dedicated Entra ID group for Frontier participants.</li><li>Add the group to the<b> Frontier Admin Control </b>instead of managing individual users.</li><li>Review group membership regularly to ensure the total enrolled users remain within the 10,000-user limit (if not using<b> All Users</b>).</li></ul><li>Update internal admin documentation or pilot guidance, if applicable.</li></ul>\n\n<p><b><b>Compliance considerations:</b></b></p>\n<p>This change introduces an admin control that can be managed through Entra ID group membership. No other compliance impacts were identified.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "Summary",
-        "Value": "Starting June 2026, Frontier Admin Control will support assigning access via Entra ID groups, enabling scalable pilot management with up to 10,000 enrolled users per tenant (except for All Users enrollment). Admins should prepare by creating groups and monitoring membership; no immediate action is required."
-      }
-    ],
-    "EndDateTime": "2026-07-15T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1309739",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-13T23:04:53.783Z",
-    "Services": [
-      "Microsoft 365 suite"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-05-13T23:04:46Z",
-    "Tags": [
-      "New feature",
-      "Admin impact"
-    ],
-    "Title": "Using groups to enable Frontier access in the Frontier Admin Control",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated May 13, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re introducing a new <b>Follow</b> option for meetings in <i>Outlook Mobile</i>.&nbsp; This feature helps users stay informed when they cannot attend by prompting organizers to record the meeting and by ensuring followers receive key updates and follow‑up items.</p><p><b><b>When this will happen</b></b></p><p><b>General Availability (Worldwide)</b>: Rollout will begin in <b>mid-June 2026</b> (previously&nbsp;mid-May)&nbsp;and is expected to complete by<b>&nbsp;mid-July 2026 </b>(previously end of May).</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>All users who schedule or respond to meetings in <i>Outlook Mobile</i>. Attendees will only see the option to respond with <i><b>Follow</b> </i>if a meeting has two or more participants and when the organizer has requested responses.</li></ul><p><i>What will happen</i></p><ul><li>A new <b>Follow</b> option will appear as the third option in the<i> mobile RSVP menu</i>. To select “Maybe,” tap the three dots ... :&nbsp;<p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/e4855fa4-c943-4f9d-b25e-681c0a935288/e305ef8377ec2d56dc39a4f2072368944d7ca288.png\" style=\"width: 400px;\" alt=\"user settings\"></p></li><li>The <b>Maybe RSVP </b>option will move into the overflow menu:\n&nbsp;<p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/f27eb372-d0c2-4b15-979d-488465cc82b6/e9a2f6f33704e2b7790195f05b6aec26b4ff96e9.png\" style=\"width: 400px;\" alt=\"user settings\"></p></li><li>The <b>No </b>response option will move to the second position in the RSVP list.</li><li>The feature will be<b> on by default </b>for all tenants.</li><li>Organizers may receive prompts to record the meeting or address follow‑up items when attendees choose to Follow.</li><li>No changes to existing Outlook or Exchange Online admin policies.</li></ul><p><b><b>What you can do to prepare</b></b></p><p>No admin action is required.</p><p>Optional steps:</p><ul><li>Notify helpdesk and support teams about the updated RSVP options and UI behavior.</li><li>Update internal end‑user documentation if your organization provides guidance for meeting responses.</li></ul><p>Learn more:&nbsp;<a href=\"https://support.microsoft.com/office/follow-a-meeting-in-outlook-4dd196ec-b4ae-4fca-9577-cb9c297723be\" target=\"_blank\">Follow a meeting in Outlook | Microsoft Support</a></p><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
       "ContentType": "html"
     },
@@ -6823,7 +7025,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"536572\":[{\"RoadmapId\":536572,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406901Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":536572,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406903Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"536572\":[{\"RoadmapId\":536572,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259644Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":536572,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259645Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -7214,7 +7416,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559605\":[{\"RoadmapId\":559605,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407838Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Mac\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040784Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407841Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"Desktop\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407843Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407844Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407847Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"559605\":[{\"RoadmapId\":559605,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260044Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Mac\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260044Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260045Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"Desktop\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260046Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260048Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260049Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -7314,7 +7516,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405588Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405591Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405521Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405523Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258843Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258843Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258813Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258814Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -7366,7 +7568,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"547834\":[{\"RoadmapId\":547834,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040743Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":547834,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407432Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"547834\":[{\"RoadmapId\":547834,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259782Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":547834,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259782Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -8798,7 +9000,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559387\":[{\"RoadmapId\":559387,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408584Z\",\"LatestRing\":null},{\"RoadmapId\":559387,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408586Z\",\"LatestRing\":null}]}"
+        "Value": "{\"559387\":[{\"RoadmapId\":559387,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260518Z\",\"LatestRing\":null},{\"RoadmapId\":559387,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260519Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -9250,7 +9452,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557168\":[{\"RoadmapId\":557168,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405883Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557168,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405885Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"557168\":[{\"RoadmapId\":557168,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259021Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557168,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259022Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -9302,7 +9504,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"543239\":[{\"RoadmapId\":543239,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406955Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406957Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406958Z\",\"LatestRing\":null}]}"
+        "Value": "{\"543239\":[{\"RoadmapId\":543239,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259685Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259685Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259686Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -9546,54 +9748,6 @@
       "Admin impact"
     ],
     "Title": "Microsoft 365 Copilot: Intelligent Summaries in Copilot Dashboard",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p>Updated May 4, 2026: We have updated the content. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We are adding <b>new Copilot metrics across Microsoft 365 apps</b> to help you better understand how users engage with Copilot. These metrics include actions taken in the <i>Microsoft 365 Copilot app</i>, <i>Microsoft Edge</i>, and <i>OneNote</i>, and intent-based usage across Outlook, Word, Excel, and PowerPoint. This update expands visibility into how users adopt Copilot and supports improved insights in the<i> Copilot Dashboard </i>and <i>Advanced Analysis</i> in <i>Copilot Analytics</i>.&nbsp;</p><p>This message is associated with <b>Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=557981\" target=\"_blank\">557981</a></b>.</p><p><b><b>When this will happen</b></b></p><ul><li><b>General Availability (Worldwide): </b>We will begin rolling out in<b>&nbsp;late May 2026 </b>(previously late April)&nbsp;and expect to complete in<b>&nbsp;early June 2026 </b>(previously late May).</li></ul><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>This capability is <b>available to users who are licensed for Microsoft 365 Copilot</b>.</li><li>All Microsoft 365 tenants with access to Copilot Dashboard or Copilot Analytics in<i> Viva Insights</i></li></ul><p><i>What will happen</i></p><ul><li><b>New metrics</b> will appear in the <i>Copilot Dashboard</i> and <i>Advanced Analysis</i>.</li><li>You will be able to<b> track Copilot usage</b> in the <i>Microsoft 365 Copilot app</i>, <i>Microsoft Edge</i>, and <i>OneNote:</i><p><i>&nbsp;</i><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/541186bb-205b-467e-acd9-171a7b90c75b/3cb851af5480cdce76559db63603d26e407f3025.png\" style=\"width: 400px;\" alt=\"user settings\"></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/e8eca007-b073-4613-b500-5a6511c119a9/0223e48964c33ae762d44ace77d3c3b64ea38a35.png\" style=\"width: 400px;\" alt=\"user settings\"></p></li><li><b>Additional intent-based scenarios</b> will be measured in <i>Outlook</i>, <i>Word</i>, <i>Excel</i>, and <i>PowerPoint</i>. These scenarios include suggested replies, translation, coaching, and clean data.</li><li>The feature will be <b>enabled automatically for all tenants</b>.</li><li><b>No configuration changes</b> or policy updates are required.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li>No action is required before rollout.</li><li>You may choose to notify relevant teams about the new metrics.</li><li>Update internal documentation if your organization tracks Copilot usage analytics.</li><li>Review updated online documentation when it becomes available in early May.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "557981"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft 365 Copilot will add new usage metrics across apps like Copilot app, Edge, OneNote, Outlook, Word, Excel, and PowerPoint. These metrics will appear in Copilot Dashboard and Analytics, rolling out worldwide from late May to early June 2026, enabled automatically with no required action."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Web"
-      }
-    ],
-    "EndDateTime": "2026-07-13T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1266023",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-04T22:17:42.773Z",
-    "Services": [
-      "Microsoft Viva"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-03-30T21:49:45Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft 365 Copilot: Comprehensive Copilot metrics in Copilot Analytics",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
@@ -10880,7 +11034,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554927\":[{\"RoadmapId\":554927,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406519Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406521Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406523Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406524Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406526Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406529Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554927\":[{\"RoadmapId\":554927,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259421Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259422Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259423Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259424Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259425Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259428Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -11059,7 +11213,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"558544\":[{\"RoadmapId\":558544,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407042Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407044Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407045Z\",\"LatestRing\":null}]}"
+        "Value": "{\"558544\":[{\"RoadmapId\":558544,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259741Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259742Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259742Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -13110,7 +13264,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557170\":[{\"RoadmapId\":557170,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407678Z\",\"LatestRing\":null},{\"RoadmapId\":557170,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040768Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557170\":[{\"RoadmapId\":557170,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259941Z\",\"LatestRing\":null},{\"RoadmapId\":557170,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259942Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -13421,7 +13575,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559611\":[{\"RoadmapId\":559611,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406338Z\",\"LatestRing\":null},{\"RoadmapId\":559611,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040634Z\",\"LatestRing\":null}]}"
+        "Value": "{\"559611\":[{\"RoadmapId\":559611,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825932Z\",\"LatestRing\":null},{\"RoadmapId\":559611,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825932Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -13684,7 +13838,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559612\":[{\"RoadmapId\":559612,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407307Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407309Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559612,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040731Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407312Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407313Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"559612\":[{\"RoadmapId\":559612,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258728Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258729Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559612,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258729Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258731Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258732Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -13783,7 +13937,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"168524\":[{\"RoadmapId\":168524,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406169Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406171Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406172Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406174Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"168524\":[{\"RoadmapId\":168524,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259209Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825921Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825921Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259211Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -14646,7 +14800,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"500696\":[{\"RoadmapId\":500696,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408493Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":500696,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408495Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408496Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408498Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"500696\":[{\"RoadmapId\":500696,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260458Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":500696,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260459Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.826046Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.826046Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -14957,7 +15111,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040665Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406651Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.825952Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259521Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -15135,7 +15289,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559386\":[{\"RoadmapId\":559386,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405936Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559386,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405938Z\",\"LatestRing\":null},{\"RoadmapId\":559386,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405939Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"559386\":[{\"RoadmapId\":559386,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259055Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559386,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259056Z\",\"LatestRing\":null},{\"RoadmapId\":559386,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259056Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -16187,7 +16341,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554925\":[{\"RoadmapId\":554925,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406773Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406775Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406777Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554925\":[{\"RoadmapId\":554925,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258476Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258477Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258478Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -17387,7 +17541,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557975\":[{\"RoadmapId\":557975,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407611Z\",\"LatestRing\":null},{\"RoadmapId\":557975,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407613Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557975\":[{\"RoadmapId\":557975,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259904Z\",\"LatestRing\":null},{\"RoadmapId\":557975,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259905Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -17698,7 +17852,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554933\":[{\"RoadmapId\":554933,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040824Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408242Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408243Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554933\":[{\"RoadmapId\":554933,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260291Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260292Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260293Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -18958,7 +19112,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"488091\":[{\"RoadmapId\":488091,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406839Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":488091,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406841Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"488091\":[{\"RoadmapId\":488091,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259604Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":488091,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259605Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -19629,7 +19783,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557716\":[{\"RoadmapId\":557716,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407109Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557716,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407111Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407112Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407114Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"557716\":[{\"RoadmapId\":557716,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258597Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557716,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258598Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258599Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T17:24:48.82586Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -19815,7 +19969,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"558107\":[{\"RoadmapId\":558107,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407503Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407505Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407506Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407507Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407509Z\",\"LatestRing\":null}]}"
+        "Value": "{\"558107\":[{\"RoadmapId\":558107,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259835Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259837Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259837Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259839Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259841Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -20790,109 +20944,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p>Updated February 27, 2026: We have paused rollout of this item at this time. We apologize for any inconvenience.</p><p>Note: Hiding inactive channels</p><p>Based on Admin feedback, we are updating the behavior for automated hiding of inactive channels to be opt-in (suggestions) only. With this update, Teams will offer users suggestions on channels that are inactive, and the user is prompted to review their inactive channels and hide them only if they choose. The user will also be able to view when they last visited the channel to help them decide if they would like to hide the channel. The settings support this opt-in workflow and there are no changes to the on-demand hiding process.\n</p><p>This feature is enabled for targeted release, and we will roll out to General Availability targeting January 2026.</p><p> This message is associated with Microsoft 365 Roadmap ID&nbsp;<a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=325780\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); font-family: sans-serif; font-weight: 400;\">325780</a>.</p><p><b>When this will happen:</b></p><p>The feature is in public preview.</p><p>\n</p><p>Targeted Release: Available now.</p><p>General Availability (Worldwide) and all clouds: We will announce via Message center when we are ready to proceed.</p><p><b>How this will affect your organization:</b><br></p><p>Before this rollout: Users had to manually manage their relevant channels list by hiding inactive and irrelevant channels.\n</p><p>After this rollout: \n</p><p>Manage preferences for automated suggestions via Teams Settings\n</p><p>If users prefer to manage channels manually, they can opt out of the auto-suggestions process. Simply go to Teams settings, select General, and toggle off \"Suggestions for hiding inactive channels.\" \n</p><p>Hide inactive channels on demand when needed\n</p><p>Users can manually view which channels are inactive and choose to hide some or all of them whenever you need. This can be done from Settings, under General, by clicking the \"Get Suggestions\" button. Note that this action can be performed once every 24 hours.</p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/c987a97b-ad15-4a95-9735-32710e4a8667/a9815846ab73e8b52c5e05b4930b08aa9fb70d37.png\" style=\"width: 800px;\"><br></p><p><b>Automated suggestions of inactive channels \n</b></p><p>With this, Teams will suggest channels that have been inactive for the user. Once the inactive channels are identified, the user is notified with the coach mark message, \"Looks like you haven’t visited some channels lately. Hide them to help you focus.\" \n</p><p>The user can select Review and Hide to see the details and decide which channels they would like to hide. The user can choose not hide any channels by selecting Not Now</p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/f92895e8-16bd-4557-aad3-13904daa1242/1e7e17bfdfb506e1b8adb14b79e890b84badd21c.png\" style=\"width: 500px;\"><br></p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/80fecec4-1b81-4c28-882a-911e3b8d2030/f60ebde1c3badf4e8ccd81de91e9ad1070467fdd.png\" style=\"width: 500px;\"><br></p><p>If a user has less than or equal to 25 shown channels, no channels will be suggested for that user. This feature is on by default and all Teams users on the affected platforms will have access to it.</p><p><b>What you need to do to prepare:</b></p><p>Admins need to be aware of this feature, but no additional action is needed.&nbsp;</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "325780"
-      },
-      {
-        "Name": "FeatureStatusJson",
-        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405638Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040564Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405642Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405643Z\",\"LatestRing\":\"TargetedRelease\"}]}"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams paused the rollout of automated hiding of inactive channels, now offering opt-in suggestions for users to review and hide inactive channels manually. Users can toggle this feature in settings, with no changes to manual hiding. The feature is in public preview."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Desktop, Mac, Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T08:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC804771",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-02-27T21:19:28.96Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2024-06-24T22:56:51Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact"
-    ],
-    "Title": "Microsoft Teams: Hiding inactive channels",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p>Updated February 27, 2026: We have paused rollout of this item at this time. We apologize for any inconvenience.</p><p>As a follow up to MC804771, based on Admin feedback, we are updating the behavior for automated hiding of inactive channels to be opt-in (suggestions) only. With this update, Teams will offer users suggestions on channels that are inactive, and the user is prompted to review their inactive channels and hide them only if they choose. The user will also be able to view when they last visited the channel to help them decide if they would like to hide the channel. The settings support this opt-in workflow and there are no changes to the on demand hiding process.\n</p><p>This message is associated with Microsoft 365 Roadmap ID: <a href=\"https://www.microsoft.com/microsoft-365/roadmap?rtc=1%26filters%3D&amp;searchterms=325780\" target=\"_blank\">325780</a></p><p>\n</p><p><b><b>When this will happen:</b>\n</b></p><p>Targeted Release: Available now.</p><p>General Availability (Worldwide, GCC, GCC High, DoD): We will announce via Message center when we are ready to proceed.</p><p>\n</p><p><b><b>How this will affect your organization:</b>\n</b></p><p><b>Before this rollout:</b></p><p>Users had to manually manage their relevant channels list by hiding inactive and irrelevant channels.\n</p><p><b>After this rollout: \n</b></p><p>Manage preferences for automated suggestions via Teams Settings\n</p><p>If users prefer to manage channels manually, they can opt out of the auto-suggestions process. Simply go to Teams settings, select General, and toggle off \"Suggestions for hiding inactive channels.\" \n</p><p>Hide inactive channels on demand when needed\n</p><p>Users can manually view which channels are inactive and choose to hide some or all of them whenever you need. This can be done from Settings, under General, by clicking the \"Get Suggestions\" button. Note that this action can be performed once every 24 hours.</p><p>\n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/d494c053-239e-476e-a16d-039d28cfde29 \" width=\"400\" height=\"\"></p><p><b>Automated suggestions of inactive channels \n</b></p><p>With this, Teams will suggest channels that have been inactive for the user. Once the inactive channels are identified, the user is notified with the coach mark message, \"Looks like you haven’t visited some channels lately. Hide them to help you focus.\" \n</p><p>The user can select Review and Hide to see the details and decide which channels they would like to hide. The user can choose not hide any channels by selecting Not Now. \n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/3d2da16e-14da-48bd-8e1c-272a046b412f  \" width=\"400\" height=\"\"></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/c022ea8a-d6b1-48a0-897b-57b5f7eb1014\" width=\"400\" height=\"\"></p><p>If a user has less than or equal to 25 shown channels, no channels will be suggested for that user. This feature is on by default and all Teams users on the affected platforms will have access to it.\n</p><p><b><b>What you need to do to prepare:</b>\n</b></p><p>Admins need to be aware of this feature, but no additional action is needed. \n</p><p><br></p>",
-      "ContentType": "html"
-    },
-    "Category": "planForChange",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "325780"
-      },
-      {
-        "Name": "FeatureStatusJson",
-        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405638Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.040564Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405642Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405643Z\",\"LatestRing\":\"TargetedRelease\"}]}"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams paused the rollout of automated hiding of inactive channels, now offering opt-in suggestions instead. Users can review and hide inactive channels manually or via suggestions, toggle this feature on/off in settings, and no action is needed from admins currently."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Desktop, Mac, Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1141958",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-02-27T18:57:02.26Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2025-08-25T22:53:21Z",
-    "Tags": [
-      "Updated message",
-      "Feature update",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Teams: Choose to hide inactive channels",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated February 27, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re introducing the <b>Advanced Review Set Explorer&nbsp;</b>(public preview) for review sets in <i>Microsoft Purview eDiscovery (Premium)</i>.</p><p>eDiscovery has long supported Keyword Query Language (KeyQL) because it provides a familiar, approachable, and powerful way to search and filter content—while working consistently across both search and review experiences. For many users and workflows, KeyQL remains the recommended and most efficient way to build queries.</p><p>At the same time, we understand that power users and advanced reviewers often need greater flexibility to slice, aggregate, and analyze review set data in more sophisticated ways. To meet this need, we’re adding a Kusto Query Language (KQL)–based experience to review sets through the Advanced Review Set Explorer.</p><p>With this update, reviewers will have two query options:</p><ul><li>KeyQL, for familiar, streamlined search and filtering experiences</li><li>KQL, for advanced data exploration, aggregation, transformation, and visualization within a review set</li></ul><p>The new Advanced review set explorer's key capabilities include:</p><ul><li>Run advanced review set explorer using Kusto Query Language (KQL)</li><li>Apply complex filters, aggregations, and transformations</li><li>Visualize results with bar, column, and pie charts</li><li>Query across more than 100 metadata properties</li><li>Identify trends, detect patterns, and analyze data distribution</li>\n</ul>\n\n<p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=484086\" target=\"_blank\">484086</a>.</p>\n\n<p><b><b>When this will happen</b></b>\n</p><ul><li><b>Public Preview (Worldwide, excluding government clouds):</b>&nbsp;We will start rolling out in <b>February 2026</b>&nbsp;and expect to complete in&nbsp;<b>February 2026</b>.</li><li><b>General Availability (Worldwide, GCC, GCCH, and DoD):</b> We will start rolling out in <b>late August 2026</b> (previously&nbsp;July)&nbsp;and expect to complete in <b>late August 2026</b> (previously&nbsp;July).</li></ul>\n\n<p><b><b>How this affects your organization</b></b></p>\n<p><i>Who is affected:</i>\nOrganizations using Microsoft Purview eDiscovery (Premium).</p>\n\n<p><i>What will happen:</i></p>\n<ul>\n  <li>A new Advanced Review Set Explorer will be available in review sets.</li>\n  <li>The feature is <b>enabled by default</b>.</li>\n  <li>Users with eDiscovery review permissions can run KQL queries.</li><li>Users can continue using existing KeyQL‑based searching within review set without change.</li>\n  <li>No existing queries or workflows are modified.</li>\n  <li>Existing admin policies and permissions are unchanged.</li>\n</ul>\n\n<p><b><b>What you can do to prepare</b></b></p>\n<ul>\n  <li>Inform eDiscovery teams that both KeyQL and KQL are supported, and users can choose the option that best fits their needs.</li><li>Consider providing KQL training or reference materials.</li>\n  <li>Update internal documentation or workflows as needed.</li>\n  <li>Inform eDiscovery teams about this new capability.</li>\n  <li>Review Microsoft Learn content on eDiscovery solutions.</li></ul><p><b>Learn more:&nbsp;</b></p><ul><li><a href=\"https://learn.microsoft.com/kusto/query/?view=microsoft-fabric&amp;toc=%2Fazure%2Fsentinel%2FTOC.json&amp;bc=%2Fazure%2Fsentinel%2Fbreadcrumb%2Ftoc.json\" target=\"_blank\">Kusto Query Language overview | Microsoft Learn</a></li><li><a href=\"https://learn.microsoft.com/purview/edisc\" target=\"_blank\">Learn about eDiscovery | Microsoft Purview | Microsoft Learn</a></li>\n</ul>\n\n<p><b><b>Compliance considerations</b></b>\n</p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
       "ContentType": "html"
     },
@@ -21170,7 +21221,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"541831\":[{\"RoadmapId\":541831,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407209Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":541831,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407211Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407212Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0407214Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"541831\":[{\"RoadmapId\":541831,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258656Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":541831,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258657Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258657Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258658Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -21261,7 +21312,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557184\":[{\"RoadmapId\":557184,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406275Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406276Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0406277Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557184\":[{\"RoadmapId\":557184,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259265Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259266Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8259266Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -22573,7 +22624,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"542794\":[{\"RoadmapId\":542794,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405333Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405335Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0405336Z\",\"LatestRing\":null}]}"
+        "Value": "{\"542794\":[{\"RoadmapId\":542794,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258415Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258416Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8258417Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -22748,7 +22799,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"482747\":[{\"RoadmapId\":482747,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408656Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408658Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0408659Z\",\"LatestRing\":null}]}"
+        "Value": "{\"482747\":[{\"RoadmapId\":482747,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260567Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260567Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8260568Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -23976,7 +24027,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"487432\":[{\"RoadmapId\":487432,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0404616Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0404621Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T15:18:09.0404622Z\",\"LatestRing\":null}]}"
+        "Value": "{\"487432\":[{\"RoadmapId\":487432,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8257851Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8257856Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-28T17:24:48.8257857Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",

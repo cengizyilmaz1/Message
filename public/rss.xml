@@ -6,8 +6,80 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 14:47:03 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:18:06 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1266023: Microsoft 365 Copilot: Comprehensive Copilot metrics in Copilot Analytics</title>
+    <link>https://message.cengizyilmaz.net/message/mc1266023-microsoft-365-copilot-comprehensive-copilot-metrics-in-copilot-analytics</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1266023-microsoft-365-copilot-comprehensive-copilot-metrics-in-copilot-analytics</guid>
+    <pubDate>Thu, 28 May 2026 17:18:06 GMT</pubDate>
+    <description>Microsoft 365 Copilot will add new usage metrics across apps like Copilot app, Edge, OneNote, Outlook, Word, Excel, and PowerPoint, enhancing insights in Copilot Analytics. Rollout begins early June 2026, enabled automatically for licensed users with no required configuration changes.</description>
+    <category>Message Center</category>
+    <category>Microsoft Viva</category>
+  </item>
+  <item>
+    <title>MC1309739: Using groups to enable Frontier access in the Frontier Admin Control</title>
+    <link>https://message.cengizyilmaz.net/message/mc1309739-using-groups-to-enable-frontier-access-in-the-frontier-admin-control</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309739-using-groups-to-enable-frontier-access-in-the-frontier-admin-control</guid>
+    <pubDate>Thu, 28 May 2026 16:01:28 GMT</pubDate>
+    <description>Starting June 2026, Frontier Admin Control supports assigning access via Entra ID groups, improving enrollment management for up to 10,000 users per group-based pilot. Nested groups aren&apos;t supported. No changes for tenants enrolling all users. Admins should prepare by creating dedicated groups and monitoring membership limits.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 suite</category>
+  </item>
+  <item>
+    <title>MC1310684: SharePoint Online: Storage quota enforcement updated to align with license limits</title>
+    <link>https://message.cengizyilmaz.net/message/mc1310684-sharepoint-online-storage-quota-enforcement-updated-to-align-with-license-limits</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310684-sharepoint-online-storage-quota-enforcement-updated-to-align-with-license-limits</guid>
+    <pubDate>Thu, 28 May 2026 15:59:31 GMT</pubDate>
+    <description>SharePoint Online will update storage quota enforcement by late May to June 2026, aligning user quotas with license limits. Users exceeding licensed storage will enter read-only mode. Admins should identify over-quota users, take corrective actions, and inform support teams. No changes for users within limits.</description>
+    <category>Message Center</category>
+    <category>SharePoint Online</category>
+  </item>
+  <item>
+    <title>MC1317836: Microsoft Teams: Unblock users to send message while file is uploading in the background</title>
+    <link>https://message.cengizyilmaz.net/message/mc1317836-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317836-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</guid>
+    <pubDate>Thu, 28 May 2026 15:56:39 GMT</pubDate>
+    <description>Microsoft Teams will allow users to send messages while files upload asynchronously in the background, improving real-time collaboration. This update, rolling out from July to late July 2026, affects all platforms and requires no action. Compliance and file-sharing policies remain unchanged.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1234574: Microsoft Teams: New controls for quick views in the chat list</title>
+    <link>https://message.cengizyilmaz.net/message/mc1234574-microsoft-teams-new-controls-for-quick-views-in-the-chat-list</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1234574-microsoft-teams-new-controls-for-quick-views-in-the-chat-list</guid>
+    <pubDate>Thu, 28 May 2026 15:50:09 GMT</pubDate>
+    <description>Microsoft Teams will introduce new controls in March 2026 allowing users to customize quick views in chat and channel lists. Quick views like Mentions and Followed threads will appear only when messages exist, be adjustable, and the feature will enable automatically without admin action on Windows, Mac, and web.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC804771: Microsoft Teams: Hiding inactive channels</title>
+    <link>https://message.cengizyilmaz.net/message/mc804771-microsoft-teams-hiding-inactive-channels</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc804771-microsoft-teams-hiding-inactive-channels</guid>
+    <pubDate>Thu, 28 May 2026 15:36:03 GMT</pubDate>
+    <description>Microsoft Teams will not proceed with automated hiding of inactive channels. Instead, users can opt-in to receive suggestions for hiding inactive channels and manage them manually via Teams settings. This feature is in public preview and available for targeted release, with no mandatory changes for admins.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1141958: Microsoft Teams: Choose to hide inactive channels</title>
+    <link>https://message.cengizyilmaz.net/message/mc1141958-microsoft-teams-choose-to-hide-inactive-channels</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1141958-microsoft-teams-choose-to-hide-inactive-channels</guid>
+    <pubDate>Thu, 28 May 2026 15:35:35 GMT</pubDate>
+    <description>Microsoft Teams will offer opt-in suggestions to hide inactive channels, allowing users to review and choose which channels to hide. Users can toggle this feature on or off in settings and manually manage channels anytime. The planned automatic change was canceled, so manual control remains.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1311977: Security Detection Report in Teams Admin Center</title>
+    <link>https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</guid>
+    <pubDate>Thu, 28 May 2026 15:30:45 GMT</pubDate>
+    <description>A new Security Detection Report in the Teams admin center, launching mid-July 2026, offers centralized visibility into messaging threats like impersonation, malicious links, and unsafe files. Admins can review, export, and act on detections to improve security investigations and responses.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1325066: Dynamics 365 Contact Center – Enable AI-assisted time-off and swap requests</title>
     <link>https://message.cengizyilmaz.net/message/mc1325066-dynamics-365-contact-center-enable-aiassisted-timeoff-and-swap-requests</link>
@@ -1180,15 +1252,6 @@
     <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
-    <title>MC1310684: SharePoint Online: Storage quota enforcement updated to align with license limits</title>
-    <link>https://message.cengizyilmaz.net/message/mc1310684-sharepoint-online-storage-quota-enforcement-updated-to-align-with-license-limits</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1310684-sharepoint-online-storage-quota-enforcement-updated-to-align-with-license-limits</guid>
-    <pubDate>Fri, 22 May 2026 20:08:04 GMT</pubDate>
-    <description>SharePoint Online will update storage quota enforcement by late May to June 2026, aligning user quotas with license limits. Users exceeding licensed storage will enter read-only mode. Admins should identify over-quota users, take corrective actions, and inform support teams. No changes occur for users within limits.</description>
-    <category>Message Center</category>
-    <category>SharePoint Online</category>
-  </item>
-  <item>
     <title>MC1318856: Microsoft Viva Glint: Custom confidentiality statements</title>
     <link>https://message.cengizyilmaz.net/message/mc1318856-microsoft-viva-glint-custom-confidentiality-statements</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318856-microsoft-viva-glint-custom-confidentiality-statements</guid>
@@ -1461,15 +1524,6 @@
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317839-microsoft-teams-attend-microsoft-webinars-from-teams-rooms-on-android</guid>
     <pubDate>Thu, 21 May 2026 16:20:03 GMT</pubDate>
     <description>Microsoft Teams Rooms on Android with Teams Rooms Pro will support joining webinars and structured meetings as attendees starting late June 2026. Rooms can use attendee features like chat and reactions without needing personal devices, optimized for various room setups and large events.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1317836: Microsoft Teams: Unblock users to send message while file is uploading in the background</title>
-    <link>https://message.cengizyilmaz.net/message/mc1317836-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1317836-microsoft-teams-unblock-users-to-send-message-while-file-is-uploading-in-the-background</guid>
-    <pubDate>Thu, 21 May 2026 16:16:15 GMT</pubDate>
-    <description>Microsoft Teams will allow users to send messages while files upload asynchronously in the background, improving real-time collaboration. This update, rolling out worldwide in June 2026, affects all platforms and requires no action. Compliance and file-sharing policies remain unchanged.</description>
     <category>Message Center</category>
     <category>Microsoft Teams</category>
   </item>
@@ -2374,15 +2428,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 Copilot Chat</category>
   </item>
   <item>
-    <title>MC1311977: Security Detection Report in Teams Admin Center</title>
-    <link>https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</guid>
-    <pubDate>Fri, 15 May 2026 23:13:53 GMT</pubDate>
-    <description>A new Security Detection Report in the Teams admin center offers centralized visibility into messaging threats like impersonation, malicious URLs, and unsafe files. Available from late June 2026, it helps admins investigate, export data, and block malicious users, enhancing security operations and response workflows.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>MC1311976: Department billing for Microsoft 365 Backup</title>
     <link>https://message.cengizyilmaz.net/message/mc1311976-department-billing-for-microsoft-365-backup</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1311976-department-billing-for-microsoft-365-backup</guid>
@@ -2980,15 +3025,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Microsoft Purview DLP event details will be integrated into Microsoft Graph Security APIs alongside Defender alerts, simplifying correlation, reporting, and SIEM integration. Public preview starts late May 2026; general availability begins late June 2026. This affects admins using these APIs for DLP-related alert data.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1309739: Using groups to enable Frontier access in the Frontier Admin Control</title>
-    <link>https://message.cengizyilmaz.net/message/mc1309739-using-groups-to-enable-frontier-access-in-the-frontier-admin-control</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1309739-using-groups-to-enable-frontier-access-in-the-frontier-admin-control</guid>
-    <pubDate>Wed, 13 May 2026 23:04:53 GMT</pubDate>
-    <description>Starting June 2026, Frontier Admin Control will support assigning access via Entra ID groups, enabling scalable pilot management with up to 10,000 enrolled users per tenant (except for All Users enrollment). Admins should prepare by creating groups and monitoring membership; no immediate action is required.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 suite</category>
   </item>
   <item>
     <title>RM561922: Universal Print: Universal Print Portal</title>
@@ -4586,42 +4622,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>We are announcing the ability to achieve accurate order matching and efficient warehouse operations by capturing serial and batch numbers for items below location level in cluster picking in Dynamics 365 Supply Chain Management. This feature will reach general availability on June 5, 2026. How does this affect me? This feature enables you to improve shipment accuracy and reduce picking errors by capturing serial and batch numbers for every order in cluster picking, along with how items are track...</description>
     <category>Dynamics 365 Apps</category>
     <category>Message Center</category>
-  </item>
-  <item>
-    <title>MC1300981: Power Apps - Dataverse Agent users with Microsoft Entra Agent ID</title>
-    <link>https://message.cengizyilmaz.net/message/mc1300981-power-apps-dataverse-agent-users-with-microsoft-entra-agent-id</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1300981-power-apps-dataverse-agent-users-with-microsoft-entra-agent-id</guid>
-    <pubDate>Tue, 05 May 2026 00:40:50 GMT</pubDate>
-    <description>We’re introducing a new feature in public preview, Dataverse Agent users , powered by Microsoft Entra Agent ID . Rollout of this feature will start on May 4, 2026, and is expected to reach North America by May 22, 2026. This new capability enables organizations to create and manage agent-specific identities that operate securely within Dataverse. Admins will be able to provision agent identities in Entra, map them to Dataverse users, assign security roles, and track all agent actions through aud...</description>
-    <category>Message Center</category>
-    <category>Power Apps</category>
-  </item>
-  <item>
-    <title>RM561488: Microsoft Copilot (Microsoft 365): Simplified design for the Microsoft 365 Copilot app</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm561488-microsoft-copilot-microsoft-365-simplified-design-for-the-microsoft-365-copilot-app</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561488-microsoft-copilot-microsoft-365-simplified-design-for-the-microsoft-365-copilot-app</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>A refreshed design for the Microsoft 365 Copilot web and desktop app simplifies the user experience to drive engagement with Copilot. This includes updates to the chat home screen, chat response layout, and navigation pane.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-  </item>
-  <item>
-    <title>RM561486: Microsoft Edge: Improved website compatibility with site troubleshooting controls</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm561486-microsoft-edge-improved-website-compatibility-with-site-troubleshooting-controls</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm561486-microsoft-edge-improved-website-compatibility-with-site-troubleshooting-controls</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Microsoft Edge is introducing improvements to help users quickly resolve website issues directly from the browser. When a site is not functioning as expected, users may be guided to relevant troubleshooting options such as adjusting tracking prevention settings (e.g., Strict mode) and reviewing site-specific configurations. This experience surfaces relevant actions in-context to help users restore site functionality without navigating deep into settings.</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Edge</category>
-  </item>
-  <item>
-    <title>RM560595: Microsoft Viva: Viva Glint - Copilot assisted commenting in Glint survey taking</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm560595-microsoft-viva-viva-glint-copilot-assisted-commenting-in-glint-survey-taking</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm560595-microsoft-viva-viva-glint-copilot-assisted-commenting-in-glint-survey-taking</guid>
-    <pubDate>Mon, 04 May 2026 23:00:45 GMT</pubDate>
-    <description>Viva Glint survey takers will be able to use a streamlined version of Microsoft Copilot in the Glint survey taking experience to help them rewrite their comments, helping survey takers feel more confident about the feedback they’re providing. By increasing perceived security through reducing identifiable writing patterns and minimizing the effort required to refine feedback, this experience can encourage greater participation, longer responses, and more candid comments, which can drive higher en...</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Viva</category>
   </item>
 </channel>
 </rss>
