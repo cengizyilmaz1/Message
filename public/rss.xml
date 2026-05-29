@@ -6,8 +6,63 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 23:54:22 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 16:58:29 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1326260: Microsoft Purview Data Security Triage Agent will include sensitive data remediation through Microsoft Teams</title>
+    <link>https://message.cengizyilmaz.net/message/mc1326260-microsoft-purview-data-security-triage-agent-will-include-sensitive-data-remediation-through-microsoft-teams</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1326260-microsoft-purview-data-security-triage-agent-will-include-sensitive-data-remediation-through-microsoft-teams</guid>
+    <pubDate>Fri, 29 May 2026 16:58:29 GMT</pubDate>
+    <description>Microsoft Purview Data Security Triage Agent will add sensitive data remediation via Microsoft Teams for SharePoint and OneDrive files, automating user notifications and tracking remediation progress. This opt-in feature, launching in public preview late June 2026, aims to reduce compliance risk and improve remediation visibility.</description>
+    <category>Message Center</category>
+    <category>Microsoft Purview</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1326258: Microsoft Teams: Information Barriers enforcement for same‑tenant users in external group chats</title>
+    <link>https://message.cengizyilmaz.net/message/mc1326258-microsoft-teams-information-barriers-enforcement-for-sametenant-users-in-external-group-chats</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1326258-microsoft-teams-information-barriers-enforcement-for-sametenant-users-in-external-group-chats</guid>
+    <pubDate>Fri, 29 May 2026 16:58:03 GMT</pubDate>
+    <description>Microsoft Teams will enforce Information Barriers between same-tenant users in external group chats, calls, and meetings starting June 15, 2026. This ensures consistent compliance across all communication scenarios without requiring policy changes. Existing external conversations remain unchanged initially, with ongoing enforcement applied as policies or memberships change.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
+  <item>
+    <title>MC1326254: Microsoft 365 Archive: file-level archiving public preview</title>
+    <link>https://message.cengizyilmaz.net/message/mc1326254-microsoft-365-archive-filelevel-archiving-public-preview</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1326254-microsoft-365-archive-filelevel-archiving-public-preview</guid>
+    <pubDate>Fri, 29 May 2026 16:57:25 GMT</pubDate>
+    <description>Microsoft 365 Archive now supports file-level archiving in public preview, allowing SharePoint files or folders to be moved to low-cost storage while remaining visible with metadata and compliance intact. Admins enable the feature; archived files are excluded from search and Copilot, with reactivation timing varying by duration.</description>
+    <category>Message Center</category>
+    <category>SharePoint Online</category>
+  </item>
+  <item>
+    <title>MC1326253: Conditional Access policies now apply to Windows Hello for Business and macOS Platform SSO registration</title>
+    <link>https://message.cengizyilmaz.net/message/mc1326253-conditional-access-policies-now-apply-to-windows-hello-for-business-and-macos-platform-sso-registration</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1326253-conditional-access-policies-now-apply-to-windows-hello-for-business-and-macos-platform-sso-registration</guid>
+    <pubDate>Fri, 29 May 2026 16:56:51 GMT</pubDate>
+    <description>Conditional Access policies will apply to Windows Hello for Business and macOS Platform SSO registration starting July 6, 2026, enforcing policy requirements like MFA and trusted locations during enrollment. Organizations should review and test policies, update documentation, and ensure users can meet requirements before rollout completes July 13, 2026.</description>
+    <category>Message Center</category>
+    <category>Microsoft Entra</category>
+  </item>
+  <item>
+    <title>MC1262567: Create Excel spreadsheets from Copilot Notebook content</title>
+    <link>https://message.cengizyilmaz.net/message/mc1262567-create-excel-spreadsheets-from-copilot-notebook-content</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1262567-create-excel-spreadsheets-from-copilot-notebook-content</guid>
+    <pubDate>Fri, 29 May 2026 16:40:43 GMT</pubDate>
+    <description>Copilot Notebooks will enable users with a Microsoft 365 Copilot license to generate and edit Excel spreadsheets directly from notebook content. Public preview starts late March 2026; general availability begins early June 2026. The feature is enabled by default and respects existing security and compliance policies.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
+  </item>
+  <item>
+    <title>MC1188222: Microsoft Teams: Private chat for organizers and presenters in structured meetings, webinars, and town halls</title>
+    <link>https://message.cengizyilmaz.net/message/mc1188222-microsoft-teams-private-chat-for-organizers-and-presenters-in-structured-meetings-webinars-and-town-halls</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1188222-microsoft-teams-private-chat-for-organizers-and-presenters-in-structured-meetings-webinars-and-town-halls</guid>
+    <pubDate>Fri, 29 May 2026 16:26:28 GMT</pubDate>
+    <description>Microsoft Teams will introduce a private chat for organizers, co-organizers, and presenters in structured meetings, webinars, and town halls, unifying backroom chat behavior. Rollout begins mid-July 2026, completing by mid-August. Admins should review policies, communicate changes, and update documentation accordingly.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1287373: Microsoft Teams introduces efficiency mode to improve app responsiveness</title>
     <link>https://message.cengizyilmaz.net/message/mc1287373-microsoft-teams-introduces-efficiency-mode-to-improve-app-responsiveness</link>
@@ -4563,65 +4618,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 Roadmap</category>
     <category>Microsoft Defender for Office 365</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>RM532728: Microsoft Purview: New Microsoft Purview Data Security Posture Management Experience</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm532728-microsoft-purview-new-microsoft-purview-data-security-posture-management-experience</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm532728-microsoft-purview-new-microsoft-purview-data-security-posture-management-experience</guid>
-    <pubDate>Tue, 05 May 2026 23:00:02 GMT</pubDate>
-    <description>At Ignite, Microsoft is introducing a major evolution of Purview Data Security Posture Management (DSPM) to help organizations strengthen data security and confidently embrace AI. The new DSPM experience unifies visibility and control across traditional data and AI-driven environments, delivering outcome-based guided workflows that turn insights into actionable steps—so teams can prioritize risks and remediate faster. It brings AI observability, enhanced posture reporting, and intelligent Securi...</description>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>RM494830: Microsoft Copilot (Microsoft 365): Access Copilot Chat in your Microsoft 365 apps</title>
-    <link>https://message.cengizyilmaz.net/roadmap/rm494830-microsoft-copilot-microsoft-365-access-copilot-chat-in-your-microsoft-365-apps</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/roadmap/rm494830-microsoft-copilot-microsoft-365-access-copilot-chat-in-your-microsoft-365-apps</guid>
-    <pubDate>Tue, 05 May 2026 23:00:02 GMT</pubDate>
-    <description>Easily access Copilot Chat from the side pane in your Microsoft 365 apps with a commercial Microsoft 365 license or a Microsoft 365 Copilot license.</description>
-    <category>Excel</category>
-    <category>Microsoft 365 Roadmap</category>
-    <category>Microsoft Copilot (Microsoft 365)</category>
-    <category>OneNote</category>
-    <category>Outlook</category>
-    <category>PowerPoint</category>
-    <category>Word</category>
-  </item>
-  <item>
-    <title>MC1301802: Change Optics report for Exchange Online begins public preview</title>
-    <link>https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</guid>
-    <pubDate>Tue, 05 May 2026 22:04:51 GMT</pubDate>
-    <description>The Change Optics report for Exchange Online is in public preview, providing administrators visibility into email traffic affected by upcoming transport changes. It identifies onmicrosoft.com external traffic and Direct Send traffic, is enabled by default, requires no preparation, and does not impact mail flow or users.</description>
-    <category>Exchange Online</category>
-    <category>Message Center</category>
-  </item>
-  <item>
-    <title>MC1281505: Microsoft Purview: Data Lifecycle Management- Azure PST Import</title>
-    <link>https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</guid>
-    <pubDate>Tue, 05 May 2026 20:32:06 GMT</pubDate>
-    <description>Azure PST Import enables Microsoft 365 admins to import PST files from Azure Blob Storage into Exchange Online mailboxes using PowerShell. The process includes readiness analysis, import execution, and cleanup, with no GUI available. It starts globally on August 31, 2026, requiring specific Azure permissions and mailbox prerequisites. Imported data follows existing retention and compliance policies.</description>
-    <category>Message Center</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
-    <title>MC1268933: Viva Engage: Pinned resources and related communities in Teams for iOS</title>
-    <link>https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</guid>
-    <pubDate>Tue, 05 May 2026 17:35:49 GMT</pubDate>
-    <description>Viva Engage in Microsoft Teams for iOS will add pinned resources and related communities by late July 2026, aligning with other platforms. This feature, enabled by default, improves content access without requiring admin changes. Organizations should inform users and community admins to prepare.</description>
-    <category>Message Center</category>
-    <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1254552: Copilot Notebooks: New features coming to Frontier Public</title>
-    <link>https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</guid>
-    <pubDate>Tue, 05 May 2026 17:00:09 GMT</pubDate>
-    <description>Starting late March 2026, new Copilot Notebooks features—like chat interactivity, study guides, SharePoint grounding, PowerPoint and Word agents, group sharing, and mind maps—will roll out in Frontier Public tenants, reaching general availability by June 2026. Features are enabled by default with no admin action required.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 apps</category>
   </item>
 </channel>
 </rss>
