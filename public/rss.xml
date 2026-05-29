@@ -171,15 +171,6 @@
     <category>Microsoft Teams</category>
   </item>
   <item>
-    <title>MC804771: Microsoft Teams: Hiding inactive channels</title>
-    <link>https://message.cengizyilmaz.net/message/mc804771-microsoft-teams-hiding-inactive-channels</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc804771-microsoft-teams-hiding-inactive-channels</guid>
-    <pubDate>Thu, 28 May 2026 15:36:03 GMT</pubDate>
-    <description>Microsoft Teams will not proceed with automated hiding of inactive channels. Instead, users can opt-in to receive suggestions for hiding inactive channels and manage them manually via Teams settings. This feature is in public preview and available for targeted release, with no mandatory changes for admins.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>MC1311977: Security Detection Report in Teams Admin Center</title>
     <link>https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</guid>
@@ -4622,6 +4613,15 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Azure PST Import enables Microsoft 365 admins to import PST files from Azure Blob Storage into Exchange Online mailboxes using PowerShell. The process includes readiness analysis, import execution, and cleanup, with no GUI available. It starts globally on August 31, 2026, requiring specific Azure permissions and mailbox prerequisites. Imported data follows existing retention and compliance policies.</description>
     <category>Message Center</category>
     <category>Microsoft Purview</category>
+  </item>
+  <item>
+    <title>MC1268933: Viva Engage: Pinned resources and related communities in Teams for iOS</title>
+    <link>https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1268933-viva-engage-pinned-resources-and-related-communities-in-teams-for-ios</guid>
+    <pubDate>Tue, 05 May 2026 17:35:49 GMT</pubDate>
+    <description>Viva Engage in Microsoft Teams for iOS will add pinned resources and related communities by late July 2026, aligning with other platforms. This feature, enabled by default, improves content access without requiring admin changes. Organizations should inform users and community admins to prepare.</description>
+    <category>Message Center</category>
+    <category>Microsoft Viva</category>
   </item>
 </channel>
 </rss>
