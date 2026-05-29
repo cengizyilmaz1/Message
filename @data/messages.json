@@ -309,7 +309,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554927\":[{\"RoadmapId\":554927,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850939Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285094Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850941Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850942Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850943Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850944Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554927\":[{\"RoadmapId\":554927,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686857Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686859Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686859Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468686Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686861Z\",\"LatestRing\":null},{\"RoadmapId\":554927,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686863Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -361,7 +361,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557184\":[{\"RoadmapId\":557184,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.284997Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849971Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849972Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557184\":[{\"RoadmapId\":557184,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686712Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686713Z\",\"LatestRing\":null},{\"RoadmapId\":557184,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686713Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -444,7 +444,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560547\":[{\"RoadmapId\":560547,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851593Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"iOS\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851594Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851595Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Android\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851596Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851597Z\",\"LatestRing\":null}]}"
+        "Value": "{\"560547\":[{\"RoadmapId\":560547,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.46876Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"iOS\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687601Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687601Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"Android\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687602Z\",\"LatestRing\":null},{\"RoadmapId\":560547,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687603Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -789,7 +789,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851181Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851182Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851183Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851183Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686328Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686329Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686329Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468633Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -829,58 +829,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p>Updated May 28, 2026: We have decided not to move forward with this change. We apologize for any inconvenience.</p><p>As a follow up to MC804771, based on Admin feedback, we are updating the behavior for automated hiding of inactive channels to be opt-in (suggestions) only. With this update, Teams will offer users suggestions on channels that are inactive, and the user is prompted to review their inactive channels and hide them only if they choose. The user will also be able to view when they last visited the channel to help them decide if they would like to hide the channel. The settings support this opt-in workflow and there are no changes to the on demand hiding process.\n</p><p>This message is associated with Microsoft 365 Roadmap ID: <a href=\"https://www.microsoft.com/microsoft-365/roadmap?rtc=1%26filters%3D&amp;searchterms=325780\" target=\"_blank\">325780</a></p><p>\n</p><p><b><b>When this will happen:</b>\n</b></p><p>Targeted Release: Available now.</p><p>General Availability (Worldwide, GCC, GCC High, DoD): We have decided not to move forward with this change.</p><p>\n</p><p><b><b>How this will affect your organization:</b>\n</b></p><p><b>Before this rollout:</b></p><p>Users had to manually manage their relevant channels list by hiding inactive and irrelevant channels.\n</p><p><b>After this rollout: \n</b></p><p>Manage preferences for automated suggestions via Teams Settings\n</p><p>If users prefer to manage channels manually, they can opt out of the auto-suggestions process. Simply go to Teams settings, select General, and toggle off \"Suggestions for hiding inactive channels.\" \n</p><p>Hide inactive channels on demand when needed\n</p><p>Users can manually view which channels are inactive and choose to hide some or all of them whenever you need. This can be done from Settings, under General, by clicking the \"Get Suggestions\" button. Note that this action can be performed once every 24 hours.</p><p>\n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/d494c053-239e-476e-a16d-039d28cfde29 \" width=\"400\" height=\"\"></p><p><b>Automated suggestions of inactive channels \n</b></p><p>With this, Teams will suggest channels that have been inactive for the user. Once the inactive channels are identified, the user is notified with the coach mark message, \"Looks like you haven’t visited some channels lately. Hide them to help you focus.\" \n</p><p>The user can select Review and Hide to see the details and decide which channels they would like to hide. The user can choose not hide any channels by selecting Not Now. \n</p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/3d2da16e-14da-48bd-8e1c-272a046b412f  \" width=\"400\" height=\"\"></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/c022ea8a-d6b1-48a0-897b-57b5f7eb1014\" width=\"400\" height=\"\"></p><p>If a user has less than or equal to 25 shown channels, no channels will be suggested for that user. This feature is on by default and all Teams users on the affected platforms will have access to it.\n</p><p><b><b>What you need to do to prepare:</b>\n</b></p><p>Admins need to be aware of this feature, but no additional action is needed. \n</p><p><br></p>",
-      "ContentType": "html"
-    },
-    "Category": "planForChange",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "325780"
-      },
-      {
-        "Name": "FeatureStatusJson",
-        "Value": "{\"325780\":[{\"RoadmapId\":325780,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851181Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851182Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851183Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":325780,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851183Z\",\"LatestRing\":\"TargetedRelease\"}]}"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams will offer opt-in suggestions to hide inactive channels, allowing users to review and choose which channels to hide. Users can toggle this feature on or off in settings and manually manage channels anytime. The planned automatic change was canceled, so manual control remains."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Desktop, Mac, Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1141958",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-28T15:35:35.483Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2025-08-25T22:53:21Z",
-    "Tags": [
-      "Updated message",
-      "Feature update",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Teams: Choose to hide inactive channels",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated May 28, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>\nA new <b>Security Detection Report</b> in the Teams admin center provides a unified view of messaging security detections across signals such as impersonation, malicious URLs, and weaponizable file types. This centralized reporting experience improves visibility into threats in Teams and helps admins investigate and respond to suspicious activity more efficiently.</p><p>\nThis message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560702\" target=\"_blank\">560702</a>.</p>\n\n<p><b><b>When this will happen:</b></b></p><p>General Availability (Worldwide): Rollout will begin in<b>&nbsp;mid-July 2026 </b>(previously late June)&nbsp;and is expected to complete by <b>late July 2026</b> (previously&nbsp;late June).</p>\n\n<p><b><b>How this affects your organization:</b></b></p>\n\n<p><b>Who is affected:</b></p>\n<ul>\n<li>Admins who manage Microsoft Teams environments and security operations</li>\n<li>Security and helpdesk teams responsible for investigating messaging threats</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n<li>A new<b> Security Detection Report</b> will be available in the Teams admin center under <b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report.</b></li>\n<p>Screenshot: <i>Example of a Security Detection Report:</i></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/f13d1239-dba5-4cd1-80f2-d3bd34054edd\" style=\"width: 400px;\" alt=\"user settings\"></p><li>The report provides centralized visibility into messaging security detections across Teams, including impersonation attempts, malicious links, and unsafe file types.</li><li>Admins can review detection details such as:</li>\n<ul><li>Sender</li><li>Recipient context</li><li>Detection type</li><li>Available user actions</li></ul><li>Admins can export report data for further investigation, including additional metadata such as sender identifier and thread ID.</li><li>The following messaging security protections are enabled by default:</li><ul><li>Impersonation detection does not require configuration.</li><li>Malicious link scanning can be managed through Messaging safety settings in the Teams admin center.</li><li>Unsafe file type scanning can be managed through Messaging safety settings in the Teams admin center.</li></ul><li>Admins can block malicious external users identified in the report through <b>External access settings</b> to prevent further communication attempts.</li></ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n<li>Review current <b>Messaging safety settings </b>to confirm malicious link and file scanning configurations.</li><li>Familiarize security and helpdesk teams with the new report and export capabilities.</li><li>Update investigation and response workflows to incorporate Teams detection signals.</li><li>Use Teams admin center navigation path to locate the report:<ul><li><b>Analytics &amp; reports &gt; Protection reports &gt; Security detections report</b></li></ul></li><li>Update internal documentation or runbooks if you document security investigation processes.</li></ul>\n\n<p>Before rollout, we will update this post with new documentation.</p><p><b><b>Compliance considerations:</b></b></p><p>\nIntroduces enhanced admin reporting for monitoring and investigating messaging security detections.</p>",
       "ContentType": "html"
     },
@@ -892,7 +840,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560702\":[{\"RoadmapId\":560702,\"Platform\":\"Web\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850509Z\",\"LatestRing\":null},{\"RoadmapId\":560702,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285051Z\",\"LatestRing\":null}]}"
+        "Value": "{\"560702\":[{\"RoadmapId\":560702,\"Platform\":\"Web\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468597Z\",\"LatestRing\":null},{\"RoadmapId\":560702,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468597Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -1482,7 +1430,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561321\":[{\"RoadmapId\":561321,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.284929Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849293Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849294Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849295Z\",\"LatestRing\":null}]}"
+        "Value": "{\"561321\":[{\"RoadmapId\":561321,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687863Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687865Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687865Z\",\"LatestRing\":null},{\"RoadmapId\":561321,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687866Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -1617,7 +1565,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561915\":[{\"RoadmapId\":561915,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851028Z\",\"LatestRing\":null},{\"RoadmapId\":561915,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851029Z\",\"LatestRing\":null}]}"
+        "Value": "{\"561915\":[{\"RoadmapId\":561915,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685828Z\",\"LatestRing\":null},{\"RoadmapId\":561915,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685829Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -2832,7 +2780,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"562413\":[{\"RoadmapId\":562413,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849907Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849908Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849909Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849909Z\",\"LatestRing\":null}]}"
+        "Value": "{\"562413\":[{\"RoadmapId\":562413,\"Platform\":\"Web\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468679Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686791Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686792Z\",\"LatestRing\":null},{\"RoadmapId\":562413,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686792Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -3162,7 +3110,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850194Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850195Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850196Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850197Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"561550\":[{\"RoadmapId\":561550,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686169Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468617Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":561550,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686171Z\",\"LatestRing\":null},{\"RoadmapId\":561550,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686172Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -3439,7 +3387,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560815\":[{\"RoadmapId\":560815,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850012Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850013Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850014Z\",\"LatestRing\":null}]}"
+        "Value": "{\"560815\":[{\"RoadmapId\":560815,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686605Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686606Z\",\"LatestRing\":null},{\"RoadmapId\":560815,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686607Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -3584,7 +3532,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"476488\":[{\"RoadmapId\":476488,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851324Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851325Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851325Z\",\"LatestRing\":null}]}"
+        "Value": "{\"476488\":[{\"RoadmapId\":476488,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468656Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686561Z\",\"LatestRing\":null},{\"RoadmapId\":476488,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686562Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -3635,7 +3583,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560816\":[{\"RoadmapId\":560816,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849737Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":560816,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849738Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849739Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849739Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"560816\":[{\"RoadmapId\":560816,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687463Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":560816,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687464Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687465Z\",\"LatestRing\":null},{\"RoadmapId\":560816,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687465Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -3685,7 +3633,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"560814\":[{\"RoadmapId\":560814,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849669Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":560814,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.284967Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849671Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849672Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"560814\":[{\"RoadmapId\":560814,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.46877Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":560814,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687701Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687702Z\",\"LatestRing\":null},{\"RoadmapId\":560814,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687703Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -5610,54 +5558,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p>Updated May 18, 2026: We have updated the opt-out timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b>\n<p>Starting in October 2025, Microsoft Edge version 141 will introduce the Adobe-powered PDF viewer as the default experience for enterprise users on Windows. This change enhances performance, accessibility, and compatibility, and introduces exclusive enterprise features. It follows our earlier <a href=\"https://blogs.windows.com/msedgedev/2023/02/08/adobe-acrobat-microsoft-edge-pdf/\">public announcement</a> and aligns with Roadmap ID&nbsp;<a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=489231\">489231</a> and MC post MC1072406.<!-- happen:]</b-->\n</p><p><b>General Availability:</b>&nbsp;Migration will occur on a phased rollout. Rollout will begin October 2025 and will complete March 2026.&nbsp;</p>\n\n<b><b>How this affects your organization:</b></b>\n<p><b>Who is affected:</b></p>\n<ul>\n<li>All enterprise users on Windows using Microsoft Edge.</li>\n</ul>\n<p><b>What will happen:</b></p>\n<ul>\n<li>The Adobe-powered PDF viewer will replace the legacy viewer as the default experience.</li>\n<li>User interface and controls will remain unchanged.</li>\n<li>The new viewer offers improved performance, accessibility, compatibility, and exclusive enterprise features.</li>\n</ul><p>Admins can manage the experience using two policies:</p><p><a href=\"https://learn.microsoft.com/deployedge/microsoft-edge-browser-policies/newpdfreaderenabled\" target=\"_blank\">NewPDFReaderEnabled</a>: Controls the default viewer in Edge for Windows.&nbsp;</p><p><a href=\"https://learn.microsoft.com/deployedge/microsoft-edge-webview-policies#newpdfreaderwebview2list\" target=\"_blank\">NewPDFReaderWebView2List</a>: Controls viewer behavior in WebView2 apps.&nbsp;</p><p>\n  </p><ul>\n    </ul>\n\n<p><b>Policy behavior:</b></p>\n<table border=\"1\">\n<tbody><tr><th>Policy State</th><th>Before Enablement by Default</th><th>After Enablement by Default</th></tr>\n<tr><td>Default</td><td>Old PDF Viewer</td><td>New PDF Viewer</td></tr>\n<tr><td>Enabled</td><td>New PDF Viewer</td><td>New PDF Viewer</td></tr>\n<tr><td>Disabled</td><td>Old PDF Viewer</td><td>Old PDF Viewer</td></tr>\n</tbody></table>\n\n<b><b>What you can do to prepare:</b></b>\n<ul>\n</ul><p></p><p>No action is required if your organization is ready to adopt the new viewer.\n</p><p>If you wish to manage the experience:</p><ul><li>Enable the new viewer early using the <a href=\"https://learn.microsoft.com/deployedge/microsoft-edge-browser-policies/newpdfreaderenabled\" target=\"_blank\">NewPDFReaderEnabled</a> policy.</li><li>Opt-out by disabling the same policy. Opt-out will be supported until September 2026, at which time the policy will be deprecated and any remaining organizations will be moved to the new viewer.&nbsp;</li><li>Review and update internal documentation if needed.</li><li>Communicate this change to helpdesk or support teams.</li></ul><p></p><ul></ul><p></p><p></p><p>Learn more:&nbsp;<a href=\"https://techcommunity.microsoft.com/blog/microsoftedgeinsider/microsoft-edge-and-adobe-partner-to-improve-the-pdf-experience/3733481\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); font-family: sans-serif; font-weight: 400;\">Microsoft Edge and Adobe partner to improve the PDF experience</a>.</p><p>For support, contact your Microsoft CSAM or CSS representative.</p><div><b><b>Compliance considerations:</b></b></div><div>No compliance considerations identified, review as appropriate for your organization.</div></p>",
-      "ContentType": "html"
-    },
-    "Category": "planForChange",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "489231"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Starting October 2025, Microsoft Edge on Windows will default to an Adobe-powered PDF viewer for enterprise users, enhancing performance and features. Rollout completes by March 2026. Admins can manage or opt out via policies until September 2026, after which the new viewer becomes mandatory."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1154300",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-18T16:49:55.093Z",
-    "Services": [
-      "Microsoft 365 suite"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2025-09-16T22:23:46Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "New PDF Viewer Enabled by Default in Microsoft Edge Starting October 2025",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated May 18, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>\nWe are introducing separate admin controls for Viva Engage Communities and Storylines in Microsoft Teams. These controls provide more granular management by allowing administrators to independently enable or disable each experience within Teams, while existing controls in the Viva Engage admin center remain unchanged. By default, both Communities and Storylines will be enabled in Teams unless configured otherwise.</p>\n\n<p><b><b>When this will happen:</b></b></p><ul>\n<li>General Availability (Worldwide): Individual controls will be available by&nbsp;<b>May 26, 2026</b></li>\n</ul>\n\n<p><b><b>How this affects your organization:</b></b></p>\n<p><b>Who is affected:</b></p>\n<ul>\n<li>All users licensed for Microsoft Teams and Viva Engage</li>\n<li>Administrators managing Teams messaging policies</li>\n</ul>\n\n<p><b>What will happen:</b></p>\n<ul>\n<li>Two new independent controls will be available in the <b>Teams admin center:\n</b><ul>\n<li>Communities</li>\n<li>Storylines</li></ul>\n</li><p>Screenshot:<i> Viva Engage Controls in Teams Admin Center:</i></p>\n<p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/f7bd7aba-3369-4560-bc76-849bb3d3341f\" style=\"width: 400px;\" alt=\"Viva Engage controls in Teams admin center.\"></p><li>Admins can configure these controls through <b>Teams messaging policies.</b></li>\n<li><b>Default state:\n</b><ul>\n<li>Communities in Teams: <b>On</b></li>\n<li>Storylines in Teams: <b>On</b></li>\n</ul>\n</li>\n<li>If <b>Communities </b>is turned off in Teams, it is hidden in Teams but remains available in Viva Engage.</li>\n<li>If <b>Storylines </b>is turned off in Teams, it is hidden in Teams but remains available in Viva Engage.</li>\n<li>If <b>Storylines </b>is disabled in Viva Engage, it is disabled in both Viva Engage and Teams.</li>\n<li>If <b>Viva Engage experiences in Teams</b> was previously turned off, Storylines will remain off and Communities will be enabled by default after this update.</li>\n<li>Changes may take up to 24 hours to propagate.</li>\n</ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n</ul><p><b>Action required:</b></p><ul><li>Review and configure your preferred settings before Communities reach General Availability in June. If no action is taken, Communities and Storylines will remain enabled by default in Teams.</li></ul><p><b>Recommended steps:</b></p><ul>\n<li>Review current Teams messaging policies</li><li>Decide whether Communities and Storylines should be enabled or disabled</li><li>Update settings as needed</li></ul>\n\n<p><b>To disable Communities in Teams:</b></p>\n<ol>\n<li>Go to Teams admin center</li>\n<li>Select <b>Settings &amp; policies</b></li>\n<li>Choose <b>Global (Org-wide default) </b>or custom policy</li>\n<li>Open <b>Messaging settings</b></li>\n<li>Set <b>Communities </b>to <b>Off</b></li>\n<li>Save changes</li>\n</ol>\n\n<p><b>To disable Storylines in Teams:</b></p>\n<ol>\n<li>Go to Teams admin center</li>\n<li>Select <b>Settings &amp; policies</b></li>\n<li>Choose <b>Global (Org-wide default)&nbsp;</b>or custom policy</li>\n<li>Open <b>Messaging settings</b></li>\n<li>Set <b>Storylines </b>to <b>Off</b></li>\n<li>Save changes</li>\n</ol>\n\n<p><b>Learn more: </b><a href=\"https://learn.microsoft.com/microsoftteams/teams-viva-experiences?source=docs\" target=\"_blank\">Manage Viva Engage experiences in Microsoft Teams - Microsoft Teams | Microsoft Learn</a>&nbsp;(will be updated before rollout)</p><p><b><b>Compliance considerations:</b></b></p><table class=\"table table-bordered\"><tbody><tr><td>Consideration</td><td>Explanation</td></tr><tr><td>New ways of communicating between users</td><td>Communities and Storylines continue to provide communication experiences surfaced within Teams; this change controls their availability in Teams.</td></tr><tr><td>Admin control available</td><td>Separate admin controls are introduced in Teams messaging policies. These can be scoped to users via policy assignments (including Entra ID groups).</td></tr></tbody></table>",
       "ContentType": "html"
     },
@@ -5806,7 +5706,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554932\":[{\"RoadmapId\":554932,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850395Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850396Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850397Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"554932\":[{\"RoadmapId\":554932,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686938Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686939Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":554932,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686939Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -5857,7 +5757,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"518218\":[{\"RoadmapId\":518218,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851245Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851246Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851247Z\",\"LatestRing\":null}]}"
+        "Value": "{\"518218\":[{\"RoadmapId\":518218,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468639Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686391Z\",\"LatestRing\":null},{\"RoadmapId\":518218,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686392Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -5908,7 +5808,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"542795\":[{\"RoadmapId\":542795,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850549Z\",\"LatestRing\":null},{\"RoadmapId\":542795,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285055Z\",\"LatestRing\":null}]}"
+        "Value": "{\"542795\":[{\"RoadmapId\":542795,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685918Z\",\"LatestRing\":null},{\"RoadmapId\":542795,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685919Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -7440,7 +7340,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"536572\":[{\"RoadmapId\":536572,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851141Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":536572,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851142Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"536572\":[{\"RoadmapId\":536572,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687084Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":536572,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687085Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -7831,7 +7731,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559605\":[{\"RoadmapId\":559605,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851516Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Mac\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851517Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851518Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"Desktop\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851519Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851521Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851522Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"559605\":[{\"RoadmapId\":559605,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687528Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Mac\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687529Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468753Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"Desktop\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687531Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":559605,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687531Z\",\"LatestRing\":null},{\"RoadmapId\":559605,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687533Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -7931,7 +7831,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850155Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850157Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850865Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850866Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557253\":[{\"RoadmapId\":557253,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.46863Z\",\"LatestRing\":null},{\"RoadmapId\":557253,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686301Z\",\"LatestRing\":null}],\"557254\":[{\"RoadmapId\":557254,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687254Z\",\"LatestRing\":null},{\"RoadmapId\":557254,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687255Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -7983,7 +7883,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"547834\":[{\"RoadmapId\":547834,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849876Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":547834,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849878Z\",\"LatestRing\":\"TargetedRelease\"}]}"
+        "Value": "{\"547834\":[{\"RoadmapId\":547834,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687283Z\",\"LatestRing\":\"TargetedRelease\"},{\"RoadmapId\":547834,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687284Z\",\"LatestRing\":\"TargetedRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -9415,7 +9315,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559387\":[{\"RoadmapId\":559387,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851807Z\",\"LatestRing\":null},{\"RoadmapId\":559387,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851808Z\",\"LatestRing\":null}]}"
+        "Value": "{\"559387\":[{\"RoadmapId\":559387,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687976Z\",\"LatestRing\":null},{\"RoadmapId\":559387,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687977Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -9867,7 +9767,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557168\":[{\"RoadmapId\":557168,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850111Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557168,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850112Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"557168\":[{\"RoadmapId\":557168,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686477Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557168,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686478Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -9919,7 +9819,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"543239\":[{\"RoadmapId\":543239,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850303Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850304Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850305Z\",\"LatestRing\":null}]}"
+        "Value": "{\"543239\":[{\"RoadmapId\":543239,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686072Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686073Z\",\"LatestRing\":null},{\"RoadmapId\":543239,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686074Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -11517,54 +11417,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p>Updated January 20, 2026: We’ve updated how Teams meeting join links appear in meeting invites. As part of the broader rollout of the new, shorter meeting URL format, meeting invites now display the full join link directly instead of a labeled “Join the meeting now” hyperlink. This improves link consistency, reliability across clients and email applications, and makes copying and sharing the link easier. This update does not change meeting functionality or attendee experience. Existing Teams and Outlook clients continue to support the new link format.</p><p>Please note that information about meeting link expiry changes related to this rollout has been added.</p><p>We are reducing the length of Microsoft Teams meeting URLs for easier sharing. This rollout applies to all Microsoft Teams platforms (Teams for iOS, Android, Mac, Teams devices, desktop, and web).</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=381953\" target=\"_blank\">381953</a>.\n</p><p><b>When this will happen:</b>\n</p><p>Targeted Release: We will begin rolling out mid-February 2025 (previously mid-January) and expect to complete by late February 2025 (previously late January). Only Meet Now use cases (except Meet Now in chats and channels) will be affected in this timeframe. There will be no impact on the scheduled meetings in this phase.</p><p>General Availability (Worldwide, GCC): We will begin rolling out January 2026 (previously mid-May 2025) and expect to complete by end of January 2026 (previously late May 2025).&nbsp;&nbsp;</p><p>General Availability (GCC High, DoD):&nbsp; We will begin rolling out February 2026 (previously early August 2025) and expect to complete by end of February 2026 (previously late October 2025).</p><p><b>How this will affect your organization:</b>\n</p><p>The new URL syntax is: https://teams.microsoft.com/meet/&lt;meeting_id&gt;?p=&lt;HashedPasscode&gt; \n</p><p>To make meeting URL shorter, we are removing several parameters such as tenant ID, conversation ID etc. This change serves two main goals: 1) improving usability of URL during sharing and 2) making the URL more secure and less susceptible to malicious attacks. \n</p><p>Here are some details about how meeting links work and when they expire: \n</p><ol><li>In case the meeting organizer gets removed from the tenant, the links to the meetings scheduled by them automatically expire. \n</li><li>&nbsp;MeetNow meetings expire 60 days after creation. Learn more about expiration timelines for different types of meetings. \n</li></ol><p>With the Short Meeting URL release, expiration limit will be applied to all newly created links. \n</p><p>Once the change to Short Meeting URL is released, all newly created meetings will expire as described in the documentation: 60 days after meeting ends for scheduled meetings and 60 days after creation for MeetNow meetings. Once this expiry period is over, in case someone clicks the link (e.g. outside of Teams app OR in the meeting details inside Teams calendar section), they will be unable to join the meeting.</p><p>Note: Old links created before short meeting URL release will continue working as it previously was (user will be able to join even after the documented expiry limits).</p><p>The reason why we are making this change is simple: security is our topmost priority. Maintaining a high security level is essential to protect sensitive data, prevent financial losses, ensure business continuity, and meet compliance and legal obligations. It is a critical aspect of modern digital life and business operations. This adjustment is designed to enhance the security of Teams meeting links, thereby better safeguarding the customer tenant. We want to be on par with modern security standards, that’s why the new behavior is a step in the right direction that we must take. It’s not possible to keep the current behavior. If you think it breaks some of your business processes, please leave comment to the MC post and describe your case there. \n</p><p>Recommendations in case the meeting link has expired:  \n</p><p>For meeting organizer: We recommend scheduling a new meeting. If the meeting organizer got removed from the tenant someone else should reschedule their meetings from scratch. \n</p><p>For participant: Please reach out to the meeting organizer and ask them to reschedule the meeting or send you an updated link.</p><p><b>What you need to do to prepare:</b>\n</p><p>You may want to check if you have any integrations that use parameters from URL. After the rollout, the URL will only contain the meeting ID. Parameters such as tenant ID, organizer ID, conversation ID and message ID will not be in the URL. \n</p><p>You may inform meeting organizers from your tenant who use expired meeting links, or you may want to make a tenant-wide announcement about this change. \n</p><p>This rollout will happen automatically by the specified date with no admin action required. You may want to notify your users about this change and update any relevant documentation as appropriate.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "381953"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams is rolling out shorter meeting URLs starting early 2025, improving link usability and security by removing extra parameters. New links expire 60 days after meeting end or creation. Old links remain valid. No admin action is needed, but users should update integrations and inform organizers about expired links."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Android, Desktop, iOS, Mac, TeamsAndSurfaceDevices, Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC772556",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-04-30T17:56:08.187Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2024-04-08T23:33:52Z",
-    "Tags": [
-      "Updated message",
-      "Feature update",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Teams: Shorter meeting URLs",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated April 30, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re introducing a new slash command, <b>/createworkflow</b>, in the Microsoft Teams message compose box. A workflow is an automated process that handles repetitive tasks for users, such as sending notifications, creating tasks, or starting approvals when something happens in Teams. With this update, users can type <b>/createworkflow</b> while composing a message to quickly begin creating an automation, instead of navigating through menus. This change is designed to make workflow creation faster, easier to discover, and more accessible directly from chats and channels.</p><p>This message applies to Teams for Windows desktop, Teams for Mac desktop, and Teams for the web. It is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=558544\" target=\"_blank\">558544</a>.</p>\n\n<p><b><b>When this will happen:</b></b></p>\n<ul>\n  <li><b>Targeted Release (Worldwide):</b>&nbsp;We will begin rollout in <b>late April 2026</b> and expect to complete by<b> late April 2026</b>.</li>\n  <li><b>General Availability (Worldwide):</b>&nbsp;We will begin rollout in <b>mid-May 2026</b> (previously&nbsp;late April)&nbsp;and expect to complete by complete by<b> late May 2026</b> (previously&nbsp;mid-May).</li>\n</ul>\n\n<p><b><b>How this affects your organization:</b></b></p>\n<p><b>Who is affected:</b><br>\nAll Microsoft Teams users.</p>\n\n<p><b>What will happen:</b></p>\n<ul>\n  <li>Users can create workflows directly from the compose box using the <b>/createworkflow</b> slash command.</li><p>Screenshot: <i>Example of the <b>/createworkflow</b> slash command appearing in the Teams message compose box</i></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/6e0f2c01-af84-46cb-b498-013e2b05646a\" style=\"width: 300px;\" alt=\"user settings\"></p></ul><ul>\n  <li>The feature is <b>enabled by default</b>.</li>\n  <li>No existing admin policies are changed.</li>\n  <li>Workflow creation is faster with fewer clicks.</li><li>If the Workflows app is blocked for users, they will see the Create Workflow slash command, however they will not be able to use it and will see the following dialogue:<br><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/08549fec-968c-4d01-8aed-810b9ba20c3f/a829476c354517bb036397bec2b0acf9cd059396.png\" style=\"width: 50%;\" alt=\"user settings\"></li>\n</ul>\n\n<p><b><b>What you can do to prepare:</b></b></p>\n<ul>\n  <li>No action is required.</li>\n  <li>Optionally inform users about the new slash command.</li>\n  </ul><p>Learn more:&nbsp;<a href=\"https://support.microsoft.com/office/use-commands-in-microsoft-teams-88f61508-284d-417f-a53d-9e082164050b\" target=\"_blank\">Use commands in Microsoft Teams | Microsoft Support</a>&nbsp;(will be updated before rollout)</p><ul>\n</ul>\n\n<p><b><b>Compliance considerations:</b></b></p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n  <tbody><tr>\n    <th align=\"left\">Question</th>\n    <th align=\"left\">Explanation</th>\n  </tr>\n  <tr>\n    <td>Does the change allow a user to enable and disable the feature themselves?</td>\n   \n    <td>The /createworkflow slash command provides users with a new, self-initiated entry point to create workflows directly from the Teams compose box. The feature is enabled by default, and usage is initiated by end users without admin action.</td>\n  </tr>\n</tbody></table>",
       "ContentType": "html"
     },
@@ -11576,7 +11428,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"558544\":[{\"RoadmapId\":558544,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850262Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850263Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850265Z\",\"LatestRing\":null}]}"
+        "Value": "{\"558544\":[{\"RoadmapId\":558544,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686114Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686116Z\",\"LatestRing\":null},{\"RoadmapId\":558544,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686116Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -13563,7 +13415,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557170\":[{\"RoadmapId\":557170,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849793Z\",\"LatestRing\":null},{\"RoadmapId\":557170,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849795Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557170\":[{\"RoadmapId\":557170,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468742Z\",\"LatestRing\":null},{\"RoadmapId\":557170,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687421Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -13874,7 +13726,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559611\":[{\"RoadmapId\":559611,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850894Z\",\"LatestRing\":null},{\"RoadmapId\":559611,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850895Z\",\"LatestRing\":null}]}"
+        "Value": "{\"559611\":[{\"RoadmapId\":559611,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686761Z\",\"LatestRing\":null},{\"RoadmapId\":559611,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686762Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -14137,7 +13989,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559612\":[{\"RoadmapId\":559612,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850793Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850794Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559612,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850794Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850795Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850796Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"559612\":[{\"RoadmapId\":559612,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687181Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687182Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559612,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687183Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687184Z\",\"LatestRing\":null},{\"RoadmapId\":559612,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687185Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -14236,7 +14088,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"168524\":[{\"RoadmapId\":168524,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851364Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851365Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851366Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851367Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"168524\":[{\"RoadmapId\":168524,\"Platform\":\"Web\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468666Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Mac\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686661Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"Desktop\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686662Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":168524,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686663Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -15099,7 +14951,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"500696\":[{\"RoadmapId\":500696,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851755Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":500696,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851756Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851757Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851758Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"500696\":[{\"RoadmapId\":500696,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687911Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":500696,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687913Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687913Z\",\"LatestRing\":null},{\"RoadmapId\":500696,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687914Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -15410,7 +15262,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850585Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850585Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685616Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685618Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -15588,7 +15440,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"559386\":[{\"RoadmapId\":559386,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285007Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559386,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850071Z\",\"LatestRing\":null},{\"RoadmapId\":559386,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850072Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"559386\":[{\"RoadmapId\":559386,\"Platform\":\"iOS\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686507Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":559386,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686508Z\",\"LatestRing\":null},{\"RoadmapId\":559386,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686509Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -16640,7 +16492,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554925\":[{\"RoadmapId\":554925,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850355Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850356Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850357Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554925\":[{\"RoadmapId\":554925,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687031Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687032Z\",\"LatestRing\":null},{\"RoadmapId\":554925,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687033Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -17840,7 +17692,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557975\":[{\"RoadmapId\":557975,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.284984Z\",\"LatestRing\":null},{\"RoadmapId\":557975,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2849841Z\",\"LatestRing\":null}]}"
+        "Value": "{\"557975\":[{\"RoadmapId\":557975,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687392Z\",\"LatestRing\":null},{\"RoadmapId\":557975,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687392Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -18151,7 +18003,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"554933\":[{\"RoadmapId\":554933,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851697Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851698Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851699Z\",\"LatestRing\":null}]}"
+        "Value": "{\"554933\":[{\"RoadmapId\":554933,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687766Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687767Z\",\"LatestRing\":null},{\"RoadmapId\":554933,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687768Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -19312,46 +19164,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p>Updated March 20, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We are <b>updating the Microsoft Teams app bar</b> to create a cleaner and more focused experience. <b>App names</b> will be<b> hidden by default</b>, showing only app icons. Users can still view the app name by hovering over an app icon or navigating to it with keyboard focus, which displays the app name in a tooltip, as it exists today. This update simplifies the app bar by reducing visual noise. This change will exclude EDU tenants</p><p>Users can choose to show app names anytime in Settings &gt; Appearance.</p><p>Accessibility reviews have been conducted to verify compliance and ensure screen readers are working properly.</p><p><b><b>When this will happen</b></b></p><p><b>General Availability (Worldwide): </b>We will begin rolling out in late April 2026 (previously mid-March)&nbsp;and expect to complete late April 2026 (previously early April).</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i>: <b>All Microsoft Teams users </b>in<i> commercial (non-government) tenants</i>.</p><p><i>What will happen</i>:</p><ul><li>App names in the <i>Teams app bar </i>will be <b>hidden by default</b>.</li><li>Users will see app icons only, providing a simplified vertical navigation experience.</li><li>Users who prefer to show app names may update this setting individually:<ul><li><i><b>Settings &gt; Appearance &gt; Show app names in the app bar</b></i></li></ul></li><li>No admin configuration changes are required.</li><li>There is <b>no impact to existing policies, permissions, or app availability</b>.</li></ul><p><i>Screenshot 1 - Before</i>:</p><p>&nbsp;<img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/d387f29a-2cdd-43a3-a373-8c5de42b8472/cfc020bd0a2368d632002c180a0f325698faeee0.png\" style=\"width: 100px;\"></p><p><i></i></p><p><i>Screenshot 2 - After</i>:</p><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/cd1c135b-b4cb-47d8-8040-2d949a1f7f84/47b7fda341b8537b6bcf6a0808cbf8cc553d7240.png\" style=\"width: 100px;\"></p><p></p><p><b><b>What you can do to prepare</b></b></p><ul><li>No action is required.</li><li>If helpful, you may notify users or help desk staff about this visual update and how to re-enable app names.</li><li>If your organization maintains internal documentation or screenshots of the Teams interface, consider updating them after rollout.</li></ul><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams will hide app names by default in the app bar for a cleaner look, showing only icons with names visible on hover or keyboard focus. Users can re-enable names via Settings. Rollout begins late April 2026 for commercial tenants, excluding EDU, with no admin changes needed."
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1226220",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-03-20T19:53:04.443Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-02-02T23:45:41Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "App names hidden in app bar for a cleaner, more focused experience",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>Updated March 20, 2026: We have updated the timeline. Thank you for your patience.</p><p><b><b>Introduction</b></b>\n</p><p>To enhance transparency and user control, Microsoft Teams is expanding the Explicit Recording Consent feature to include 1:1 Teams calls. This update ensures that participants must provide explicit consent before their media (audio, video, and content sharing) is included in any recording or transcription initiated by another user. This change supports privacy compliance and aligns with customer feedback requesting more granular consent controls.</p><p>This message is associated with Roadmap ID&nbsp;<a href=\"https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&amp;searchterms=503295\" target=\"_blank\">503295</a>.</p>\n\n<b><b>When this will happen:</b></b>\n<ul>\n<li>Targeted Release: Begins early January 2026 (previously early December 2025), completes mid-January 2026 (previously mid-December 2025).\n</li><li>General Availability (Worldwide, GCC): Begins mid-January 2026 (previously mid-December 2025), completes late April 2026 (previously late January).\n</li><li>General Availability (GCC High): Begins early February 2026 (previously late January), completes late April 2026 (previously mid-February).\n</li><li>General Availability (DoD): Begins mid-February 2026 (previously late January), completes late April 2026 (previously late February).</li>\n</ul>\n\n<b><b>How this affects your organization:</b></b>\n<p><b>Who is affected:</b></p>\n<ul>\n<li>Microsoft Teams administrators managing calling policies.</li>\n<li>Users participating in 1:1 Teams VoIP calls where recording or transcription is initiated.</li><li>Public Switched Telephone Network (PSTN) endpoints will be auto consented. Explicit consent support for PSTN will be included in a future release.</li>\n</ul>\n<p><b>What will happen:</b></p>\n<ul>\n<li>This feature applies to Microsoft Teams desktop apps on Windows and macOS. </li><li>By default, Explicit Recording Consent is OFF and must be enabled by administrators.</li>\n<li>When enabled:\n  <ul>\n    <li>Users initiating recording or transcription in 1:1 calls will trigger a consent prompt for the other VoIP participant.</li>\n    <li>Until consent is granted, the participant’s audio, video, and screen/content sharing will be disabled, and as a result, excluded from the recording.</li><li>PSTN users will be auto-consented. Learn more at Manage Teams recording policies | Auto consent endpoints and platforms</li>\n  </ul>\n</li>\n<li>Administrators can apply this policy tenant-wide or to specific users.</li>\n</ul>\n\n<b><b>What you can do to prepare:</b></b>\n<ul>\n<li>Update training materials to reflect that Explicit Recording Consent now applies to 1:1 calls (PSTN and Teams VoIP).</li>\n<li>Inform users that consent is required before recording or transcription can begin in 1:1 calls.</li>\n<li>Administrators can manage this feature via PowerShell or the Microsoft Teams admin center.</li>\n</ul>\n<p><b>PowerShell commands:</b></p>\n<pre>Set-CsTeamsCallingPolicy -Identity Global -ExplicitRecordingConsent \"Enabled\"\nSet-CsTeamsCallingPolicy -Identity Global -ExplicitRecordingConsent \"Disabled\"\n</pre>\n<p>Learn more: <a href=\"https://learn.microsoft.com/powershell/module/microsoftteams/set-csteamscallingpolicy?view=teams-ps#-explicitrecordingconsent\">Set-CsTeamsCallingPolicy documentation</a></p><p><b><b>Compliance considerations:</b></b></p><table border=\"1\">\n<tbody><tr><th>Compliance Area</th><th>Explanation</th></tr>\n<tr><td>Audit Logging</td><td>Consent data is captured in audit logs. Refer to&nbsp;<a href=\"https://learn.microsoft.com/microsoft-365/compliance/audit-log-activities?view=o365-worldwide\">Audit log activities in Microsoft Purview</a>.</td></tr>\n</tbody></table><p></p>",
       "ContentType": "html"
     },
@@ -19387,57 +19199,6 @@
       "Admin impact"
     ],
     "Title": "New policy setting to require explicit consent for recording and transcription in Teams 1:1 calls",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p>Updated March 20, 2026: We have updated the timeline. Thank you for your patience.</p><p>Introducing a new content picker for Teams Mobile Android. Attach any type of content, whether files or media, from the paperclip icon in the compose overflow menu. Our unified attach flow makes it easy and intuitive to attach content from any source location.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=488091\" target=\"_blank\">488091</a>.</p><p><b>When this will happen:</b></p><p>General Availability (Worldwide): We will begin rolling out on Android early June 2025 and expect to complete by late June 2025.</p><p>General Availability (GCC, GCC High, DoD) We will begin rollout on Android late June 2025 and expect to complete by end of April 2026 (previously end of February)</p><p><b>How this will affect your organization:</b></p><p>Users will see an improved content attach flow in the Teams Android app.</p><p><br></p><p><img src=\"https://cxcs.microsoft.net/file/ccp/en-us/f227e770-bce4-48e4-bc0b-78ea48bb420f\" width=\"200\" height=\"\"><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/6f91ea71-0a3d-4ced-84c5-3f95aa0729d5/7bd5dfe9b9926303579f68ed5762f59c7f0f3f74.png\" width=\"200\" height=\"\">\n<img src=\"https://cxcs.microsoft.net/file/ccp/en-us/a89b99b3-77d6-4159-904a-8e3da0d5720f\" width=\"200\" height=\"\"></p><p><br></p><p><b>What you need to do to prepare:</b></p><p>This rollout will happen automatically with no admin action required. You may want to notify your users about this change and update any relevant documentation as appropriate.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "488091"
-      },
-      {
-        "Name": "FeatureStatusJson",
-        "Value": "{\"488091\":[{\"RoadmapId\":488091,\"Platform\":\"Android\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851097Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":488091,\"Platform\":\"All\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851098Z\",\"LatestRing\":\"StandardRelease\"}]}"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams Mobile for Android will get a unified attachment flow starting June 2025, making it easier to attach any content via the paperclip icon. Rollout completes by late June 2025 worldwide and by April 2026 for GCC environments. No admin action is needed."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Android"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1070854",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-03-20T16:43:27.333Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2025-05-09T21:35:41Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact"
-    ],
-    "Title": "Microsoft Teams: Unified attachment flow on Teams Mobile",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
@@ -20082,7 +19843,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"557716\":[{\"RoadmapId\":557716,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850671Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557716,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850672Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850673Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850674Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"557716\":[{\"RoadmapId\":557716,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686224Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":557716,\"Platform\":\"Mac\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686225Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686227Z\",\"LatestRing\":null},{\"RoadmapId\":557716,\"Platform\":\"All\",\"Status\":\"InRollout\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686229Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -20268,7 +20029,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"558107\":[{\"RoadmapId\":558107,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851429Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285143Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851431Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851432Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851434Z\",\"LatestRing\":null}]}"
+        "Value": "{\"558107\":[{\"RoadmapId\":558107,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687315Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"iOS\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687316Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687317Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"Android\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687318Z\",\"LatestRing\":null},{\"RoadmapId\":558107,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687318Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -21520,7 +21281,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"541831\":[{\"RoadmapId\":541831,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850735Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":541831,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850736Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850737Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285074Z\",\"LatestRing\":\"StandardRelease\"}]}"
+        "Value": "{\"541831\":[{\"RoadmapId\":541831,\"Platform\":\"Web\",\"Status\":\"Launched\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687112Z\",\"LatestRing\":\"StandardRelease\"},{\"RoadmapId\":541831,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687114Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687114Z\",\"LatestRing\":null},{\"RoadmapId\":541831,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4687115Z\",\"LatestRing\":\"StandardRelease\"}]}"
       },
       {
         "Name": "Summary",
@@ -21835,54 +21596,6 @@
       "Retirement"
     ],
     "Title": "Teams on the web – Browser Update Required by May 15, 2026",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p>Updated February 11, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We are bringing <b>digital signage capabilities</b> to <b>Teams Rooms on Android</b>, similar to what is available for Teams Rooms on Windows. This update allows IT admins to display dynamic content—such as announcements, news, or organizational information—on front‑of‑room displays when the room is not in a meeting. Tenant‑wide and room‑specific configuration is available through the Teams Rooms Pro Management portal. This feature supports select third‑party digital signage partners and is included with the Teams Rooms Pro license.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=548647#Roadmap\" target=\"_blank\">548647</a>.</p><p><b><b>When this will happen</b></p><ul><li><b>General Availability (Worldwide)</b>: Rolling out in<b>&nbsp;</b>mid-April 2026 (previously early March); expected completion by late April 2026 (previously&nbsp;late March).</li></ul><p><b>[How this affects your organization</b></b></p><p><i>Who is affected:</i></p><ul><li>Organizations using<b> Teams Rooms on Android</b>.</li><li>Admins managing devices through the <b>Teams Rooms Pro Management portal</b>.</li><li>Tenants with <b>Teams Rooms Pro licenses</b>.</li></ul><p><i>What will happen</i>:</p><p>Before the rollout, Teams Rooms on Android show a static front‑of‑room display home screen when not in use.</p><p>After the rollout:</p><ul><li>Admins can enable digital signage to display dynamic content when the room is idle:</li><p>&nbsp;<img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/8e1564ea-bc08-41ce-8393-5e1efc98510b/6a79c648517a40a480a6f1811675ccf6c57a0792.png\" style=\"width: 400px;\" alt=\"user settings\"></p><li>Supported signage sources include Appspace, XOGO, and custom web URLs.</li><li>Digital signage is configurable at the tenant level and for individual rooms.</li><li>Users can return to the home screen by tapping the touch console.</li><li>Admins can:<ul><li>Choose whether to show the Teams Rooms banner with room info and calendar preview.</li><li>Configure activation and deactivation timers for signage mode.</li><li>Determine whether signage mode respects or bypasses OS screen‑timeout settings.</li></ul></li><li><b>Custom URL requirements</b>:<ul><li>Must begin with <b>https</b></li><li>Must be publicly accessible with <b>no authentication</b></li><li>Must support viewing within an iframe</li></ul></li><li><b>SharePoint and OneDrive URLs are not supported</b> for custom signage.</li></ul><p>Role-based access:</p><ul><li>Global Admins and Teams Rooms Pro Managers can manage tenant‑wide settings.</li><li>These roles can assign additional permissions using Role-based Access Controls (RBAC) for specific rooms or room groups.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li>Begin planning your digital signage deployment strategy (centralized, localized, or blended).</li><li>Prepare content within supported signage systems.</li><li>After devices update to the minimum required app version:<ul><li>Enable digital signage in the<i> Teams Rooms Pro Management portal</i> by navigating to <b><i>Settings &gt; Digital Signage</i></b>.</li><li>Add signage sources and apply settings to applicable rooms.</li></ul></li><li>Notify helpdesk and affected users of the upcoming capability.</li><li>Update internal documentation and training materials as needed.</li></ul><p>This rollout will occur automatically within the specified rollout window; no administrative action is required before rollout.</p><p>Learn more:&nbsp;<a href=\"https://learn.microsoft.com/MicrosoftTeams/rooms/digital-signage\" target=\"_blank\">Configure digital signage on Teams Rooms | Microsoft Teams | Microsoft Learn</a></p><p><b><b>Compliance considerations</b>\n</b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p><p>\n</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "548647"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft Teams Rooms on Android will gain digital signage capabilities by mid-April 2026, allowing dynamic content display when rooms are idle. Admins can configure tenant-wide or room-specific signage via the Teams Rooms Pro Management portal, supporting select third-party partners and custom HTTPS URLs without authentication."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Android"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1227077",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-02-11T17:18:21.21Z",
-    "Services": [
-      "Microsoft Teams"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-02-05T00:01:51Z",
-    "Tags": [
-      "Updated message",
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Teams: Digital signage in Teams Rooms on Android",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
@@ -22687,53 +22400,6 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
-      "Content": "<p><b><b>Introduction</b></b>\n</p><p>We’re adding a<b> new preconfigured quick policy template</b> in<i> Insider Risk Management<b> </b></i><b>to help detect potential data theft </b>from Microsoft Fabric and other non-Microsoft 365 cloud storage services, including Box, Dropbox, Google Drive, Azure, and Amazon Web Services (AWS). This template helps admins create scenario-specific policies with minimal configuration, enabling faster and more consistent onboarding.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=543244\" target=\"_blank\">543244</a>.</p><p><b><b>When this will happen</b></b></p><p><b>General Availability (Worldwide): </b>We will begin rolling out in <b>late February 2026</b> and expect to complete by<b> late February 2026</b>.</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i>:</p><ul><li>Insider Risk Management admins with permissions to create and manage policies</li><li>Organizations using Microsoft Fabric or non-Microsoft 365 cloud storage providers (Box, Dropbox, Google Drive, Azure, AWS)</li></ul><p><i>What will happen</i>:</p><ul><li>A new quik policy template will appear in<i> <a href=\"https://sip.purview.microsoft.com/insiderriskmgmt/overviewpage?tid=72f988bf-86f1-41af-91ab-2d7cd011db47\" target=\"_blank\">Insider Risk Management</a> </i>under <i><b>Policies &gt; Create policy</b></i>.</li><li>Admins can use the template to detect potential data theft activities performed by:<ul><li>Users leaving the organization, or</li><li>Users whose accounts have been deleted in <i>Microsoft Entra ID</i></li></ul></li><li>The template supports monitoring across Microsoft Fabric and multiple third‑party cloud sources.</li><li>Policies created with this template require minimal configuration to get started.</li><li>Additional tuning may be needed after deployment to optimize alert volume for your environment.</li><li>This feature is <b>not enabled by default</b>; admins must opt in by creating the policy.</li></ul><p><b><b>What you can do to prepare</b></b></p><ul><li>Review your Insider Risk Management role permissions to ensure appropriate admin access.</li><li>When available, create the new quick policy from <i><b>Microsoft Purview &gt; Insider Risk Management &gt; Policies &gt; Create policy</b></i>.</li><li>After deployment, evaluate alert volume and adjust thresholds or settings as needed.</li><li>If your organization uses cloud apps such as Box, Dropbox, Google Drive, Azure, AWS, or Microsoft Fabric, confirm the relevant connectors and integrations are enabled.</li><li>For detailed guidance, review:&nbsp;<a href=\"https://learn.microsoft.com/purview/insider-risk-management-policies#quick-policies\" target=\"_blank\" style=\"font-family: sans-serif; font-weight: 400; background-color: rgb(255, 255, 255);\">Create and manage Insider Risk Management policies | Microsoft Learn</a></li></ul><p><img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/5bf59437-f497-4d84-90e7-fbb0980428a3/17ef0844aec8d3a9bc159523a9b20c1ba43fa225.png\" style=\"width: 400px;\"></p><p><b><b>Compliance considerations</b></b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "543244"
-      },
-      {
-        "Name": "Summary",
-        "Value": "A new quick policy template in Microsoft Purview Insider Risk Management will help detect data theft from Microsoft Fabric and non-Microsoft 365 cloud sources like Box, Dropbox, Google Drive, Azure, and AWS. It requires minimal setup, is not enabled by default, and rolls out worldwide in late February 2026."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Web"
-      }
-    ],
-    "EndDateTime": "2026-05-29T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1221449",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-01-23T00:52:31.963Z",
-    "Services": [
-      "Microsoft Purview"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-01-23T00:52:11Z",
-    "Tags": [
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Purview: Insider Risk Management – Quick policy to detect data theft from non-Microsoft 365 data sources",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
       "Content": "<p>As mentioned in MC540749 and MC1029989, Microsoft Entra ID (formerly known as Azure Active Directory) and Microsoft Intune will retire the Conditional Access “Require approved client app” grant control in <b>June 2026</b> (previously March 2026). We recommend utilizing the \"Require application protection policy\" grant control, which provides the same data loss and protection with additional benefits.</p><p><b>How this will affect your organization:</b></p><p>If you have a Conditional Access policy with \"Require approved client app\" grant control configured, after this change, you will no longer be able to enforce this control, it will be as if this grant is not selected.</p><p><b>What you need to do to prepare:</b></p><p>We recommend updating your Conditional Access policy to using the \"Require application protection policy\" grant control. For more information, see <a href=\"https://learn.microsoft.com/azure/active-directory/conditional-access/migrate-approved-client-app\" target=\"_blank\">Migrate approved client app to application protection policy in Conditional Access</a>.</p>",
       "ContentType": "html"
     },
@@ -22872,7 +22538,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"542794\":[{\"RoadmapId\":542794,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851058Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851059Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.285106Z\",\"LatestRing\":null}]}"
+        "Value": "{\"542794\":[{\"RoadmapId\":542794,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686993Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686994Z\",\"LatestRing\":null},{\"RoadmapId\":542794,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4686995Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -23047,7 +22713,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"482747\":[{\"RoadmapId\":482747,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851851Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851854Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2851855Z\",\"LatestRing\":null}]}"
+        "Value": "{\"482747\":[{\"RoadmapId\":482747,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4688015Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4688016Z\",\"LatestRing\":null},{\"RoadmapId\":482747,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4688017Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",
@@ -24275,7 +23941,7 @@
       },
       {
         "Name": "FeatureStatusJson",
-        "Value": "{\"487432\":[{\"RoadmapId\":487432,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850625Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850626Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T05:35:48.2850627Z\",\"LatestRing\":null}]}"
+        "Value": "{\"487432\":[{\"RoadmapId\":487432,\"Platform\":\"Mac\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685878Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"Desktop\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.4685879Z\",\"LatestRing\":null},{\"RoadmapId\":487432,\"Platform\":\"All\",\"Status\":\"FeatureRolloutStatusNotSupported\",\"LastUpdateTime\":\"2026-05-29T07:33:44.468588Z\",\"LatestRing\":null}]}"
       },
       {
         "Name": "Summary",

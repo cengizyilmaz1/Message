@@ -180,15 +180,6 @@
     <category>Microsoft Teams</category>
   </item>
   <item>
-    <title>MC1141958: Microsoft Teams: Choose to hide inactive channels</title>
-    <link>https://message.cengizyilmaz.net/message/mc1141958-microsoft-teams-choose-to-hide-inactive-channels</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1141958-microsoft-teams-choose-to-hide-inactive-channels</guid>
-    <pubDate>Thu, 28 May 2026 15:35:35 GMT</pubDate>
-    <description>Microsoft Teams will offer opt-in suggestions to hide inactive channels, allowing users to review and choose which channels to hide. Users can toggle this feature on or off in settings and manually manage channels anytime. The planned automatic change was canceled, so manual control remains.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
-  </item>
-  <item>
     <title>MC1311977: Security Detection Report in Teams Admin Center</title>
     <link>https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1311977-security-detection-report-in-teams-admin-center</guid>
@@ -2427,15 +2418,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 suite</category>
   </item>
   <item>
-    <title>MC1154300: New PDF Viewer Enabled by Default in Microsoft Edge Starting October 2025</title>
-    <link>https://message.cengizyilmaz.net/message/mc1154300-new-pdf-viewer-enabled-by-default-in-microsoft-edge-starting-october-2025</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1154300-new-pdf-viewer-enabled-by-default-in-microsoft-edge-starting-october-2025</guid>
-    <pubDate>Mon, 18 May 2026 16:49:55 GMT</pubDate>
-    <description>Starting October 2025, Microsoft Edge on Windows will default to an Adobe-powered PDF viewer for enterprise users, enhancing performance and features. Rollout completes by March 2026. Admins can manage or opt out via policies until September 2026, after which the new viewer becomes mandatory.</description>
-    <category>Message Center</category>
-    <category>Microsoft 365 suite</category>
-  </item>
-  <item>
     <title>MC1302904: Viva Engage Communities and Storylines in Teams – Individual enablement controls</title>
     <link>https://message.cengizyilmaz.net/message/mc1302904-viva-engage-communities-and-storylines-in-teams-individual-enablement-controls</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1302904-viva-engage-communities-and-storylines-in-teams-individual-enablement-controls</guid>
@@ -4622,6 +4604,24 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Outlook</category>
     <category>PowerPoint</category>
     <category>Word</category>
+  </item>
+  <item>
+    <title>MC1301802: Change Optics report for Exchange Online begins public preview</title>
+    <link>https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1301802-change-optics-report-for-exchange-online-begins-public-preview</guid>
+    <pubDate>Tue, 05 May 2026 22:04:51 GMT</pubDate>
+    <description>The Change Optics report for Exchange Online is in public preview, providing administrators visibility into email traffic affected by upcoming transport changes. It identifies onmicrosoft.com external traffic and Direct Send traffic, is enabled by default, requires no preparation, and does not impact mail flow or users.</description>
+    <category>Exchange Online</category>
+    <category>Message Center</category>
+  </item>
+  <item>
+    <title>MC1281505: Microsoft Purview: Data Lifecycle Management- Azure PST Import</title>
+    <link>https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1281505-microsoft-purview-data-lifecycle-management-azure-pst-import</guid>
+    <pubDate>Tue, 05 May 2026 20:32:06 GMT</pubDate>
+    <description>Azure PST Import enables Microsoft 365 admins to import PST files from Azure Blob Storage into Exchange Online mailboxes using PowerShell. The process includes readiness analysis, import execution, and cleanup, with no GUI available. It starts globally on August 31, 2026, requiring specific Azure permissions and mailbox prerequisites. Imported data follows existing retention and compliance policies.</description>
+    <category>Message Center</category>
+    <category>Microsoft Purview</category>
   </item>
 </channel>
 </rss>
