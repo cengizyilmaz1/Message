@@ -2004,15 +2004,6 @@
     <category>Message Center</category>
   </item>
   <item>
-    <title>MC1295106: Microsoft Copilot Studio – Group and analyze the performance of user questions by themes</title>
-    <link>https://message.cengizyilmaz.net/message/mc1295106-microsoft-copilot-studio-group-and-analyze-the-performance-of-user-questions-by-themes</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1295106-microsoft-copilot-studio-group-and-analyze-the-performance-of-user-questions-by-themes</guid>
-    <pubDate>Tue, 19 May 2026 19:37:27 GMT</pubDate>
-    <description>Update: Release of this feature has been updated. We are announcing the ability to group and analyze the performance of user questions by themes in Microsoft Copilot Studio. This feature will reach general availability on July 29, 2026. How does this affect me? With this feature, makers can get a more granular level understanding of how their agent performs with AI-generated lists that analyze all user questions that trigger generative answers and group them to different themes. For each theme:...</description>
-    <category>Dynamics 365 Apps</category>
-    <category>Message Center</category>
-  </item>
-  <item>
     <title>MC1162275: Product transitions to the cloud.microsoft domain – September 2025</title>
     <link>https://message.cengizyilmaz.net/message/mc1162275-product-transitions-to-the-cloudmicrosoft-domain-september-2025</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1162275-product-transitions-to-the-cloudmicrosoft-domain-september-2025</guid>
@@ -4622,6 +4613,15 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Viva Engage in Microsoft Teams for iOS will add pinned resources and related communities by late July 2026, aligning with other platforms. This feature, enabled by default, improves content access without requiring admin changes. Organizations should inform users and community admins to prepare.</description>
     <category>Message Center</category>
     <category>Microsoft Viva</category>
+  </item>
+  <item>
+    <title>MC1254552: Copilot Notebooks: New features coming to Frontier Public</title>
+    <link>https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1254552-copilot-notebooks-new-features-coming-to-frontier-public</guid>
+    <pubDate>Tue, 05 May 2026 17:00:09 GMT</pubDate>
+    <description>Starting late March 2026, new Copilot Notebooks features—like chat interactivity, study guides, SharePoint grounding, PowerPoint and Word agents, group sharing, and mind maps—will roll out in Frontier Public tenants, reaching general availability by June 2026. Features are enabled by default with no admin action required.</description>
+    <category>Message Center</category>
+    <category>Microsoft 365 apps</category>
   </item>
 </channel>
 </rss>
