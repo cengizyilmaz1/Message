@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 29 May 2026 16:58:29 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 17:46:15 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1318248: Microsoft Purview | Data Security Posture Management: New data security agent in DSPM</title>
+    <link>https://message.cengizyilmaz.net/message/mc1318248-microsoft-purview-data-security-posture-management-new-data-security-agent-in-dspm</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318248-microsoft-purview-data-security-posture-management-new-data-security-agent-in-dspm</guid>
+    <pubDate>Fri, 29 May 2026 17:46:15 GMT</pubDate>
+    <description>Microsoft Purview&apos;s Data Security Posture Management (DSPM) is now generally available worldwide from mid-June to late July 2026. It provides centralized insights, recommendations, and remediation actions to improve data security posture across Microsoft 365 without disrupting existing configurations. No action is required.</description>
+    <category>Message Center</category>
+    <category>Microsoft Purview</category>
+  </item>
   <item>
     <title>MC1326260: Microsoft Purview Data Security Triage Agent will include sensitive data remediation through Microsoft Teams</title>
     <link>https://message.cengizyilmaz.net/message/mc1326260-microsoft-purview-data-security-triage-agent-will-include-sensitive-data-remediation-through-microsoft-teams</link>
@@ -1581,15 +1590,6 @@
     <description>Microsoft Teams will introduce a new file download manager starting June 2026, with notifications auto-dismissing after about 4 seconds. Users can still open or locate files easily. The update applies to all users by default, requires no action, and does not change file permissions or security.</description>
     <category>Message Center</category>
     <category>Microsoft Teams</category>
-  </item>
-  <item>
-    <title>MC1318248: Microsoft Purview | Data Security Posture Management: New data security agent in DSPM</title>
-    <link>https://message.cengizyilmaz.net/message/mc1318248-microsoft-purview-data-security-posture-management-new-data-security-agent-in-dspm</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1318248-microsoft-purview-data-security-posture-management-new-data-security-agent-in-dspm</guid>
-    <pubDate>Thu, 21 May 2026 21:35:56 GMT</pubDate>
-    <description>Microsoft Purview&apos;s Data Security Posture Management (DSPM) is now generally available, offering admins centralized insights, risk identification, and remediation guidance across Microsoft 365. The new data security posture agent enhances data analysis without disrupting existing configurations. No action is required, but reviewing DSPM features is recommended.</description>
-    <category>Message Center</category>
-    <category>Microsoft Purview</category>
   </item>
   <item>
     <title>MC1317197: Microsoft Teams: A refreshed in-meeting experience with simpler controls and a smarter share panel</title>
