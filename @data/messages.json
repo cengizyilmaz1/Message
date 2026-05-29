@@ -4,6 +4,54 @@
     "Attachments": null,
     "AttachmentsArchive": null,
     "Body": {
+      "Content": "<p>Updated May 29, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b><b>Introduction</b></b></p><p>We’re introducing integration of the<b> Microsoft Purview SDK</b> into the<i> Microsoft Agent Framework SDK </i>to help organizations build secure, enterprise-ready AI agents. This integration enables developers to apply Microsoft Purview compliance and data protection capabilities directly within <i>agent runtimes</i>.&nbsp;It extends existing security and governance controls to custom-built AI agents across Microsoft 365 workloads.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID </b><a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=534609\" target=\"_blank\">534609</a>.</p><p><b><b>When this will happen</b></b></p><p style=\"margin-left: 25px;\"><b>General Availability (Worldwide): </b>We will begin rolling out in <b>September 2026</b> (previously&nbsp;late-May)<b>&nbsp;</b>and expect to complete by<b>&nbsp;end of September 2026 </b>(previously late-June).</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>Organizations building or planning to build AI agents using the <b>Microsoft Agent Framework SD</b>K</li><li>Admins and developers responsible for security, compliance, and governance of custom AI agents</li><li>Tenants with Microsoft Purview licenses that enable SDK usage</li></ul><p><i>What will happen</i></p><ul><li>Developers can embed Microsoft Purview SDK controls directly into AI agent runtimes built with the Agent Framework SDK.</li><li>AI agents can respect existing Microsoft Purview compliance configurations, such as data protection and policy enforcement, when accessing organizational data.</li><li>There is no change to user experiences in Microsoft 365 services.</li><li>The integration is <b>not enabled automatically</b>; it requires developer implementation within custom agents.</li><li>Existing Microsoft Purview policies and configurations remain unchanged unless explicitly used by the agent.</li></ul><p><b><b>What you can do to prepare</b></b></p><p>No immediate admin action is required if your organization is not developing AI agents.</p><p>If your organization builds AI agents:</p><ul><li>Share this update with your development and security teams.</li><li>Review Microsoft Purview SDK documentation to understand supported compliance capabilities.</li><li>Validate how existing Purview policies should be applied within agent workflows.</li></ul><p><b>Learn more:</b> <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/building-secure-enterprise-ready-ai-agents-with-purview-sdk-and-agent-framework/4492356\" target=\"_blank\">Building Secure, Enterprise-Ready AI Agents with Purview SDK and Agent Framework | Microsoft Security Community Blog</a></p><p><b><b>Compliance considerations</b></b></p><table class=\"table table-bordered\"><tbody><tr><td><b>Question</b></td><td><b>Answer</b></td></tr><tr><td>Does this change alter how existing customer data is processed, stored, or accessed?</td><td>Yes. When developers implement the Purview SDK, AI agents can access customer data under the governance of Microsoft Purview compliance policies, such as data protection and policy enforcement.</td></tr><tr><td>Does this change introduce or significantly modify AI or agent capabilities that interact with customer data?</td><td>Yes. The change enables custom AI agents built with the Agent Framework SDK to respect customer's Microsoft Purview compliance controls while interacting with the customer data.</td></tr><tr><td>Does this change alter how admins can monitor, report on, or demonstrate compliance?</td><td>Yes. When AI agents use the Purview SDK, compliance enforcement and related activities may be reflected through existing Microsoft Purview monitoring and reporting experiences.</td></tr></tbody></table><p><b></b></p>",
+      "ContentType": "html"
+    },
+    "Category": "stayInformed",
+    "Details": [
+      {
+        "Name": "RoadmapIds",
+        "Value": "534609"
+      },
+      {
+        "Name": "Summary",
+        "Value": "Microsoft is integrating the Purview SDK into the Agent Framework SDK, enabling AI agents to enforce Microsoft Purview compliance and data protection policies. This rollout begins September 2026, requiring developer implementation. It affects organizations building AI agents and enhances compliance monitoring without changing existing Microsoft 365 user experiences."
+      },
+      {
+        "Name": "Platforms",
+        "Value": "Web"
+      }
+    ],
+    "EndDateTime": "2026-10-30T07:00:00Z",
+    "HasAttachments": false,
+    "Id": "MC1302905",
+    "IsMajorChange": false,
+    "LastModifiedDateTime": "2026-05-29T21:29:43.753Z",
+    "Services": [
+      "Microsoft Purview"
+    ],
+    "Severity": "normal",
+    "StartDateTime": "2026-05-06T22:52:36Z",
+    "Tags": [
+      "Updated message",
+      "New feature",
+      "User impact",
+      "Admin impact"
+    ],
+    "Title": "Microsoft Purview compliance portal: Purview SDK embedded in Agent Framework SDK",
+    "ViewPoint": {
+      "IsArchived": null,
+      "IsFavorited": null,
+      "IsRead": null
+    },
+    "Source": "messageCenter",
+    "AdditionalProperties": {}
+  },
+  {
+    "ActionRequiredByDateTime": null,
+    "Attachments": null,
+    "AttachmentsArchive": null,
+    "Body": {
       "Content": "<p><b><b>Introduction</b></b></p><p>Microsoft will introduce an <b>enhanced export experience</b> for <b>Viva Glint Heat Map reports</b>. This update will add a new option to export Heat Map reports as fully editable PowerPoint slides, making it easier and faster for managers to customize, share, and present survey insights outside of Viva Glint using native PowerPoint tools.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=560821\" target=\"_blank\">560821</a></b>.</p><p><b><b>When this will happen</b></b></p><p style=\"margin-left: 25px;\"><b>General Availability (Worldwide and GCC): </b>Rollout will begin in <b>mid-July 2026</b> and is expected to complete by <b>late July 2026</b>.</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><p style=\"margin-left: 25px;\">Managers and users with <b>access to Heat Map reports</b> in <i>Microsoft Viva Glint </i>across Microsoft 365 tenants (Worldwide and GCC).</p><p>What will happen:</p><ul><li>A new export option, <b><i>Export report to PowerPoint</i></b>, will be added for Heat Map reports.</li><li>Heat Map reports can be exported as<b> native, editable PowerPoint slides</b>, allowing direct editing of text, layout, and visuals using built‑in PowerPoint tools.</li><li>The existing <b><i>Export screenshots to PowerPoint </i></b>option will continue to be available.</li><li>Both export options will appear in the <i>same export dropdown</i>.</li><li>The editable PowerPoint format will improve layout consistency and reduce unnecessary whitespace.</li><li>Export performance will improve, reducing timeouts and increasing reliability.</li><li>The feature will be enabled by default and will respect existing Viva Glint role‑based permissions.</li><li>No admin configuration or policy changes will be required.</li></ul><p><b><b>What you can do to prepare</b></b></p><p>No action is required before rollout.</p><p>Optionally:</p><ul><li>Consider notifying managers that a new editable PowerPoint export option will be available for Heat Map reports.</li><li>Update any internal documentation or training materials that reference Viva Glint Heat Map report exports.</li><li>Prepare helpdesk staff for questions about the two available export options.</li></ul><p><b>Learn more <b>to be updated closer to GA rollout</b></b>:&nbsp;<a href=\"https://learn.microsoft.com/viva/glint/reports/export-to-ppt#how-to-export-report-to-powerpoint\" target=\"_blank\">How to Export Report to PowerPoint - Export to PowerPoint | Viva Glint | Microsoft Viva | Microsoft Learn</a></p><p><b><b>Compliance considerations</b></b></p><table class=\"table table-bordered\"><tbody><tr><td><b>Question</b></td><td><b>Answer</b></td></tr><tr><td>Does the change alter how existing customer data is processed, stored, or accessed?</td><td>Yes. The update introduces an additional export format for existing Heat Map report data, allowing export to editable PowerPoint files. There is no change to underlying data access, storage locations, or permissions.</td></tr></tbody></table><p></p>",
       "ContentType": "html"
     },
@@ -9289,53 +9337,6 @@
       "Admin impact"
     ],
     "Title": "Microsoft Outlook: Automatically display automapped calendars",
-    "ViewPoint": {
-      "IsArchived": null,
-      "IsFavorited": null,
-      "IsRead": null
-    },
-    "Source": "messageCenter",
-    "AdditionalProperties": {}
-  },
-  {
-    "ActionRequiredByDateTime": null,
-    "Attachments": null,
-    "AttachmentsArchive": null,
-    "Body": {
-      "Content": "<p><b><b>Introduction</b></b></p><p>We’re introducing integration of the<b> Microsoft Purview SDK</b> into the<i> Microsoft Agent Framework SDK </i>to help organizations build secure, enterprise-ready AI agents. This integration enables developers to apply Microsoft Purview compliance and data protection capabilities directly within <i>agent runtimes</i>.&nbsp;It extends existing security and governance controls to custom-built AI agents across Microsoft 365 workloads.</p><p>This message is associated with <b>Microsoft 365 Roadmap ID </b><a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=534609\" target=\"_blank\">534609</a>.</p><p><b><b>When this will happen</b></b></p><p style=\"margin-left: 25px;\"><b>General Availability (Worldwide): </b>We will begin rolling out in <b>late-May 2026</b> and expect to complete by<b> late-June 2026</b>.</p><p><b><b>How this affects your organization</b></b></p><p><i>Who is affected</i></p><ul><li>Organizations building or planning to build AI agents using the <b>Microsoft Agent Framework SD</b>K</li><li>Admins and developers responsible for security, compliance, and governance of custom AI agents</li><li>Tenants with Microsoft Purview licenses that enable SDK usage</li></ul><p><i>What will happen</i></p><ul><li>Developers can embed Microsoft Purview SDK controls directly into AI agent runtimes built with the Agent Framework SDK.</li><li>AI agents can respect existing Microsoft Purview compliance configurations, such as data protection and policy enforcement, when accessing organizational data.</li><li>There is no change to user experiences in Microsoft 365 services.</li><li>The integration is <b>not enabled automatically</b>; it requires developer implementation within custom agents.</li><li>Existing Microsoft Purview policies and configurations remain unchanged unless explicitly used by the agent.</li></ul><p><b><b>What you can do to prepare</b></b></p><p>No immediate admin action is required if your organization is not developing AI agents.</p><p>If your organization builds AI agents:</p><ul><li>Share this update with your development and security teams.</li><li>Review Microsoft Purview SDK documentation to understand supported compliance capabilities.</li><li>Validate how existing Purview policies should be applied within agent workflows.</li></ul><p><b>Learn more:</b> <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/building-secure-enterprise-ready-ai-agents-with-purview-sdk-and-agent-framework/4492356\" target=\"_blank\">Building Secure, Enterprise-Ready AI Agents with Purview SDK and Agent Framework | Microsoft Security Community Blog</a></p><p><b><b>Compliance considerations</b></b></p><table class=\"table table-bordered\"><tbody><tr><td><b>Question</b></td><td><b>Answer</b></td></tr><tr><td>Does this change alter how existing customer data is processed, stored, or accessed?</td><td>Yes. When developers implement the Purview SDK, AI agents can access customer data under the governance of Microsoft Purview compliance policies, such as data protection and policy enforcement.</td></tr><tr><td>Does this change introduce or significantly modify AI or agent capabilities that interact with customer data?</td><td>Yes. The change enables custom AI agents built with the Agent Framework SDK to respect customer's Microsoft Purview compliance controls while interacting with the customer data.</td></tr><tr><td>Does this change alter how admins can monitor, report on, or demonstrate compliance?</td><td>Yes. When AI agents use the Purview SDK, compliance enforcement and related activities may be reflected through existing Microsoft Purview monitoring and reporting experiences.</td></tr></tbody></table><p><b></b></p>",
-      "ContentType": "html"
-    },
-    "Category": "stayInformed",
-    "Details": [
-      {
-        "Name": "RoadmapIds",
-        "Value": "534609"
-      },
-      {
-        "Name": "Summary",
-        "Value": "Microsoft is integrating the Purview SDK into the Agent Framework SDK by late June 2026, enabling developers to embed Purview compliance and data protection controls directly into custom AI agents. This enhances governance of AI agents accessing organizational data without changing existing Microsoft 365 user experiences."
-      },
-      {
-        "Name": "Platforms",
-        "Value": "Web"
-      }
-    ],
-    "EndDateTime": "2026-07-01T07:00:00Z",
-    "HasAttachments": false,
-    "Id": "MC1302905",
-    "IsMajorChange": false,
-    "LastModifiedDateTime": "2026-05-06T22:53:05.213Z",
-    "Services": [
-      "Microsoft Purview"
-    ],
-    "Severity": "normal",
-    "StartDateTime": "2026-05-06T22:52:36Z",
-    "Tags": [
-      "New feature",
-      "User impact",
-      "Admin impact"
-    ],
-    "Title": "Microsoft Purview compliance portal: Purview SDK embedded in Agent Framework SDK",
     "ViewPoint": {
       "IsArchived": null,
       "IsFavorited": null,
