@@ -6,8 +6,17 @@
   <atom:link href="https://message.cengizyilmaz.net/rss.xml" rel="self" type="application/rss+xml" />
   <description>Latest Microsoft 365 Message Center messages and Microsoft 365 Roadmap posts from message.cengizyilmaz.net. Message Center posts vary by tenant; always use your tenant's Message Center as the source of truth.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 22:04:45 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 23:54:22 GMT</lastBuildDate>
   <ttl>60</ttl>
+  <item>
+    <title>MC1287373: Microsoft Teams introduces efficiency mode to improve app responsiveness</title>
+    <link>https://message.cengizyilmaz.net/message/mc1287373-microsoft-teams-introduces-efficiency-mode-to-improve-app-responsiveness</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1287373-microsoft-teams-introduces-efficiency-mode-to-improve-app-responsiveness</guid>
+    <pubDate>Thu, 28 May 2026 23:54:22 GMT</pubDate>
+    <description>Microsoft Teams will roll out Efficiency Mode by late May 2026, improving performance on hardware-constrained devices by adjusting video resolution and app behavior. Enabled by default, users can opt out in settings. No action is required unless customization or helpdesk updates are needed.</description>
+    <category>Message Center</category>
+    <category>Microsoft Teams</category>
+  </item>
   <item>
     <title>MC1325441: Microsoft Purview | Data Lifecycle Management - Archive OneDrive and SharePoint files under retention</title>
     <link>https://message.cengizyilmaz.net/message/mc1325441-microsoft-purview-data-lifecycle-management-archive-onedrive-and-sharepoint-files-under-retention</link>
@@ -2057,15 +2066,6 @@
     <description>Microsoft Viva Insights introduces a new Power BI report, &quot;Microsoft 365 Copilot latest usage snapshot,&quot; providing daily updated Copilot usage data with three months&apos; history for analysts. Available from July 2026 (preview) and November 2026 (general), it requires at least 50 Copilot licenses and the Insights Analyst role, enabling detailed adoption analysis without admin setup.</description>
     <category>Message Center</category>
     <category>Microsoft Viva</category>
-  </item>
-  <item>
-    <title>MC1287373: Microsoft Teams introduces efficiency mode to improve app responsiveness</title>
-    <link>https://message.cengizyilmaz.net/message/mc1287373-microsoft-teams-introduces-efficiency-mode-to-improve-app-responsiveness</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1287373-microsoft-teams-introduces-efficiency-mode-to-improve-app-responsiveness</guid>
-    <pubDate>Tue, 19 May 2026 16:25:28 GMT</pubDate>
-    <description>Microsoft Teams will roll out Efficiency Mode by late May 2026 to improve performance on hardware-constrained devices. Enabled by default, it adjusts video resolution and app behavior to enhance responsiveness. Users can opt out via settings. No action is needed unless customization is desired.</description>
-    <category>Message Center</category>
-    <category>Microsoft Teams</category>
   </item>
   <item>
     <title>MC1289724: Microsoft Teams: Sharing recap access</title>
