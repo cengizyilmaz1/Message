@@ -4240,15 +4240,6 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <category>Microsoft 365 suite</category>
   </item>
   <item>
-    <title>MC1261586: Microsoft Purview: Data Lifecycle Management - Retention support Microsoft Teams call logs</title>
-    <link>https://message.cengizyilmaz.net/message/mc1261586-microsoft-purview-data-lifecycle-management-retention-support-microsoft-teams-call-logs</link>
-    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1261586-microsoft-purview-data-lifecycle-management-retention-support-microsoft-teams-call-logs</guid>
-    <pubDate>Fri, 08 May 2026 16:33:18 GMT</pubDate>
-    <description>Microsoft Purview Data Lifecycle Management will support retention and deletion policies for Microsoft Teams call logs starting late April 2026. Compliance admins can manage Teams call logs to meet regulatory requirements, with no impact on user calling experience. Organizations should review and update retention policies accordingly.</description>
-    <category>Message Center</category>
-    <category>Microsoft Purview</category>
-  </item>
-  <item>
     <title>MC1303745: Microsoft Power Automate - Compare flow versions</title>
     <link>https://message.cengizyilmaz.net/message/mc1303745-microsoft-power-automate-compare-flow-versions</link>
     <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1303745-microsoft-power-automate-compare-flow-versions</guid>
@@ -4619,6 +4610,15 @@ meetings with Facilitator in Teams Rooms on Android</title>
     <description>Starting late May 2026, Viva Insights admins can enable reserved and custom attributes as filters in Power BI reports, allowing deeper, business-aligned insights. This requires a Microsoft 365 Copilot (Premium) license. No immediate action is needed; admins should review and plan attribute usage and governance.</description>
     <category>Message Center</category>
     <category>Microsoft Viva</category>
+  </item>
+  <item>
+    <title>MC1302876: Dynamics 365 Project Operations – Use stocked products in resource-based deployments</title>
+    <link>https://message.cengizyilmaz.net/message/mc1302876-dynamics-365-project-operations-use-stocked-products-in-resourcebased-deployments</link>
+    <guid isPermaLink="true">https://message.cengizyilmaz.net/message/mc1302876-dynamics-365-project-operations-use-stocked-products-in-resourcebased-deployments</guid>
+    <pubDate>Wed, 06 May 2026 21:17:48 GMT</pubDate>
+    <description>We are announcing the ability to manage projects that require inventoried products in Dynamics 365 Project Operations. This feature will reach general availability on June 5, 2026. How does this affect me? With this feature, project managers can view on-hand inventory counts at different sites and warehouse locations and estimate, procure, and manage the usage of inventoried products on their projects. What action do I need to take? This message is for awareness, and no action is required. If yo...</description>
+    <category>Dynamics 365 Apps</category>
+    <category>Message Center</category>
   </item>
 </channel>
 </rss>
