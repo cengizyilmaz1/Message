@@ -14,7 +14,7 @@
     },
     {
       "Name": "FeatureStatusJson",
-      "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-30T22:26:43.8421217Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-30T22:26:43.8421218Z\",\"LatestRing\":null}]}"
+      "Value": "{\"557169\":[{\"RoadmapId\":557169,\"Platform\":\"Desktop\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-31T01:12:04.0777805Z\",\"LatestRing\":null},{\"RoadmapId\":557169,\"Platform\":\"All\",\"Status\":\"Scheduled\",\"LastUpdateTime\":\"2026-05-31T01:12:04.0777806Z\",\"LatestRing\":null}]}"
     },
     {
       "Name": "Summary",
